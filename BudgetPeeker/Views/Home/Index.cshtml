@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="jumbotron text-center">
+    <h1 class="display-3">Welcome to Budget Peeker!</h1>
+    <hr class="my-4">
+    <p class="lead"><b>What is Budget Peeker?</b></p>
+    <p>Budget Peeker is exactly what the name implies - a tool for taking a peek at Sacramento's approved budgets from years
+        2015 to 2018.
+    </p>
+    <p class="lead">
+        @* Gonna add these later *@
+        @* <a class="btn btn-primary btn-lg" asp-controller="Home" asp-action="About" role="button">About the project</a> *@
+        <a class="btn btn-secondary btn-lg" asp-controller="Budget" asp-action="Index" role="button">Budget Data</a>
+        @* <a class="btn btn-info btn-lg" asp-controller="Home" asp-action="Contact" role="button">Contact</a> *@
+    </p>
+</div>

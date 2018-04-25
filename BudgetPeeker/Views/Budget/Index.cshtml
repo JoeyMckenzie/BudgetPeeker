@@ -1,0 +1,53 @@
+﻿@model BudgetPeeker.Models.BudgetViewModel
+
+@{
+    ViewBag.Title = "Budget Data";
+    Layout = "_Layout";
+}
+
+<h2>Budget Data</h2>
+<p>To start, select from any or all of the fields below.</p>
+<hr/>
+
+<form asp-controller="Budget" asp-action="Results" class="form-group" method="post">
+    
+    <div class="form-group">
+        <label asp-for="FiscalYear"></label>
+        <select asp-for="FiscalYear" asp-items="@ViewBag.FiscalYearList" class="custom-select">
+            <option disabled="disabled">Select a fiscal year</option>
+            <option selected="">All fiscal years</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="OperatingUnit"></label>
+        <select asp-for="OperatingUnit" asp-items="@ViewBag.OperatingUnitList" class="custom-select">
+            <option disabled="disabled">Select an operating unit</option>
+            <option selected="">All operating units</option>
+        </select>
+        <br/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AccountCategory"></label>
+        <select asp-for="AccountCategory" asp-items="@ViewBag.AccountCategoryList" class="custom-select">
+            <option disabled="disabled">Select an account category</option>
+            <option selected="">All account categories</option>
+        </select>
+        <br/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DepartmentDivision"></label>
+        <select asp-for="DepartmentDivision" asp-items="@ViewBag.DepartmentDivisionList" class="custom-select">
+            <option disabled="disabled">Select a department division</option>
+            <option selected="">All department divisions</option>
+        </select>
+        <br/>
+    </div>
+
+    <input type="hidden" name="Page" value="1"/>
+    <input type="hidden" name="OrderBudgetBy" value="Default"/>
+
+    <button type="submit" class="btn btn-primary" role="button">Find Budget Data</button>
+</form>

@@ -1,0 +1,234 @@
+SELECT * FROM SacCityBudget.dbo.ApprovedBudget;
+
+-- Operating Unit Group
+SELECT DISTINCT SacCityBudget.dbo.ApprovedBudget.OPER_UNIT_GROUP FROM SacCityBudget.dbo.ApprovedBudget;
+-- Charter Offices
+-- Mayor Offices
+-- Operating Offices
+-- Other Offices
+
+-- Fiscal Year
+SELECT DISTINCT SacCityBudget.dbo.ApprovedBudget.YEAR FROM ApprovedBudget;
+-- FY15
+-- FY16
+-- FY17
+-- FY18
+
+-- Account Categories
+SELECT DISTINCT SacCityBudget.dbo.ApprovedBudget.ACCOUNT_CATEGORY FROM ApprovedBudget;
+-- Interest, Rents, & Concessions
+-- Contributions from Other Funds Accounts
+-- Inventory Supplies
+-- Property Taxes
+-- Fines, Forfeitures, &  Penalties
+-- Assessment Levies
+-- Purchased Property Services
+-- Licenses & Permits
+-- Transfers 1
+-- Operating Transfers Accounts
+-- Energy and Fuel
+-- Miscellaneous Revenue Accounts
+-- Employee Benefits
+-- Purchased Prof and Tech Svcs
+-- Food
+-- Interfund SerProvided
+-- Debt Service Accounts
+-- Intergovernmental Accounts
+-- Service & Supply Adjustments
+-- General Supplies
+-- Interfund Reimbursement
+-- Other Purchased Services
+-- Employer Paid Taxes
+-- Books and Periodicals
+-- Charges, Fees, & Services Accounts
+-- Other Tax
+-- Salaries
+-- Other Objects
+-- Contingency Accounts
+-- Donations
+-- Earnings
+-- Property Accounts
+-- Labor Adjustments
+
+
+SELECT DISTINCT SacCityBudget.dbo.ApprovedBudget.OPERATING_UNIT FROM ApprovedBudget;
+
+SELECT DISTINCT SacCityBudget.dbo.ApprovedBudget.OPERATING_UNIT_DESCRIPTION FROM ApprovedBudget;
+-- Finance
+-- City Clerk
+-- Public Works
+-- Information Technology
+-- Police
+-- Utilities
+-- City Attorney
+-- General Services
+-- City Treasurer
+-- Human Resources
+-- City Manager
+-- Non-Appropriated
+-- Debt Service
+-- Fire
+-- Citywide and Community Support
+-- Economic Development
+-- Community Development
+-- Parks and Recreation
+-- Mayor/Council
+-- Convention and Cultural Services
+
+
+SELECT DISTINCT SacCityBudget.dbo.ApprovedBudget.DEPARTMENT_DIVISION FROM ApprovedBudget;
+-- Office of Emergency Services Division
+-- 2006 CIRBs Series B, D, E Division
+-- City Council District 4
+-- Operations Division
+-- Operational Services Division
+-- Independent Budget Analyst Division
+-- Recycling & Solid Waste Division
+-- Sacramento Zoo Division
+-- 2014 ESC Lease Revenue Bonds Division
+-- Mayor Council Division
+-- Kings/Arco Arena Division
+-- Customer Service Division
+-- Park Planning and Development Division
+-- Fleet Management Division - Public Works
+-- Debt Service-2006 Cirbs Ser B Division
+-- Procurement Division
+-- Office of Emergency Operations Division
+-- Fire Administration Division
+-- Center for Sacramento History Division
+-- Fund Contingency Division
+-- Administrative Services Division
+-- IT Regional Support Division
+-- Parking Services Division
+-- Miscellaneous Division-Debt Service
+-- Convention Center Complex Division
+-- Retired/Transfer Emp Benefit 1530
+-- Community Risk Reduction Division
+-- City Council District 1
+-- HRIS Division
+-- Debt Svc-2002 Cirb 1131 Division
+-- Citywide Development Division
+-- Debt Serv-02 Ref Cop and 91pf 1131 Division
+-- History Division
+-- Business & Integrated Planning Division
+-- Public Safety IT Division
+-- Economic Development Administration Division
+-- Animal Care Services-CDD Division
+-- Kings and Arco Arena 1131 Division
+-- Media & Communications Division
+-- 311 Division
+-- 2015 G1C Lease Revenue Bonds Division
+-- Office of the Chief Division
+-- 2013 Wastewater Revenue Bonds
+-- Major Tax Revenues Division
+-- Office of the Mayor
+-- 2015 Refunding Revenue Bonds
+-- Technology Infrastructure Services Division
+-- Administration Division
+-- Non-Appropriated Division
+-- Urban Forestry Division
+-- Citywide Support Division
+-- 4th R Division
+-- Office of the City Manager Division
+-- HR Administration Division
+-- Park Operations Division
+-- 2013 Debt Service Water Revenues
+-- Office of Public Safety Accountability Division
+-- Mayor-Council Operations Division
+-- Accounting Division
+-- Office of Economic Growth Divsion
+-- Crocker Art Museum Division
+-- Sacramento History  Museum Division
+-- IT Business Management Division
+-- City Council District 5
+-- Facilities & Real Property Mgmt Division
+-- Solid Waste and Recycling Division
+-- County Property Taxes & Charges
+-- Office of the Director
+-- City Manager Division
+-- City Council District 7
+-- Old Sacramento Division
+-- Admin. Services Division
+-- Investigations Division
+-- Community Support Division
+-- Office of the Director Division
+-- Payroll Division
+-- Revenue Division
+-- Enterprise Applications Management Division
+-- Finance Administration Division
+-- Resource Management Division
+-- Downtown Development Division
+-- DOU Systems Support Division
+-- CCS Administration Division
+-- City Council District 8
+-- Public Works Engineering Services Division
+-- City Council District 6
+-- Engineering Services Division - Public Works
+-- Innovation Team Division
+-- Integrated Planning & Business Operations Division
+-- Neighborhood Services Division
+-- Office of Logistical Support Division
+-- Maintenance Services Division
+-- City Council District 2
+-- Benefits Services Division
+-- START Division
+-- Fire Chief Division
+-- Sacramento City 311 Division
+-- Cannabis Policy & Enforcement Division
+-- Office of the Fire Chief Division
+-- Office of the Director - Public Works
+-- Debt Service - 2005 Refunding Division
+-- Risk Management Administration Division
+-- Fairytale Town Division
+-- City Attorney Division
+-- Office of Operations Division
+-- City Treasurer Division
+-- City Council District 3
+-- Labor Relations Division
+-- Office of the City Auditor Division
+-- Support Services Division
+-- State Revoloving Fund Loan Division
+-- Recruitment/Organizational Development Divison
+-- Debt Service-2006 Cirbs Ser D Division
+-- Budget Office Division
+-- Workers' Compensation Division
+-- Powerhouse Science Center Division
+-- City Clerk Division
+-- Planning Division
+-- Office of Specialized Services Division
+-- Office of Administrative Services Division
+-- Operations & Maintenance Division
+-- Public Improvement Finance Division
+-- Recreation Operations Division
+-- Office of the Director - DOU
+-- Office of Media & Communications Division
+-- Facilities & Real Prop Mgmt Division
+-- Transportation Division
+-- 2013 Water Revenue Bonds
+-- Field Services Division
+-- Special Projects Divison
+-- Debt Service-Miscellaneous Division
+-- Animal Care Services Division
+-- Metro Arts Commission Division
+-- Office of Investigations Division
+-- Fleet Management Division
+-- Building Division
+-- Marina Division
+-- Risk Reduction Division
+-- Engineering  & Water Services Division
+-- Human Resources Divsion
+-- Office of Fiscal Services Division
+-- Public Safety Accountability Division
+-- Old City Cemetery Division
+-- Business Services Division
+-- Mayor Council Operations Division
+-- IT 311 Division
+-- Code Enforcement Division
+-- Emergency Operations Division
+-- CA Department of B&W Loan Division
+-- Debt Service-Dbw (Docks) Division
+-- Office of Ethics & Compliance Division
+-- Office of CIO Division
+
+SELECT ApprovedBudget.YEAR FROM ApprovedBudget
+WHERE ApprovedBudget.YEAR LIKE 'FY17';

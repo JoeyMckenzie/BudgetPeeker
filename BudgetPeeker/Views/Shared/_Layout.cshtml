@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Budget Peeker</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-minty.css" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+        @* <link rel="stylesheet" href="https://bootswatch.com/4/minty/bootstrap.min.css" /> *@
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://bootswatch.com/4/minty/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap-minty.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+    
+    @* Google Fonts *@
+    <link href="https://fonts.googleapis.com/css?family=Black+Han+Sans" rel="stylesheet">
+    
+</head>
+<body>
+    <nav class="navbar navbar-expand-md fixed-top navbar-dark bg-primary">
+        <div class="container">
+            <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Budget Peeker</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a href="https://linkedin.com/in/JoeyMckenzie" target="_blank" class="nav-link"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    </li>  
+                    <li class="nav-item">
+                        <a href="https://github.com/joey32793" target="_blank" class="nav-link"><i class="fab fa-github"></i> GitHub</a>
+                    </li>   
+                    <li class="nav-item">
+                        <a href="https://joey32793.github.io" target="_blank" class="nav-link"><i class="fas fa-code"></i> Portfolio</a>
+                    </li>         
+                    <li class="nav-item">
+                        <a asp-area="" asp-controller="Budget" asp-action="Index" class="nav-link"><i class="fas fa-money-bill-alt"></i> Budget Data</a>
+                    </li>
+                </ul>
+            </div>
+        </div>   
+    </nav>
+<br/>
+
+    <partial name="_CookieConsentPartial" />
+
+<div class="container body-content">
+    @RenderBody()
+    <hr/>
+    <footer>
+        <p>&copy; 2018 - Budget Peeker</p>
+    </footer>
+</div>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery-3.3.1.js"></script>
+        <script src="~/lib/bootstrap/dist/js/popper.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap4.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @* <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> *@
+        @* <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script> *@
+        @* <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> *@
+    </environment>
+<environment exclude="Development">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            asp-fallback-src="~/lib/jquery/dist/jquery-3.3.1.min.js"
+            asp-fallback-test="window.jQuery"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" 
+            crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" 
+            asp-fallback-src="~/lib/bootstrap/dist/js/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" 
+            crossorigin="anonymous">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" 
+            asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap4.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" 
+            crossorigin="anonymous">
+    </script> 
+    <script src="~/js/site.min.js" asp-append-version="true"></script>
+    @*         <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js" *@
+    @*                 asp-fallback-src="~/lib/jquery/dist/jquery.min.js" *@
+    @*                 asp-fallback-test="window.jQuery" *@
+    @*                 crossorigin="anonymous" *@
+    @*                 integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk"> *@
+    @*         </script> *@
+    @*         <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js" *@
+    @*                 asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js" *@
+    @*                 asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal" *@
+    @*                 crossorigin="anonymous" *@
+    @*                 integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"> *@
+    @*         </script> *@
+</environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

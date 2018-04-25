@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c280e5aa-6d98-445a-847f-dbd6d11579d6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Budget Peeker" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Budget Peeker" type="feb32156:DbDataSourceImpl" />
+        <item name="SacCityBudget: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Budget Peeker" type="feb32156:DbDataSourceImpl" />
+        <item name="SacCityBudget: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BudgetPeeker.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BudgetPeeker.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="BudgetPeeker.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BudgetController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <marker date="1524517174052" expanded="true" signature="6:513" ph="..." />
+                <marker date="1524517174052" expanded="true" signature="598:7018" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="670:725" ph="/* Limit page results to 50 records per page ... */" />
+                <marker date="1524517174052" expanded="true" signature="832:884" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="922:2780" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="945:1126" ph="/* Get dropdown models from distinct categories in ... */" />
+                <marker date="1524517174052" expanded="true" signature="2619:2730" ph="/* Pass dropdown queue options to ViewBag ... */" />
+                <marker date="1524517174052" expanded="true" signature="2958:7012" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="3124:3163" ph="/* Update order selector ... */" />
+                <marker date="1524517174052" expanded="true" signature="3702:3757" ph="/* Grab model from approved budget table ... */" />
+                <marker date="1524517174052" expanded="true" signature="3834:3894" ph="/* Filter query based on user selected fields ... */" />
+                <marker date="1524517174052" expanded="true" signature="4666:4726" ph="/* Get results based on user order selection ... */" />
+                <marker date="1524517174052" expanded="true" signature="4785:4838" ph="/* Alter order based on user selection ... */" />
+                <marker date="1524517174052" expanded="true" signature="4889:5198" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="5226:5284" ph="/* Page results if greater than 100 records ... */" />
+                <marker date="1524517174052" expanded="true" signature="5366:5502" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="5529:5614" ph="/* Get return results count and number of pages, initialize query list ... */" />
+                <marker date="1524517174052" expanded="true" signature="5754:5809" ph="/* Integer overflow if all data selected ... */" />
+                <marker date="1524517174052" expanded="true" signature="6002:6046" ph="/* Instantiate return results ... */" />
+                <marker date="1524517174052" expanded="true" signature="6113:6743" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="6233:6643" ph="{...}" />
+                <marker date="1524517174052" expanded="true" signature="6758:6817" ph="/* Add budget sum if not looking at all data ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+              <folding>
+                <marker date="1524526735286" expanded="false" signature="6:84" ph="..." />
+                <marker date="1524526735286" expanded="true" signature="120:880" ph="{...}" />
+                <marker date="1524526735286" expanded="true" signature="167:878" ph="{...}" />
+                <marker date="1524526735286" expanded="true" signature="210:257" ph="{...}" />
+                <marker date="1524526735286" expanded="true" signature="267:610" ph="/* Will add these a little later, my eyes hurt ... */" />
+                <marker date="1524526735286" expanded="true" signature="741:872" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BudgetResultsViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1524515966255" expanded="false" signature="6:97" ph="..." />
+                <marker date="1524515966255" expanded="true" signature="170:710" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <marker date="1524619214911" expanded="true" signature="6:63" ph="..." />
+                <marker date="1524619214911" expanded="true" signature="114:412" ph="{...}" />
+                <marker date="1524619214911" expanded="true" signature="167:241" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <marker date="1524526682783" expanded="true" signature="0:36" ph="@..." />
+                <marker date="1524526682783" expanded="true" signature="211:362" ph="&lt;p.../&gt;" />
+                <marker date="1524526682783" expanded="true" signature="367:784" ph="&lt;p.../&gt;" />
+                <marker date="1524526682783" expanded="true" signature="392:544" ph="@*...*@" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Console.WriteLine($&quot;recordsPerPage: {recordsPerPage}&quot;);</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BudgetPeeker" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/BudgetPeekerDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/ApprovedBudget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Results.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Shared/_CookieConsentPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="c25d22e0-3d95-4a6c-a0cc-a2d8e70d124b/database/SacCityBudget/schema/dbo/table/ApprovedBudget.sql" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/ApprovedBudget.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/SacCityBudgetContext.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Persistence/SacCityBudgetContext.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Persistence/BudgetPeekerDbContext.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/FiscalYearViewModel.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Persistence/Scratch.sql" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/BudgetDropdowns.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/BudgetDropdownViewModel.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Mapping/MappingProfile.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Persistence/IBudgetPeekerRepository.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Persistence/BudgetPeekerRepository.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Persistence/PaginatedList.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/PageQueryViewModel.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/BudgetResults.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/BudgetViewModel.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Views/Budget/Index.cshtml" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Views/Budget/AllData.cshtml" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Models/ApprovedBudget.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Views/Budget/Results.cshtml" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Views/Home/About.cshtml" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Views/Shared/_CookieConsentPartial.cshtml" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Program.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Startup.cs" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetPeeker (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BudgetPeeker (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BudgetPeeker" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BudgetPeeker/bin/Debug/netcoreapp2.1/BudgetPeeker.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BudgetPeeker" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c280e5aa-6d98-445a-847f-dbd6d11579d6" name="Default" comment="" />
+      <created>1524170944369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524170944369</updated>
+      <workItem from="1524170945808" duration="44863000" />
+      <workItem from="1524444578250" duration="24770000" />
+      <workItem from="1524622198226" duration="482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70115000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="0" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="NuGet" order="8" weight="0.32941177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26009694" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32941177" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="15" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <marker date="1524517174052" expanded="true" signature="6:513" ph="..." />
+            <marker date="1524517174052" expanded="true" signature="598:7018" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="670:725" ph="/* Limit page results to 50 records per page ... */" />
+            <marker date="1524517174052" expanded="true" signature="832:884" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="922:2780" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="945:1126" ph="/* Get dropdown models from distinct categories in ... */" />
+            <marker date="1524517174052" expanded="true" signature="2619:2730" ph="/* Pass dropdown queue options to ViewBag ... */" />
+            <marker date="1524517174052" expanded="true" signature="2958:7012" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="3124:3163" ph="/* Update order selector ... */" />
+            <marker date="1524517174052" expanded="true" signature="3702:3757" ph="/* Grab model from approved budget table ... */" />
+            <marker date="1524517174052" expanded="true" signature="3834:3894" ph="/* Filter query based on user selected fields ... */" />
+            <marker date="1524517174052" expanded="true" signature="4666:4726" ph="/* Get results based on user order selection ... */" />
+            <marker date="1524517174052" expanded="true" signature="4785:4838" ph="/* Alter order based on user selection ... */" />
+            <marker date="1524517174052" expanded="true" signature="4889:5198" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="5226:5284" ph="/* Page results if greater than 100 records ... */" />
+            <marker date="1524517174052" expanded="true" signature="5366:5502" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="5529:5614" ph="/* Get return results count and number of pages, initialize query list ... */" />
+            <marker date="1524517174052" expanded="true" signature="5754:5809" ph="/* Integer overflow if all data selected ... */" />
+            <marker date="1524517174052" expanded="true" signature="6002:6046" ph="/* Instantiate return results ... */" />
+            <marker date="1524517174052" expanded="true" signature="6113:6743" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="6233:6643" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="6758:6817" ph="/* Add budget sum if not looking at all data ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <marker date="1524526735286" expanded="false" signature="6:84" ph="..." />
+            <marker date="1524526735286" expanded="true" signature="120:880" ph="{...}" />
+            <marker date="1524526735286" expanded="true" signature="167:878" ph="{...}" />
+            <marker date="1524526735286" expanded="true" signature="210:257" ph="{...}" />
+            <marker date="1524526735286" expanded="true" signature="267:610" ph="/* Will add these a little later, my eyes hurt ... */" />
+            <marker date="1524526735286" expanded="true" signature="741:872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Shared/_CookieConsentPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1524515966255" expanded="false" signature="6:97" ph="..." />
+            <marker date="1524515966255" expanded="true" signature="170:710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1524619214911" expanded="true" signature="6:63" ph="..." />
+            <marker date="1524619214911" expanded="true" signature="114:412" ph="{...}" />
+            <marker date="1524619214911" expanded="true" signature="167:241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1524526682783" expanded="true" signature="0:36" ph="@..." />
+            <marker date="1524526682783" expanded="true" signature="211:362" ph="&lt;p.../&gt;" />
+            <marker date="1524526682783" expanded="true" signature="367:784" ph="&lt;p.../&gt;" />
+            <marker date="1524526682783" expanded="true" signature="392:544" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <marker date="1524619729444" expanded="true" signature="6:375" ph="..." />
+            <marker date="1524619729444" expanded="true" signature="426:2745" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="485:548" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="1012:1874" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="1494:1771" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2092:2739" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2204:2281" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2298:2413" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2556:2727" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="13" lean-forward="true" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+          <folding>
+            <marker date="1524517174052" expanded="true" signature="6:513" ph="..." />
+            <marker date="1524517174052" expanded="true" signature="598:7018" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="670:725" ph="/* Limit page results to 50 records per page ... */" />
+            <marker date="1524517174052" expanded="true" signature="832:884" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="922:2780" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="945:1126" ph="/* Get dropdown models from distinct categories in ... */" />
+            <marker date="1524517174052" expanded="true" signature="2619:2730" ph="/* Pass dropdown queue options to ViewBag ... */" />
+            <marker date="1524517174052" expanded="true" signature="2958:7012" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="3124:3163" ph="/* Update order selector ... */" />
+            <marker date="1524517174052" expanded="true" signature="3702:3757" ph="/* Grab model from approved budget table ... */" />
+            <marker date="1524517174052" expanded="true" signature="3834:3894" ph="/* Filter query based on user selected fields ... */" />
+            <marker date="1524517174052" expanded="true" signature="4666:4726" ph="/* Get results based on user order selection ... */" />
+            <marker date="1524517174052" expanded="true" signature="4785:4838" ph="/* Alter order based on user selection ... */" />
+            <marker date="1524517174052" expanded="true" signature="4889:5198" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="5226:5284" ph="/* Page results if greater than 100 records ... */" />
+            <marker date="1524517174052" expanded="true" signature="5366:5502" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="5529:5614" ph="/* Get return results count and number of pages, initialize query list ... */" />
+            <marker date="1524517174052" expanded="true" signature="5754:5809" ph="/* Integer overflow if all data selected ... */" />
+            <marker date="1524517174052" expanded="true" signature="6002:6046" ph="/* Instantiate return results ... */" />
+            <marker date="1524517174052" expanded="true" signature="6113:6743" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="6233:6643" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="6758:6817" ph="/* Add budget sum if not looking at all data ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <marker date="1524515966255" expanded="false" signature="6:97" ph="..." />
+            <marker date="1524515966255" expanded="true" signature="170:710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <marker date="1524619729444" expanded="true" signature="6:375" ph="..." />
+            <marker date="1524619729444" expanded="true" signature="426:2745" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="485:548" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="1012:1874" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="1494:1771" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2092:2739" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2204:2281" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2298:2413" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2556:2727" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Results.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c25d22e0-3d95-4a6c-a0cc-a2d8e70d124b/database/SacCityBudget/schema/dbo/table/ApprovedBudget.sql" />
+    <entry file="das://c25d22e0-3d95-4a6c-a0cc-a2d8e70d124b/database/SacCityBudget/schema/dbo/table/ApprovedBudget" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/BudgetPeekerDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/BudgetPeekerDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="11" selection-start-line="16" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/FiscalYearViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/Scratch.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="233" column="36" selection-start-line="233" selection-start-column="36" selection-end-line="233" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetDropdownViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/IBudgetPeekerRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/BudgetPeekerRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/PaginatedList.cs" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Mapping/MappingProfile.cs" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="45" column="137" selection-start-line="45" selection-start-column="137" selection-end-line="45" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/AllData.cshtml" />
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/ApprovedBudget.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Results.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/PageQueryViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <marker date="1524517174052" expanded="true" signature="6:513" ph="..." />
+            <marker date="1524517174052" expanded="true" signature="598:7018" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="670:725" ph="/* Limit page results to 50 records per page ... */" />
+            <marker date="1524517174052" expanded="true" signature="832:884" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="922:2780" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="945:1126" ph="/* Get dropdown models from distinct categories in ... */" />
+            <marker date="1524517174052" expanded="true" signature="2619:2730" ph="/* Pass dropdown queue options to ViewBag ... */" />
+            <marker date="1524517174052" expanded="true" signature="2958:7012" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="3124:3163" ph="/* Update order selector ... */" />
+            <marker date="1524517174052" expanded="true" signature="3702:3757" ph="/* Grab model from approved budget table ... */" />
+            <marker date="1524517174052" expanded="true" signature="3834:3894" ph="/* Filter query based on user selected fields ... */" />
+            <marker date="1524517174052" expanded="true" signature="4666:4726" ph="/* Get results based on user order selection ... */" />
+            <marker date="1524517174052" expanded="true" signature="4785:4838" ph="/* Alter order based on user selection ... */" />
+            <marker date="1524517174052" expanded="true" signature="4889:5198" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="5226:5284" ph="/* Page results if greater than 100 records ... */" />
+            <marker date="1524517174052" expanded="true" signature="5366:5502" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="5529:5614" ph="/* Get return results count and number of pages, initialize query list ... */" />
+            <marker date="1524517174052" expanded="true" signature="5754:5809" ph="/* Integer overflow if all data selected ... */" />
+            <marker date="1524517174052" expanded="true" signature="6002:6046" ph="/* Instantiate return results ... */" />
+            <marker date="1524517174052" expanded="true" signature="6113:6743" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="6233:6643" ph="{...}" />
+            <marker date="1524517174052" expanded="true" signature="6758:6817" ph="/* Add budget sum if not looking at all data ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1524526682783" expanded="true" signature="0:36" ph="@..." />
+            <marker date="1524526682783" expanded="true" signature="211:362" ph="&lt;p.../&gt;" />
+            <marker date="1524526682783" expanded="true" signature="367:784" ph="&lt;p.../&gt;" />
+            <marker date="1524526682783" expanded="true" signature="392:544" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Views/Shared/_CookieConsentPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1524515966255" expanded="false" signature="6:97" ph="..." />
+            <marker date="1524515966255" expanded="true" signature="170:710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1524619214911" expanded="true" signature="6:63" ph="..." />
+            <marker date="1524619214911" expanded="true" signature="114:412" ph="{...}" />
+            <marker date="1524619214911" expanded="true" signature="167:241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <marker date="1524619729444" expanded="true" signature="6:375" ph="..." />
+            <marker date="1524619729444" expanded="true" signature="426:2745" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="485:548" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="1012:1874" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="1494:1771" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2092:2739" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2204:2281" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2298:2413" ph="{...}" />
+            <marker date="1524619729444" expanded="true" signature="2556:2727" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <marker date="1524526735286" expanded="false" signature="6:84" ph="..." />
+            <marker date="1524526735286" expanded="true" signature="120:880" ph="{...}" />
+            <marker date="1524526735286" expanded="true" signature="167:878" ph="{...}" />
+            <marker date="1524526735286" expanded="true" signature="210:257" ph="{...}" />
+            <marker date="1524526735286" expanded="true" signature="267:610" ph="/* Will add these a little later, my eyes hurt ... */" />
+            <marker date="1524526735286" expanded="true" signature="741:872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
