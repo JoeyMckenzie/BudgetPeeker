@@ -150,7 +150,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="global.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="global.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BudgetPeeker/global.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -183,11 +183,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="launchSettings.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="launchSettings.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="300">
+              <caret line="20" column="109" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
             </state>
           </provider>
         </entry>
@@ -252,11 +252,11 @@
         <option value="$PROJECT_DIR$/BudgetPeeker/Views/Shared/_CookieConsentPartial.cshtml" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Program.cs" />
         <option value="$PROJECT_DIR$/BudgetPeeker/appsettings.json" />
-        <option value="$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Startup.cs" />
         <option value="$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj" />
         <option value="$PROJECT_DIR$/BudgetPeeker/global.json" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json" />
       </list>
     </option>
   </component>
@@ -349,12 +349,12 @@
       <workItem from="1524170945808" duration="44863000" />
       <workItem from="1524444578250" duration="24770000" />
       <workItem from="1524622198226" duration="5456000" />
-      <workItem from="1524628389591" duration="263000" />
+      <workItem from="1524628389591" duration="906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75352000" />
+    <option name="totallyTimeSpent" value="75995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -765,13 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -847,6 +840,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="109" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
         </state>
       </provider>
     </entry>
