@@ -12,7 +12,6 @@ namespace BudgetPeeker
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseUrls("https://budgetpeeker.azurewebsites.net")
                 .UseStartup<Startup>();
     }
 }

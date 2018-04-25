@@ -115,10 +115,11 @@
       <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="60">
               <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding>
-                <marker date="1524627009146" expanded="true" signature="6:375" ph="..." />
+                <marker date="1524627009146" expanded="false" signature="6:375" ph="..." />
+                <marker date="1524627009146" expanded="true" signature="399:2747" ph="{...}" />
                 <marker date="1524627009146" expanded="true" signature="426:2745" ph="{...}" />
                 <marker date="1524627009146" expanded="true" signature="485:548" ph="{...}" />
                 <marker date="1524627009146" expanded="true" signature="1012:1874" ph="{...}" />
@@ -132,11 +133,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <marker date="1524633710133" expanded="false" signature="6:63" ph="..." />
+                <marker date="1524633710133" expanded="true" signature="87:481" ph="{...}" />
+                <marker date="1524633710133" expanded="true" signature="114:479" ph="{...}" />
+                <marker date="1524633710133" expanded="true" signature="167:241" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,8 +151,8 @@
       <file leaf-file-name="BudgetPeeker.csproj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="75">
+              <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -183,7 +190,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="launchSettings.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="launchSettings.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -203,22 +210,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Persistence/BudgetPeekerDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/ApprovedBudget.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Results.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Shared/_CookieConsentPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Budget/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BudgetPeeker/Models/BudgetResultsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -250,13 +256,13 @@
         <option value="$PROJECT_DIR$/BudgetPeeker/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Views/Shared/_CookieConsentPartial.cshtml" />
-        <option value="$PROJECT_DIR$/BudgetPeeker/Program.cs" />
         <option value="$PROJECT_DIR$/BudgetPeeker/appsettings.json" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Startup.cs" />
-        <option value="$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj" />
         <option value="$PROJECT_DIR$/BudgetPeeker/global.json" />
         <option value="$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj" />
+        <option value="$PROJECT_DIR$/BudgetPeeker/Program.cs" />
       </list>
     </option>
   </component>
@@ -349,12 +355,12 @@
       <workItem from="1524170945808" duration="44863000" />
       <workItem from="1524444578250" duration="24770000" />
       <workItem from="1524622198226" duration="5456000" />
-      <workItem from="1524628389591" duration="906000" />
+      <workItem from="1524628389591" duration="1485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75995000" />
+    <option name="totallyTimeSpent" value="76574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,7 +552,8 @@
         <state relative-caret-position="510">
           <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding>
-            <marker date="1524627009146" expanded="true" signature="6:375" ph="..." />
+            <marker date="1524627009146" expanded="false" signature="6:375" ph="..." />
+            <marker date="1524627009146" expanded="true" signature="399:2747" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="426:2745" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="485:548" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="1012:1874" ph="{...}" />
@@ -614,7 +621,8 @@
         <state relative-caret-position="495">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
-            <marker date="1524627009146" expanded="true" signature="6:375" ph="..." />
+            <marker date="1524627009146" expanded="false" signature="6:375" ph="..." />
+            <marker date="1524627009146" expanded="true" signature="399:2747" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="426:2745" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="485:548" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="1012:1874" ph="{...}" />
@@ -765,13 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BudgetPeeker/Controllers/BudgetController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -804,12 +805,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="109" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/global.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BudgetPeeker/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="60">
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
-            <marker date="1524627009146" expanded="true" signature="6:375" ph="..." />
+            <marker date="1524627009146" expanded="false" signature="6:375" ph="..." />
+            <marker date="1524627009146" expanded="true" signature="399:2747" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="426:2745" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="485:548" ph="{...}" />
             <marker date="1524627009146" expanded="true" signature="1012:1874" ph="{...}" />
@@ -822,31 +852,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BudgetPeeker/BudgetPeeker.csproj">
+    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BudgetPeeker/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BudgetPeeker/global.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BudgetPeeker/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="109" selection-start-line="20" selection-start-column="109" selection-end-line="20" selection-end-column="109" />
+        <state relative-caret-position="210">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <marker date="1524633710133" expanded="false" signature="6:63" ph="..." />
+            <marker date="1524633710133" expanded="true" signature="87:481" ph="{...}" />
+            <marker date="1524633710133" expanded="true" signature="114:479" ph="{...}" />
+            <marker date="1524633710133" expanded="true" signature="167:241" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
