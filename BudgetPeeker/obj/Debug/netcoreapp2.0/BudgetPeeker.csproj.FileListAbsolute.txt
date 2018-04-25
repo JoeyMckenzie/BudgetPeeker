@@ -1,0 +1,3 @@
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.0/BudgetPeeker.csproj.CoreCompileInputs.cache
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.0/BudgetPeeker.AssemblyInfoInputs.cache
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.0/BudgetPeeker.AssemblyInfo.cs

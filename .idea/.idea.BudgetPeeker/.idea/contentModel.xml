@@ -12,6 +12,7 @@
           <e p="BudgetController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
         </e>
+        <e p="global.json" t="Include" />
         <e p="Models" t="Include">
           <e p="ApprovedBudget.cs" t="Include" />
           <e p="BudgetResultsViewModel.cs" t="Include" />
