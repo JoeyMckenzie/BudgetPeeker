@@ -28,21 +28,25 @@
       "dependencies": {
         "Microsoft.AspNetCore.App": {
           "target": "Package",
-          "version": "[2.1.0-preview1-final, )"
+          "version": "[2.1.0-preview2-final, )"
         },
         "Microsoft.EntityFrameworkCore.Sqlite": {
           "target": "Package",
-          "version": "[2.1.0-preview1-final, )"
+          "version": "[2.1.0-preview2-final, )"
         },
         "Microsoft.Extensions.Logging": {
           "target": "Package",
-          "version": "[2.1.0-preview1-final, )"
+          "version": "[2.1.0-preview2-final, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.1.0-preview2-26406-04, )",
           "autoReferenced": true
+        },
+        "ServiceStack.Text.Core": {
+          "target": "Package",
+          "version": "[5.1.0, )"
         }
       },
       "imports": [

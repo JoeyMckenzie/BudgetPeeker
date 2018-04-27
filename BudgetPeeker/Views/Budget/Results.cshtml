@@ -5,59 +5,237 @@
     ViewBag.Title = "Results";
     Layout = "_Layout";
     bool negativeBudget = (Model.TotalBudget != null && Model.TotalBudget.ToString()[0] == '-');
+
+    var includeFiscalYear = Model.InputSelectors.FiscalYear.Split(" ")[0];
+    var includeAccountCategory = Model.InputSelectors.AccountCategory.Split(" ")[0];
+    var includeOperatingUnit = Model.InputSelectors.OperatingUnit.Split(" ")[0];
+    var includeDepartmentDivision = Model.InputSelectors.DepartmentDivision.Split(" ")[0];
+
+    var selectedFiscalYear = Model.InputSelectors.FiscalYear;
+    var selectedAccountCategory = Model.InputSelectors.AccountCategory;
+    var selectedOperatingUnit = Model.InputSelectors.OperatingUnit;
+    var selectedDepartmentDivision = Model.InputSelectors.DepartmentDivision;
+
+    var filteredFiscalYearDropdown = new SelectList(Model.FilteredBudgetLists.FilteredFiscalYearList);
+    var filteredAccountCategoryDropdown = new SelectList(Model.FilteredBudgetLists.FilteredAccountCategoryList);
+    var filteredDepartmentDivisionDropdown = new SelectList(Model.FilteredBudgetLists.FilteredDepartmentDivisionList);
+    var filteredOperatingUnitDropdown = new SelectList(Model.FilteredBudgetLists.FilteredOperatingUnitList);
+
+    var initialFiscalYear = Model.FilteredBudgetLists.FilteredFiscalYearList[0];
+    var initialAccountCategory = Model.FilteredBudgetLists.FilteredAccountCategoryList[0];
+    var initialDepartmentDivision = Model.FilteredBudgetLists.FilteredDepartmentDivisionList[0];
+    var initialOperatingUnit = Model.FilteredBudgetLists.FilteredOperatingUnitList[0];
 }
 
-<div class="container">
-    <h2>Results</h2>
-    <hr/>
-    <p><strong>Fiscal Year:</strong> @Model.InputSelectors.FiscalYear</p>
-    <p><strong>Department Division:</strong> @Model.InputSelectors.DepartmentDivision</p>
-    <p><strong>Account Category:</strong> @Model.InputSelectors.AccountCategory</p>
-    <p><strong>Operating Unit:</strong> @Model.InputSelectors.OperatingUnit</p>
-    @if (Model.TotalBudget != null && Model.TotalBudget != 0)
-    {
-        if (negativeBudget)
+<div class="row">
+    <div class="container col-lg-6">
+        <h2>Results</h2>
+        <hr/>
+        <p><strong>Fiscal Year:</strong> @(Model.FilteredBudgetLists.FilteredFiscalYearList.Count == 1 ? initialFiscalYear : (includeFiscalYear == "Select" || includeFiscalYear == "All" ? "No fiscal year selected" : ""))</p>
+        <p><strong>Department Division:</strong> @(Model.FilteredBudgetLists.FilteredDepartmentDivisionList.Count == 1 ? initialDepartmentDivision : (includeDepartmentDivision == "Select" || includeDepartmentDivision == "All" ? "No department division selected" : ""))</p>
+        <p><strong>Account Category:</strong> @(Model.FilteredBudgetLists.FilteredAccountCategoryList.Count == 1 ? initialAccountCategory : (includeAccountCategory == "Select" || includeAccountCategory == "All" ? "No account category selected" : ""))</p>
+        <p><strong>Operating Unit:</strong> @(Model.FilteredBudgetLists.FilteredOperatingUnitList.Count == 1 ? initialOperatingUnit : (includeOperatingUnit == "Select" || includeOperatingUnit == "All" ? "No operating unit selected" : ""))</p>
+        @if (Model.TotalBudget != null)
         {
-            <p><strong>Total Budget:</strong> @string.Format("$({0:n0})", Model.TotalBudget)</p> 
+            if (negativeBudget)
+            {
+                <p><strong>Total Budget:</strong> @string.Format("$({0:n0})", Model.TotalBudget)</p> 
+            }
+            else
+            {
+                <p><strong>Total Budget:</strong> @string.Format("${0:n0}", Model.TotalBudget)</p> 
+            }
         }
-        else
-        {
-            <p><strong>Total Budget:</strong> @string.Format("${0:n0}", Model.TotalBudget)</p> 
-        }
-    }
-    <p><strong>Number of Pages:</strong> @Model.NumberOfPages</p>
+        <p><strong>Number of Pages:</strong> @Model.NumberOfPages</p>
+    
+        <form method="get" asp-controller="Budget" asp-action="Results">
+            <div class="form-group form-inline">
+                <label style="padding-right: 10px;"><strong>Go to Page:</strong></label>
+                <select onchange="this.form.submit()" asp-for="Page" class="custom-select">
+                    @for (int pageNumber = 1; pageNumber <= Model.NumberOfPages; pageNumber++)
+                    {
+                        <option value="@pageNumber">@pageNumber</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group form-inline">
+                <label style="padding-right: 10px;" asp-for="OrderBudgetBy"><strong>Order Budget by: </strong></label>
+                <select onchange="this.form.submit()" asp-for="OrderBudgetBy" asp-items="@ViewBag.OrderBudgetByList" class="custom-select">
+                    <option disabled="disabled">Sort budget by</option>
+                </select>
+            </div>
+    
+            <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
+            <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
+            <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
+            <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
+        </form>
+        <p><strong>Number of results:</strong> @string.Format("{0:n0}", Model.ResultsCount)</p> 
 
-    <form asp-controller="Budget" asp-action="Results">
-        <div class="form-group form-inline">
-            <label style="padding-right: 10px;"><strong>Go to Page:</strong></label>
-            <select onchange="this.form.submit()" asp-for="Page" class="custom-select">
-                <option disabled="disabled" selected="">Go to page: </option>
-                @for (int pageNumber = 1; pageNumber <= Model.NumberOfPages; pageNumber++)
+    </div>
+    
+    <div class="container col-lg-6">
+        <h2>Filter Fields</h2>
+        <hr/>
+        
+        @* Filter Fiscal Year *@
+        <form method="get" asp-controller="Budget" asp-action="Results">
+
+            <div class="form-group form-inline">
+                @if (Model.FilteredBudgetLists.FilteredFiscalYearList.Count() == 1)
                 {
-                    <option value="@pageNumber">@pageNumber</option>
+                    <label style="padding-right: 10px;">
+                        <p>
+                            <strong>Fiscal Year: </strong>@initialFiscalYear</p>
+                    </label>
                 }
-            </select>
-        </div>
-        <div class="form-group form-inline">
-            <label style="padding-right: 10px;" asp-for="OrderBudgetBy"><strong>Order Budget by: </strong></label>
-            <select onchange="this.form.submit()" asp-for="OrderBudgetBy" asp-items="@ViewBag.OrderBudgetByList" class="custom-select">
-                <option disabled="disabled">Sort budget by</option>
-            </select>
-        </div>
+                else
+                {
+                    <label asp-for="InputSelectors.FiscalYear" style="padding-right: 10px;">
+                        <strong>Fiscal Year: </strong>
+                    </label>
+                    <select name="FiscalYear" onchange="this.form.submit()"  asp-items="@filteredFiscalYearDropdown" class="custom-select">
+                        <option disabled selected>Filter by fiscal year</option>
+                    </select>
+                }
+            </div>
+            
+            <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
+            <input type="hidden" name="AccountCategory" value="@selectedAccountCategory"/>
+            <input type="hidden" name="DepartmentDivision" value="@selectedDepartmentDivision"/>
+            <input type="hidden" name="OperatingUnit" value="@selectedOperatingUnit"/>
+            <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
+            <input type="hidden" name="Page" value="1"/>
+        </form>
+                
 
-        <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
-        <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
-        <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
-        <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
 
-    </form>
-    <p><strong>Number of results:</strong> @string.Format("{0:n0}", Model.ResultsCount)</p> 
-    <div class="form-group">
-        <a class="btn btn-primary" asp-controller="Budget" asp-action="Index" role="button">Select Different Fields</a>
+            
+        @* Department Division *@
+        <form method="get" asp-controller="Budget" asp-action="Results">
+            <div class="form-group form-inline">
+                @if (Model.FilteredBudgetLists.FilteredDepartmentDivisionList.Count() == 1)
+                {
+                    <label style="padding-right: 10px;">
+                        <p><strong>Department Division: </strong>@initialDepartmentDivision</p>
+                    </label>
+                }
+                else
+                {
+                    <label style="padding-right: 10px;">
+                        <strong>Department Division: </strong>
+                    </label>
+                    <select name="DepartmentDivision" onchange="this.form.submit()" asp-items="@filteredDepartmentDivisionDropdown" class="custom-select">                       
+                        <option disabled selected>Filter by department division</option>
+                    </select>
+                }
+            </div>
+            
+            <input type="hidden" name="FiscalYear" value="@selectedFiscalYear"/>
+            <input type="hidden" name="AccountCategory" value="@selectedAccountCategory"/>
+            <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
+            <input type="hidden" name="OperatingUnit" value="@selectedOperatingUnit"/>
+            <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
+            <input type="hidden" name="Page" value="1"/>
+        </form>
+
+            
+        @* Account Category *@
+        <form method="get" asp-controller="Budget" asp-action="Results">
+            <div class="form-group form-inline">
+                @if (Model.FilteredBudgetLists.FilteredAccountCategoryList.Count() == 1)
+                {
+                    <label style="padding-right: 10px;">
+                        <p><strong>Account Category: </strong>@initialAccountCategory</p>
+                    </label>
+                }
+                else
+                {
+                    <label style="padding-right: 10px;">
+                        <strong>Account Category: </strong>
+                    </label>
+                    <select name="AccountCategory" onchange="this.form.submit()" asp-items="@filteredAccountCategoryDropdown" class="custom-select">
+                        <option disabled selected>Filter by account category</option>
+                    </select>
+                }
+            </div>   
+            
+            <input type="hidden" name="FiscalYear" value="@selectedFiscalYear"/>
+            <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
+            <input type="hidden" name="DepartmentDivision" value="@selectedDepartmentDivision"/>
+            <input type="hidden" name="OperatingUnit" value="@selectedOperatingUnit"/>
+            <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
+            <input type="hidden" name="Page" value="1"/>
+        </form>
+
+        @* Operating Unit *@
+        <form method="get" asp-controller="Budget" asp-action="Results">
+            <div class="form-group form-inline">
+                @if (Model.FilteredBudgetLists.FilteredOperatingUnitList.Count() == 1)
+                {
+                    <label style="padding-right: 10px;">
+                        <p><strong>Operating Unit: </strong>@initialOperatingUnit</p>
+                    </label>
+                }
+                else
+                {
+                    <label style="padding-right: 10px;">
+                        <strong>Operating Unit: </strong>
+                    </label>
+                    <select name="OperatingUnit" onchange="this.form.submit()" asp-items="@filteredOperatingUnitDropdown" class="custom-select">
+                        <option disabled selected>Filter by operating unit</option>
+                    </select>
+                }
+            </div>
+            
+            <input type="hidden" name="FiscalYear" value="@selectedFiscalYear"/>
+            <input type="hidden" name="AccountCategory" value="@selectedAccountCategory"/>
+            <input type="hidden" name="DepartmentDivision" value="@selectedDepartmentDivision"/>
+            <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
+            <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
+            <input type="hidden" name="Page" value="1"/>
+        </form>
+
+            
+        <div class="form-group">
+            <a class="btn btn-primary" asp-controller="Budget" asp-action="Index" role="button">Select Different Fields</a>
+        </div>
+        
+        @* Get previous query *@
+        <div class="form-group">
+            <a class="btn btn-secondary" href="javascript:history.go(-1)">Previous Results</a>
+        </div>
+        
+        @* Work in progress *@
+@*         <div class="form-group"> *@
+@*             <a class="btn btn-info" asp-controller="Budget" asp-action="ExportToCsv" asp-route-data="@Model.QueryResults">Export to CSV</a> *@
+@*         </div> *@
     </div>
 </div>
 
+<hr/>
 
+<form method="get" asp-controller="Budget" asp-action="Results" class="form-group text-center">
+    @{
+        var topPreviousPage = Model.InputSelectors.Page - 1;
+        var topNextPage = Model.InputSelectors.Page + 1;
+        
+    }
+    @* Page next/back *@
+    <p><strong>Current page: </strong>@(Model.InputSelectors.Page == 0 ? 1 : Model.InputSelectors.Page)</p>
+
+    @if (Model.NumberOfPages > 1)
+    {
+        <button name="Page" type="submit" class="btn btn-primary" value="@(topPreviousPage == 0 ? Model.NumberOfPages : topPreviousPage)">Previous Page</button>
+        <button name="Page" type="submit" class="btn btn-primary" value="@(topNextPage > Model.NumberOfPages ? 1 : topNextPage)">Next Page</button> 
+    }
+
+    <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
+    <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
+    <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
+    <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
+    <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
+</form>
 
 <table class="table">
     <tr>
@@ -84,24 +262,16 @@
             }
         </tr>
     }
-    @* *@
-    @* <form class="form-group text-center" asp-controller="Budget" asp-action="Results"> *@
-    @*     <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/> *@
-    @*     <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/> *@
-    @*     <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/> *@
-    @*     <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/> *@
-    @*     <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/> *@
-    @* </form> *@
 </table>
 
-<form asp-controller="Budget" asp-action="Results" class="form-group text-center">
+<form method="get" asp-controller="Budget" asp-action="Results" class="form-group text-center">
     @{
         var previousPage = Model.InputSelectors.Page - 1;
         var nextPage = Model.InputSelectors.Page + 1;
         
     }
     @* Page next/back *@
-    <p><strong>Current page: </strong>@Model.InputSelectors.Page</p>
+    <p><strong>Current page: </strong>@(Model.Page == 0 ? 1 : Model.Page)</p>
 
     @if (Model.NumberOfPages > 1)
     {

@@ -9,30 +9,21 @@
 <p>To start, select from any or all of the fields below.</p>
 <hr/>
 
-<form asp-controller="Budget" asp-action="Results" class="form-group" method="post">
+<form asp-controller="Budget" asp-action="Results" class="form-group" method="get">
     
     <div class="form-group">
         <label asp-for="FiscalYear"></label>
         <select asp-for="FiscalYear" asp-items="@ViewBag.FiscalYearList" class="custom-select">
-            <option disabled="disabled">Select a fiscal year</option>
-            <option selected="">All fiscal years</option>
+            <option selected>Select a fiscal year</option>
+            <option>All fiscal years</option>
         </select>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="OperatingUnit"></label>
-        <select asp-for="OperatingUnit" asp-items="@ViewBag.OperatingUnitList" class="custom-select">
-            <option disabled="disabled">Select an operating unit</option>
-            <option selected="">All operating units</option>
-        </select>
-        <br/>
     </div>
 
     <div class="form-group">
         <label asp-for="AccountCategory"></label>
         <select asp-for="AccountCategory" asp-items="@ViewBag.AccountCategoryList" class="custom-select">
-            <option disabled="disabled">Select an account category</option>
-            <option selected="">All account categories</option>
+            <option selected>Select an account category</option>
+            <option>All account categories</option>
         </select>
         <br/>
     </div>
@@ -40,8 +31,17 @@
     <div class="form-group">
         <label asp-for="DepartmentDivision"></label>
         <select asp-for="DepartmentDivision" asp-items="@ViewBag.DepartmentDivisionList" class="custom-select">
-            <option disabled="disabled">Select a department division</option>
-            <option selected="">All department divisions</option>
+            <option selected>Select a department division</option>
+            <option>All department divisions</option>
+        </select>
+        <br/>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="OperatingUnit"></label>
+        <select asp-for="OperatingUnit" asp-items="@ViewBag.OperatingUnitList" class="custom-select">
+            <option selected>Select an operating unit</option>
+            <option>All operating units</option>
         </select>
         <br/>
     </div>

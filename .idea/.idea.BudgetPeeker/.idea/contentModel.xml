@@ -15,10 +15,11 @@
         <e p="global.json" t="Include" />
         <e p="Models" t="Include">
           <e p="ApprovedBudget.cs" t="Include" />
+          <e p="BudgetModel.cs" t="Include" />
           <e p="BudgetResultsViewModel.cs" t="Include" />
           <e p="BudgetViewModel.cs" t="Include" />
           <e p="ErrorViewModel.cs" t="Include" />
-          <e p="PageQueryViewModel.cs" t="Include" />
+          <e p="FilteredBudgetLists.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace BudgetPeeker.Models
 {
@@ -13,8 +12,6 @@ namespace BudgetPeeker.Models
         public string AccountCategory { get; set; }
         [Display(Name = "Department Division")]
         public string DepartmentDivision { get; set; }
-//        [Display(Name = "Order Budget By")] 
-//        public string OrderBudgetBy { get; set; }
         public int Page { get; set; }
         public string OrderBudgetBy { get; set; }
     }
