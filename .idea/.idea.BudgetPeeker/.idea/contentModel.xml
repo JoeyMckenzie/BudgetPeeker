@@ -142,6 +142,5 @@
       <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_BudgetPeeker.970339920.00" t="ExcludeRecursive" />
-    <e p="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.identity.ui/2.1.0-preview2-final/contentFiles/any/netstandard2.0/THIRD-PARTY-NOTICES" t="Include" />
   </component>
 </project>
