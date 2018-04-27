@@ -30,7 +30,7 @@ namespace BudgetPeeker
             // SQL Server connection
             services.AddDbContext<BudgetPeekerDbContext>(options =>
                 options
-                    .UseLoggerFactory(BudgetPeekerLoggingFactory) //*** Only used for debugging EF ***
+//                    .UseLoggerFactory(BudgetPeekerLoggingFactory) //*** Only used for debugging EF ***
                     .UseSqlite(Configuration.GetConnectionString("Default")));
 //                    .UseSqlServer(Configuration.GetConnectionString("Default")));
             
