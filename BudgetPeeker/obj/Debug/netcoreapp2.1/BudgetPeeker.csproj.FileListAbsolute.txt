@@ -353,3 +353,4 @@
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/SQLitePCLRaw.core.dll
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/ServiceStack.Text.dll
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/BudgetPeeker.db
