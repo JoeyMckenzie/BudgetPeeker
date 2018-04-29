@@ -6,7 +6,7 @@ namespace BudgetPeeker.Models
 {
     public class BudgetResultsViewModel
     {
-        public List<ApprovedBudget> QueryResults { get; set; }
+        public List<BudgetModel> QueryResults { get; set; }
         public BudgetViewModel InputSelectors { get; set; }
         public BudgetViewModel PreviousResults { get; set; }
         public int ResultsCount { get; set; }

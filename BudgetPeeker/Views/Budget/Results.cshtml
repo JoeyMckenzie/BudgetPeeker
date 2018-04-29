@@ -6,21 +6,30 @@
     Layout = "_Layout";
     bool negativeBudget = (Model.TotalBudget != null && Model.TotalBudget.ToString()[0] == '-');
 
+    @* Get selectors to dynamically updated based on filters *@
     var includeFiscalYear = Model.InputSelectors.FiscalYear.Split(" ")[0];
     var includeAccountCategory = Model.InputSelectors.AccountCategory.Split(" ")[0];
     var includeOperatingUnit = Model.InputSelectors.OperatingUnit.Split(" ")[0];
     var includeDepartmentDivision = Model.InputSelectors.DepartmentDivision.Split(" ")[0];
 
+    @* Exclude budget if all results are pulled, causes SQL integer overflow *@
+    var exclusionaryTerms = new List<string> {"All", "Select"};
+    var excludeBudget = exclusionaryTerms.Contains(includeAccountCategory) && exclusionaryTerms.Contains(includeDepartmentDivision)
+                        && exclusionaryTerms.Contains(includeFiscalYear) && exclusionaryTerms.Contains(includeOperatingUnit);
+
+    @* Get the current entity state *@
     var selectedFiscalYear = Model.InputSelectors.FiscalYear;
     var selectedAccountCategory = Model.InputSelectors.AccountCategory;
     var selectedOperatingUnit = Model.InputSelectors.OperatingUnit;
     var selectedDepartmentDivision = Model.InputSelectors.DepartmentDivision;
 
+    @* Initialize dropdowns *@
     var filteredFiscalYearDropdown = new SelectList(Model.FilteredBudgetLists.FilteredFiscalYearList);
     var filteredAccountCategoryDropdown = new SelectList(Model.FilteredBudgetLists.FilteredAccountCategoryList);
     var filteredDepartmentDivisionDropdown = new SelectList(Model.FilteredBudgetLists.FilteredDepartmentDivisionList);
     var filteredOperatingUnitDropdown = new SelectList(Model.FilteredBudgetLists.FilteredOperatingUnitList);
 
+    @* If filtered by other fields causes uniqueness in another, remove option to filter that field *@
     var initialFiscalYear = Model.FilteredBudgetLists.FilteredFiscalYearList[0];
     var initialAccountCategory = Model.FilteredBudgetLists.FilteredAccountCategoryList[0];
     var initialDepartmentDivision = Model.FilteredBudgetLists.FilteredDepartmentDivisionList[0];
@@ -31,23 +40,23 @@
     <div class="container col-lg-6">
         <h2>Results</h2>
         <hr/>
-        <p><strong>Fiscal Year:</strong> @(Model.FilteredBudgetLists.FilteredFiscalYearList.Count == 1 ? initialFiscalYear : (includeFiscalYear == "Select" || includeFiscalYear == "All" ? "No fiscal year selected" : ""))</p>
-        <p><strong>Department Division:</strong> @(Model.FilteredBudgetLists.FilteredDepartmentDivisionList.Count == 1 ? initialDepartmentDivision : (includeDepartmentDivision == "Select" || includeDepartmentDivision == "All" ? "No department division selected" : ""))</p>
-        <p><strong>Account Category:</strong> @(Model.FilteredBudgetLists.FilteredAccountCategoryList.Count == 1 ? initialAccountCategory : (includeAccountCategory == "Select" || includeAccountCategory == "All" ? "No account category selected" : ""))</p>
-        <p><strong>Operating Unit:</strong> @(Model.FilteredBudgetLists.FilteredOperatingUnitList.Count == 1 ? initialOperatingUnit : (includeOperatingUnit == "Select" || includeOperatingUnit == "All" ? "No operating unit selected" : ""))</p>
-        @if (Model.TotalBudget != null)
+        <p><strong>Fiscal Year:</strong> @(Model.FilteredBudgetLists.FilteredFiscalYearList.Count == 1 ? initialFiscalYear : (includeFiscalYear == "Select" ? "No fiscal year selected" : Model.InputSelectors.FiscalYear))</p>
+        <p><strong>Department Division:</strong> @(Model.FilteredBudgetLists.FilteredDepartmentDivisionList.Count == 1 ? initialDepartmentDivision : (includeDepartmentDivision == "Select" ? "No department division selected" : Model.InputSelectors.DepartmentDivision))</p>
+        <p><strong>Account Category:</strong> @(Model.FilteredBudgetLists.FilteredAccountCategoryList.Count == 1 ? initialAccountCategory : (includeAccountCategory == "Select" ? "No account category selected" : Model.InputSelectors.AccountCategory))</p>
+        <p><strong>Operating Unit:</strong> @(Model.FilteredBudgetLists.FilteredOperatingUnitList.Count == 1 ? initialOperatingUnit : (includeOperatingUnit == "Select" ? "No operating unit selected" : Model.InputSelectors.OperatingUnit))</p>
+        @if (Model.TotalBudget != null && !excludeBudget)
         {
             if (negativeBudget)
             {
-                <p><strong>Total Budget:</strong> @string.Format("$({0:n0})", Model.TotalBudget)</p> 
+                <p><strong>Total Budget:</strong> @string.Format("$({0:n0})", Model.TotalBudget)</p>
             }
             else
             {
-                <p><strong>Total Budget:</strong> @string.Format("${0:n0}", Model.TotalBudget)</p> 
+                <p><strong>Total Budget:</strong> @string.Format("${0:n0}", Model.TotalBudget)</p>
             }
         }
         <p><strong>Number of Pages:</strong> @Model.NumberOfPages</p>
-    
+
         <form method="get" asp-controller="Budget" asp-action="Results">
             <div class="form-group form-inline">
                 <label style="padding-right: 10px;"><strong>Go to Page:</strong></label>
@@ -64,13 +73,13 @@
                     <option disabled="disabled">Sort budget by</option>
                 </select>
             </div>
-    
+
             <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
             <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
             <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
             <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
         </form>
-        <p><strong>Number of results:</strong> @string.Format("{0:n0}", Model.ResultsCount)</p> 
+        <p><strong>Number of results:</strong> @string.Format("{0:n0}", Model.ResultsCount)</p>
 
     </div>
     
@@ -206,10 +215,10 @@
             <a class="btn btn-secondary" href="javascript:history.go(-1)">Previous Results</a>
         </div>
         
-        @* Work in progress *@
-@*         <div class="form-group"> *@
-@*             <a class="btn btn-info" asp-controller="Budget" asp-action="ExportToCsv" asp-route-data="@Model.QueryResults">Export to CSV</a> *@
-@*         </div> *@
+        @* Get CSV *@
+        <div class="form-group">
+            <a class="btn btn-info" href="../BudgetData.csv" download>Download CSV</a>
+        </div>
     </div>
 </div>
 
@@ -248,17 +257,17 @@
     @foreach (var item in Model.QueryResults)
     {
         <tr>
-            <td>@item.Year</td>
+            <td>@item.FiscalYear</td>
             <td>@item.DepartmentDivision</td>
             <td>@item.AccountCategory</td>
-            <td>@item.OperatingUnitDescription</td>
+            <td>@item.OperatingUnit</td>
             @if (item.BudgetAmount != null && item.BudgetAmount.ToString()[0] == '-')
             {
-                <td>@string.Format("$({0:n0})", @item.BudgetAmount)</td>
+                <td>@string.Format("$({0:n0})", item.BudgetAmount)</td>
             }
             else
             {
-                <td>@string.Format("${0:n0}", @item.BudgetAmount)</td>
+                <td>@string.Format("${0:n0}", item.BudgetAmount)</td>
             }
         </tr>
     }
