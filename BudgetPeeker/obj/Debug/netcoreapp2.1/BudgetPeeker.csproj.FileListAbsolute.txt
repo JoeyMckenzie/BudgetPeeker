@@ -352,5 +352,6 @@
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/SQLitePCLRaw.batteries_v2.dll
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/SQLitePCLRaw.core.dll
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/SQLitePCLRaw.provider.e_sqlite3.dll
-/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/ServiceStack.Text.dll
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/BudgetPeeker.db
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/CsvHelper.dll
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Budget/ExportToCsv.g.cshtml.cs

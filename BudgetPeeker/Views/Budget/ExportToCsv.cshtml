@@ -1,0 +1,18 @@
+﻿@model object
+
+@{
+    ViewBag.Title = "Export to CSV";
+    Layout = "_Layout";
+}
+
+<h2>Data exported to CSV</h2>
+<hr/>
+
+<div class="form-group">
+    <a class="btn btn-primary" asp-controller="Budget" asp-action="Index" role="button">Select Different Fields</a>
+</div>
+        
+@* Get previous query *@
+<div class="form-group">
+    <a class="btn btn-secondary" href="javascript:history.go(-1)">Back to Results</a>
+</div>

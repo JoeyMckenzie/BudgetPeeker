@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "f05c06952067b1024eb192ce51f40b51c7c06f83"
+    "signature": "682dcdbdfedd8242eb80a4067674d8f1c68706e1"
   },
   "compilationOptions": {
     "defines": [
@@ -24,11 +24,12 @@
     ".NETCoreApp,Version=v2.1": {
       "BudgetPeeker/1.0.0": {
         "dependencies": {
+          "CsvHelper": "7.1.0",
           "Microsoft.AspNetCore.App": "2.1.0-preview2-final",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.1.0-preview2-final",
           "Microsoft.Extensions.Logging": "2.1.0-preview2-final",
           "Microsoft.NETCore.App": "2.1.0-preview2-26406-04",
-          "ServiceStack.Text.Core": "5.1.0",
+          "CsvHelper.Reference": "7.0.0.0",
           "Microsoft.AspNetCore.Antiforgery.Reference": "2.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions.Reference": "2.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies.Reference": "2.1.0.0",
@@ -191,7 +192,6 @@
           "Newtonsoft.Json.Bson.Reference": "1.0.0.0",
           "Newtonsoft.Json.Reference": "11.0.0.0",
           "Remotion.Linq.Reference": "2.2.0.0",
-          "ServiceStack.Text": "5.0.0.0",
           "SQLitePCLRaw.batteries_green": "1.1.10.86",
           "SQLitePCLRaw.batteries_v2": "1.1.10.86",
           "SQLitePCLRaw.core.Reference": "1.1.10.86",
@@ -359,6 +359,18 @@
         },
         "compile": {
           "BudgetPeeker.dll": {}
+        }
+      },
+      "CsvHelper/7.1.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0-preview2-26406-04",
+          "System.Reflection.TypeExtensions": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CsvHelper.dll": {}
+        },
+        "compile": {
+          "lib/netstandard2.0/CsvHelper.dll": {}
         }
       },
       "Microsoft.Data.Sqlite.Core/2.1.0-preview2-final": {
@@ -561,19 +573,6 @@
           "Microsoft.NETCore.Platforms": "2.1.0-preview2-26406-04"
         }
       },
-      "ServiceStack.Text.Core/5.1.0": {
-        "dependencies": {
-          "Microsoft.CSharp": "4.5.0-preview2-26406-04",
-          "Microsoft.Extensions.Primitives": "2.1.0-preview2-final",
-          "System.Runtime": "4.3.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/ServiceStack.Text.dll": {}
-        },
-        "compile": {
-          "lib/netstandard2.0/ServiceStack.Text.dll": {}
-        }
-      },
       "SQLitePCLRaw.bundle_green/1.1.10": {
         "dependencies": {
           "SQLitePCLRaw.core": "1.1.10",
@@ -665,6 +664,13 @@
         "compile": {
           "lib/netstandard1.1/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
+      },
+      "System.Reflection.TypeExtensions/4.4.0": {},
+      "CsvHelper.Reference/7.0.0.0": {
+        "compile": {
+          "CsvHelper.dll": {}
+        },
+        "compileOnly": true
       },
       "Microsoft.AspNetCore.Antiforgery.Reference/2.1.0.0": {
         "compile": {
@@ -1635,12 +1641,6 @@
       "Remotion.Linq.Reference/2.2.0.0": {
         "compile": {
           "Remotion.Linq.dll": {}
-        },
-        "compileOnly": true
-      },
-      "ServiceStack.Text/5.0.0.0": {
-        "compile": {
-          "ServiceStack.Text.dll": {}
         },
         "compileOnly": true
       },
@@ -3916,7 +3916,7 @@
           "System.Collections": "4.3.0",
           "System.IO": "4.3.0",
           "System.IO.FileSystem": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Runtime.Extensions": "4.3.0",
           "System.Runtime.InteropServices": "4.3.0",
           "System.Runtime.InteropServices.RuntimeInformation": "4.3.0"
@@ -4904,7 +4904,7 @@
           "System.Reflection.Emit": "4.3.0",
           "System.Reflection.Emit.ILGeneration": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -5039,7 +5039,7 @@
           "System.Reflection.Emit.Lightweight": "4.3.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -5153,7 +5153,7 @@
           "System.Reflection.Emit.Lightweight": "4.3.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -5223,13 +5223,6 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.0-preview2-26406-04",
           "Microsoft.NETCore.Targets": "2.1.0-preview2-26406-04",
-          "System.Runtime": "4.3.0"
-        },
-        "compileOnly": true
-      },
-      "System.Reflection.TypeExtensions/4.3.0": {
-        "dependencies": {
-          "System.Reflection": "4.3.0",
           "System.Runtime": "4.3.0"
         },
         "compileOnly": true
@@ -5654,7 +5647,7 @@
           "System.Reflection.Emit.ILGeneration": "4.3.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -5700,6 +5693,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "CsvHelper/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H9+MtVj4P6oXaV/ODdYYFA20LFeIfIY77xL+nfFaPIzZy5YdbezzLvUPWX6Lm3BU/pzqXZCgzxO8vLh6+wCQWA==",
+      "path": "csvhelper/7.1.0",
+      "hashPath": "csvhelper.7.1.0.nupkg.sha512"
     },
     "Microsoft.Data.Sqlite.Core/2.1.0-preview2-final": {
       "type": "package",
@@ -5771,13 +5771,6 @@
       "path": "netstandard.library/2.0.1",
       "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
     },
-    "ServiceStack.Text.Core/5.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7UIH4QGavWCLV4dzSELe3Bv+cgIMyQPEjlK2Py38Ym+xcVCiDC2dvouQ+gW9jsYF+5rROHCNFLv/HJhf7IbDYA==",
-      "path": "servicestack.text.core/5.1.0",
-      "hashPath": "servicestack.text.core.5.1.0.nupkg.sha512"
-    },
     "SQLitePCLRaw.bundle_green/1.1.10": {
       "type": "package",
       "serviceable": true,
@@ -5819,6 +5812,18 @@
       "sha512": "sha512-vIKJpt9XOVsJEI5PXgBFQmXTPCMAU/iSV6hZVC5+X1JLrmtZFndv8fcLvnBZ6vQwiPA5k+YIJLeYdSvRVJnFQA==",
       "path": "sqlitepclraw.provider.e_sqlite3.netstandard11/1.1.10",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.netstandard11.1.1.10.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dkmh/ySlwnXJp/1qYP9uyKkCK1CXR/REFzl7abHcArxBcV91mY2CgrrzSRA5Z/X4MevJWwXsklGRdR3A7K9zbg==",
+      "path": "system.reflection.typeextensions/4.4.0",
+      "hashPath": "system.reflection.typeextensions.4.4.0.nupkg.sha512"
+    },
+    "CsvHelper.Reference/7.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery.Reference/2.1.0.0": {
       "type": "referenceassembly",
@@ -6626,11 +6631,6 @@
       "sha512": ""
     },
     "Remotion.Linq.Reference/2.2.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ServiceStack.Text/5.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
@@ -9084,13 +9084,6 @@
       "sha512": "sha512-mnEWBS1A+NZwMHxpTiZkf7d0NcQSssq2w44kuC2iMCCeJc9DNDvMY9jiRdSj/FiHhN+uY2zPOzDp32HG/MV6kA==",
       "path": "system.reflection.primitives/4.3.0",
       "hashPath": "system.reflection.primitives.4.3.0.nupkg.sha512"
-    },
-    "System.Reflection.TypeExtensions/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-wGzO/Ii6TLQRIsw1fKixxOXgRDbIRIiJ/4YYfE8YU+MJK2FLneey2p12w+Ytij7kCmFpz2aZ0KSbqPXznYJfJw==",
-      "path": "system.reflection.typeextensions/4.3.0",
-      "hashPath": "system.reflection.typeextensions.4.3.0.nupkg.sha512"
     },
     "System.Resources.ResourceManager/4.3.0": {
       "type": "package",

@@ -6,7 +6,8 @@ namespace BudgetPeeker.Models
 {
     public class BudgetResultsViewModel
     {
-        public List<ApprovedBudget> QueryResults { get; set; }
+        public List<BudgetModel> QueryResults { get; set; }
+        public IEnumerable<BudgetModel> BudgetModels { get; set; }
         public BudgetViewModel InputSelectors { get; set; }
         public BudgetViewModel PreviousResults { get; set; }
         public int ResultsCount { get; set; }
@@ -21,9 +22,5 @@ namespace BudgetPeeker.Models
         //
         // Filtered values
         public FilteredBudgetLists FilteredBudgetLists { get; set; }
-        public string FilteredFiscalYear { get; set; }
-        public string FilteredAccountCategory { get; set; }
-        public string FilteredDepartmentDivision { get; set; }
-        public string FilteredOperatingUnit { get; set; }
     }
 }
