@@ -140,6 +140,24 @@ namespace BudgetPeeker.Controllers
                     break;
             }  
             
+            var budgetResultsCsv = results.Select(r => new BudgetModel
+            {
+                Id = r.Id,
+                FiscalYear = r.Year,
+                AccountCategory = r.AccountCategory,
+                DepartmentDivision = r.DepartmentDivision,
+                OperatingUnit = r.OperatingUnitDescription,
+                BudgetAmount = r.BudgetAmount
+            }).ToList();
+
+            //
+            // Export to CSV
+            using (TextWriter writer = new StreamWriter("./wwwroot/BudgetData.csv"))
+            {
+                var csv = new CsvWriter(writer);
+                csv.WriteRecords(budgetResultsCsv);
+            }
+            
             //
             // Page results if greater than 100 records
             var count = results.Count();
@@ -147,6 +165,16 @@ namespace BudgetPeeker.Controllers
             {
                 results = results.Skip(_resultsPerPage * (budgetViewModel.Page - 1)).Take(_resultsPerPage);
             }
+            
+            var budgetResults = results.Select(r => new BudgetModel
+            {
+                Id = r.Id,
+                FiscalYear = r.Year,
+                AccountCategory = r.AccountCategory,
+                DepartmentDivision = r.DepartmentDivision,
+                OperatingUnit = r.OperatingUnitDescription,
+                BudgetAmount = r.BudgetAmount
+            }).ToList();
 
             //
             // Get return results count and number of pages, initialize query list
@@ -180,23 +208,7 @@ namespace BudgetPeeker.Controllers
                 FilteredOperatingUnitList = filteredOperatingUnit
             };
 
-            var budgetResults = results.Select(r => new BudgetModel
-            {
-                Id = r.Id,
-                FiscalYear = r.Year,
-                AccountCategory = r.AccountCategory,
-                DepartmentDivision = r.DepartmentDivision,
-                OperatingUnit = r.OperatingUnitDescription,
-                BudgetAmount = r.BudgetAmount
-            }).ToList();
 
-            //
-            // Export to CSV
-            using (TextWriter writer = new StreamWriter("./wwwroot/BudgetData.csv"))
-            {
-                var csv = new CsvWriter(writer);
-                csv.WriteRecords(budgetResults);
-            }
             
             //
             // Instantiate return results
