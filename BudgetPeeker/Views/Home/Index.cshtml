@@ -5,14 +5,16 @@
 <div class="jumbotron text-center">
     <h1 class="display-3">Welcome to Budget Peeker!</h1>
     <hr class="my-4"/>
-    <p class="lead"><b>What is Budget Peeker?</b></p>
+    <p style="font-size: 20px;"><strong>What is Budget Peeker?</strong></p>
     <p>Budget Peeker is exactly what the name implies - a tool for taking a peek at Sacramento's approved budgets from years
-        2015 to 2018.
+        2015 to 2018. Users can create custom reports related to their financical interest in Sacramento's approved and export
+        their data to CSV format to further analyze with software of their choosing.
+    </p>
+    <p style="font-size: 20px;"><strong>The Data?</strong></p>
+    <p>Budget Peeker sources its data from the <a href="http://data.cityofsacramento.org/datasets/approved-budget-fy-2015-fy-2018">City of Sacramento's</a>
+        open data portal, selecting data related fiscal year, operating unit, department division, and account category.
     </p>
     <p class="lead">
-        @* Gonna add these later *@
-        @* <a class="btn btn-primary btn-lg" asp-controller="Home" asp-action="About" role="button">About the project</a> *@
         <a class="btn btn-secondary btn-lg" asp-controller="Budget" asp-action="Index" role="button">Budget Data</a>
-        @* <a class="btn btn-info btn-lg" asp-controller="Home" asp-action="Contact" role="button">Contact</a> *@
     </p>
 </div>
