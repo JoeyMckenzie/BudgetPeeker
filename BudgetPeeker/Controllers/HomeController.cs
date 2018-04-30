@@ -11,8 +11,6 @@ namespace BudgetPeeker.Controllers
             return View();
         }
 
-        //
-        // Will add these a little later, my eyes hurt
 //        public IActionResult About()
 //        {
 //            return View();

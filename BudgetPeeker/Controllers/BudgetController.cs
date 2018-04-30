@@ -1,23 +1,11 @@
-﻿using System;
-using System.CodeDom.Compiler;
-using CsvHelper;
+﻿using CsvHelper;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 using BudgetPeeker.Models;
 using BudgetPeeker.Persistence;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ActionConstraints;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using Microsoft.EntityFrameworkCore.Query;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Microsoft.IdentityModel.Tokens;
 
 namespace BudgetPeeker.Controllers
 {
@@ -140,6 +128,8 @@ namespace BudgetPeeker.Controllers
                     break;
             }  
             
+            //
+            // Get results for CSV download
             var budgetResultsCsv = results.Select(r => new BudgetModel
             {
                 Id = r.Id,

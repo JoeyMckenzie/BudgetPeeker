@@ -1,733 +1,263 @@
 Id,FiscalYear,OperatingUnit,AccountCategory,DepartmentDivision,BudgetAmount
 32419,FY18,Information Technology,Salaries,Enterprise Applications Management Division,2737540
-20094,FY17,Information Technology,Salaries,IT Regional Support Division,2731281
 32304,FY18,Information Technology,Salaries,DOU Systems Support Division,2635257
-20118,FY17,Information Technology,Salaries,Enterprise Applications Management Division,2632268
-20162,FY17,Information Technology,Salaries,Innovation Team Division,2625550
 32452,FY18,Information Technology,Transfers 1,Office of CIO Division,2328759
 32382,FY18,Information Technology,Salaries,IT Regional Support Division,2205807
 32345,FY18,Information Technology,Salaries,Public Safety IT Division,2179895
-20080,FY17,Information Technology,Salaries,Technology Infrastructure Services Division,1886978
 32354,FY18,Information Technology,Salaries,Technology Infrastructure Services Division,1852479
 32507,FY18,Information Technology,Salaries,Sacramento City 311 Division,1824836
-12592,FY16,Information Technology,Salaries,Technology Infrastructure Services Division,1768589
-12630,FY16,Information Technology,Salaries,Enterprise Applications Management Division,1668800
-3089,FY15,Information Technology,Salaries,Technology Infrastructure Services Division,1618609
-20201,FY17,Information Technology,Salaries,311 Division,1599719
 32282,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,1589065
-3121,FY15,Information Technology,Salaries,Enterprise Applications Management Division,1434204
-3041,FY15,Information Technology,Salaries,IT Business Management Division,1398719
-12683,FY16,Information Technology,Salaries,IT 311 Division,1379388
 32353,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,1150673
 32381,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,1075955
-12652,FY16,Information Technology,Salaries,Innovation Team Division,1068096
-12584,FY16,Information Technology,Interfund Reimbursement,IT Business Management Division,1061118
 32326,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,1047880
-20079,FY17,Information Technology,Interfund Reimbursement,IT Business Management Division,1041301
-3086,FY15,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,1019966
 32418,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,1017948
 32325,FY18,Information Technology,Salaries,Technology Infrastructure Services Division,965755
 32445,FY18,Information Technology,Transfers 1,Office of CIO Division,847992
 32443,FY18,Information Technology,Transfers 1,Office of CIO Division,839140
 32491,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,786980
-20160,FY17,Information Technology,Transfers 1,Innovation Team Division,766720
 32283,FY18,Information Technology,Salaries,Office of CIO Division,755847
-12663,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,724958
-20200,FY17,Information Technology,Interfund Reimbursement,311 Division,724958
 32397,FY18,Information Technology,Transfers 1,IT Regional Support Division,702624
-20161,FY17,Information Technology,Transfers 1,Innovation Team Division,688787
 32398,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,646409
-12605,FY16,Information Technology,Salaries,IT Regional Support Division,631864
-3102,FY15,Information Technology,Salaries,IT Regional Support Division,596516
-20092,FY17,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,569746
-20042,FY17,Information Technology,Salaries,IT Business Management Division,533957
-12604,FY16,Information Technology,Interfund Reimbursement,IT Regional Support Division,504239
 32328,FY18,Information Technology,Salaries,Public Safety IT Division,456539
-20096,FY17,Information Technology,Employee Benefits,IT Regional Support Division,450005
-12543,FY16,Information Technology,Salaries,IT Business Management Division,440110
-20164,FY17,Information Technology,Employee Benefits,Innovation Team Division,432585
-20108,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,430979
 32379,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,430979
-20121,FY17,Information Technology,Employee Benefits,Enterprise Applications Management Division,428807
 32447,FY18,Information Technology,Transfers 1,Office of CIO Division,414389
-20112,FY17,Information Technology,Transfers 1,IT Regional Support Division,372391
 32369,FY18,Information Technology,Transfers 1,IT Regional Support Division,372391
-12589,FY16,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,356392
-20131,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,355832
 32509,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,354660
-3146,FY15,Information Technology,Other Purchased Services,IT Business Management Division,331000
 32421,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,325945
-20159,FY17,Information Technology,Transfers 1,Innovation Team Division,312800
-20082,FY17,Information Technology,Employee Benefits,Technology Infrastructure Services Division,310898
-20203,FY17,Information Technology,Employee Benefits,311 Division,305944
-20120,FY17,Information Technology,Employee Benefits,Enterprise Applications Management Division,301555
-20163,FY17,Information Technology,Employee Benefits,Innovation Team Division,293271
-20095,FY17,Information Technology,Employee Benefits,IT Regional Support Division,289802
-3082,FY15,Information Technology,Interfund Reimbursement,IT Business Management Division,285900
 32305,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,284812
 32300,FY18,Information Technology,Transfers 1,DOU Systems Support Division,282890
-3143,FY15,Information Technology,Interfund Reimbursement,IT Business Management Division,281360
-12595,FY16,Information Technology,Employee Benefits,Technology Infrastructure Services Division,274680
-3131,FY15,Information Technology,Property Accounts,IT Business Management Division,271213
-12684,FY16,Information Technology,Employee Benefits,IT 311 Division,270952
 32351,FY18,Information Technology,Employee Benefits,Public Safety IT Division,269030
-20204,FY17,Information Technology,Employee Benefits,311 Division,263569
-12633,FY16,Information Technology,Employee Benefits,Enterprise Applications Management Division,259181
-12666,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,253529
-20178,FY17,Information Technology,Interfund Reimbursement,311 Division,253529
-3048,FY15,Information Technology,Purchased Property Services,IT Business Management Division,253184
 32384,FY18,Information Technology,Employee Benefits,IT Regional Support Division,236798
-3093,FY15,Information Technology,Employee Benefits,Technology Infrastructure Services Division,233387
-12651,FY16,Information Technology,Property Accounts,IT Business Management Division,231195
-20151,FY17,Information Technology,Property Accounts,IT Business Management Division,231195
 32439,FY18,Information Technology,Property Accounts,Office of CIO Division,231195
 32449,FY18,Information Technology,Transfers 1,Office of CIO Division,227238
 32423,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,219393
-12685,FY16,Information Technology,Employee Benefits,IT 311 Division,214233
 32307,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,213508
 32422,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,211296
-20113,FY17,Information Technology,Transfers 1,IT Regional Support Division,210787
 32368,FY18,Information Technology,Transfers 1,IT Regional Support Division,210787
-3125,FY15,Information Technology,Employee Benefits,Enterprise Applications Management Division,206798
-20107,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,206335
 32306,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,205629
 32403,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,202107
 32301,FY18,Information Technology,Transfers 1,DOU Systems Support Division,201904
-20145,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,201818
-3045,FY15,Information Technology,Employee Benefits,IT Business Management Division,201681
-12625,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,200403
 32513,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,197681
 32281,FY18,Information Technology,Service & Supply Adjustments,Office of CIO Division,195000
 32402,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,193302
-12632,FY16,Information Technology,Employee Benefits,Enterprise Applications Management Division,189902
-12594,FY16,Information Technology,Employee Benefits,Technology Infrastructure Services Division,182726
 32433,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,181963
 32386,FY18,Information Technology,Employee Benefits,IT Regional Support Division,178714
 32339,FY18,Information Technology,Employee Benefits,Public Safety IT Division,176615
 32385,FY18,Information Technology,Employee Benefits,IT Regional Support Division,172119
 32350,FY18,Information Technology,Employee Benefits,Public Safety IT Division,170097
 32426,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,169562
-20099,FY17,Information Technology,Employer Paid Taxes,IT Regional Support Division,168790
 32356,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,168134
-12654,FY16,Information Technology,Employee Benefits,Innovation Team Division,165886
 32310,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,163385
-20124,FY17,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,162651
-20167,FY17,Information Technology,Employer Paid Taxes,Innovation Team Division,162235
-3094,FY15,Information Technology,Employee Benefits,Technology Infrastructure Services Division,160490
-3111,FY15,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,157833
-20081,FY17,Information Technology,Employee Benefits,Technology Infrastructure Services Division,157720
-20158,FY17,Information Technology,Transfers 1,Innovation Team Division,154093
-3046,FY15,Information Technology,Employee Benefits,IT Business Management Division,153152
-20157,FY17,Information Technology,Transfers 1,Innovation Team Division,150353
 32358,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,150087
-12647,FY16,Information Technology,Purchased Property Services,IT Business Management Division,150000
-20147,FY17,Information Technology,Purchased Property Services,IT Business Management Division,150000
 32435,FY18,Information Technology,Purchased Property Services,Office of CIO Division,150000
-12645,FY16,Information Technology,Interfund Reimbursement,IT Business Management Division,149828
-20139,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,149466
 32511,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,147848
-3126,FY15,Information Technology,Employee Benefits,Enterprise Applications Management Division,147641
-3117,FY15,Information Technology,Transfers 1,Enterprise Applications Management Division,147372
-12627,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,147372
 32357,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,144549
 32510,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,142391
 32389,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,136595
-12653,FY16,Information Technology,Employee Benefits,Innovation Team Division,135773
-3060,FY15,Information Technology,Energy and Fuel,IT Business Management Division,135000
 32342,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,134988
-12541,FY16,Information Technology,Property Accounts,IT Business Management Division,133000
-20036,FY17,Information Technology,Property Accounts,IT Business Management Division,133000
 32278,FY18,Information Technology,Property Accounts,Office of CIO Division,133000
-3077,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,128118
-12559,FY16,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,128118
-3115,FY15,Information Technology,Transfers 1,Enterprise Applications Management Division,127506
-3099,FY15,Information Technology,Interfund Reimbursement,IT Regional Support Division,126776
-20143,FY17,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,125931
 32414,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,125931
-3052,FY15,Information Technology,Property Accounts,IT Business Management Division,121000
 32493,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,120180
-20040,FY17,Information Technology,Labor Adjustments,IT Business Management Division,120000
-20111,FY17,Information Technology,Transfers 1,IT Regional Support Division,119446
 32371,FY18,Information Technology,Transfers 1,IT Regional Support Division,119446
-20117,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,117058
-20085,FY17,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,116443
 32361,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,114688
-20152,FY17,Information Technology,Interfund Reimbursement,IT Business Management Division,113776
 32459,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,113139
-20110,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,109624
 32375,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,109624
-12598,FY16,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,109496
-20109,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,105806
 32377,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,105806
 32302,FY18,Information Technology,Transfers 1,DOU Systems Support Division,105734
-3137,FY15,Information Technology,Purchased Property Services,IT Business Management Division,105571
-3139,FY15,Information Technology,Purchased Property Services,IT Business Management Division,104411
-12636,FY16,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,103466
-20173,FY17,Information Technology,Transfers 1,Innovation Team Division,101589
-3091,FY15,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,100252
-3113,FY15,Information Technology,Transfers 1,Enterprise Applications Management Division,99576
-12624,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,99576
 32499,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,99399
 32504,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,99214
-20208,FY17,Information Technology,Employer Paid Taxes,311 Division,99182
 32303,FY18,Information Technology,Transfers 1,DOU Systems Support Division,98208
-12608,FY16,Information Technology,Employee Benefits,IT Regional Support Division,98135
-12667,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,95895
-20179,FY17,Information Technology,Interfund Reimbursement,311 Division,95895
 32429,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,94363
 32494,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,94260
-20057,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,91927
 32298,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,91927
 32313,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,90837
-3123,FY15,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,88921
-20045,FY17,Information Technology,Employee Benefits,IT Business Management Division,87974
 32316,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,87006
-3105,FY15,Information Technology,Employee Benefits,IT Regional Support Division,86012
-12688,FY16,Information Technology,Employer Paid Taxes,IT 311 Division,85522
-3043,FY15,Information Technology,Employer Paid Taxes,IT Business Management Division,83765
-20174,FY17,Information Technology,Transfers 1,Innovation Team Division,81272
-20138,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,80792
-3116,FY15,Information Technology,Transfers 1,Enterprise Applications Management Division,79660
-12626,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,79660
-3106,FY15,Information Technology,Employee Benefits,IT Regional Support Division,78557
 32324,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,78245
-12607,FY16,Information Technology,Employee Benefits,IT Regional Support Division,77969
-20144,FY17,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,76176
 32416,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,76176
 32392,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,76034
 32315,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,75357
 32352,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,75140
-3129,FY15,Information Technology,Other Purchased Services,IT Business Management Division,75000
-3135,FY15,Information Technology,Other Purchased Services,IT Business Management Division,75000
-20172,FY17,Information Technology,Transfers 1,Innovation Team Division,73145
-3114,FY15,Information Technology,Transfers 1,Enterprise Applications Management Division,72897
 32272,FY18,Information Technology,General Supplies,Office of CIO Division,72690
 32285,FY18,Information Technology,Employee Benefits,Office of CIO Division,72649
-3072,FY15,Information Technology,Purchased Property Services,IT Business Management Division,70000
-12564,FY16,Information Technology,Purchased Property Services,IT Business Management Division,70000
-12646,FY16,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,70000
-20062,FY17,Information Technology,Purchased Property Services,IT Business Management Division,70000
-20146,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,70000
 32260,FY18,Information Technology,Purchased Property Services,Office of CIO Division,70000
 32434,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,70000
-20166,FY17,Information Technology,Employee Benefits,Innovation Team Division,69654
-12546,FY16,Information Technology,Employee Benefits,IT Business Management Division,68353
 32425,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,66946
-12656,FY16,Information Technology,Employer Paid Taxes,Innovation Team Division,66129
-20123,FY17,Information Technology,Employee Benefits,Enterprise Applications Management Division,65753
 32337,FY18,Information Technology,Employee Benefits,Public Safety IT Division,65331
 32408,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,64434
 32410,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,64434
 32412,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,64434
-20084,FY17,Information Technology,Employee Benefits,Technology Infrastructure Services Division,64138
 32364,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,63854
 32462,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,62902
-3062,FY15,Information Technology,General Supplies,IT Business Management Division,62674
-12579,FY16,Information Technology,General Supplies,IT Business Management Division,62674
-20032,FY17,Information Technology,General Supplies,IT Business Management Division,62674
 32274,FY18,Information Technology,General Supplies,Office of CIO Division,62674
 32360,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,62529
-20214,FY17,Information Technology,Interfund Reimbursement,311 Division,62022
 32287,FY18,Information Technology,Employee Benefits,Office of CIO Division,61238
-3140,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,60000
 32478,FY18,Information Technology,Purchased Property Services,Sacramento City 311 Division,60000
 32319,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,59712
 32286,FY18,Information Technology,Employee Benefits,Office of CIO Division,58978
-12635,FY16,Information Technology,Employee Benefits,Enterprise Applications Management Division,58055
-12597,FY16,Information Technology,Employee Benefits,Technology Infrastructure Services Division,57071
 32294,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,57000
-3044,FY15,Information Technology,Employee Benefits,IT Business Management Division,55016
-3092,FY15,Information Technology,Employee Benefits,Technology Infrastructure Services Division,54463
-12615,FY16,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,54211
 32309,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,50498
-3079,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,50000
-12557,FY16,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,50000
-12648,FY16,Information Technology,Purchased Property Services,IT Business Management Division,50000
-12671,FY16,Information Technology,Purchased Prof and Tech Svcs,IT 311 Division,50000
-20055,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,50000
-20148,FY17,Information Technology,Purchased Property Services,IT Business Management Division,50000
-20184,FY17,Information Technology,Purchased Prof and Tech Svcs,311 Division,50000
 32296,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,50000
 32436,FY18,Information Technology,Purchased Property Services,Office of CIO Division,50000
 32463,FY18,Information Technology,Purchased Prof and Tech Svcs,Sacramento City 311 Division,50000
 32341,FY18,Information Technology,Employee Benefits,Public Safety IT Division,48171
 32347,FY18,Information Technology,Service & Supply Adjustments,Public Safety IT Division,48000
-20044,FY17,Information Technology,Employee Benefits,IT Business Management Division,46934
-3124,FY15,Information Technology,Employee Benefits,Enterprise Applications Management Division,46581
-3138,FY15,Information Technology,Purchased Property Services,IT Business Management Division,45589
-3038,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,45000
-12555,FY16,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,45000
-20053,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,45000
-20041,FY17,Information Technology,General Supplies,IT Business Management Division,44090
 32496,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,43989
 32290,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,42968
-12659,FY16,Information Technology,Employee Benefits,Innovation Team Division,42724
-3134,FY15,Information Technology,General Supplies,IT Business Management Division,40000
-20115,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,40000
 32374,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,40000
 32427,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,39694
-20100,FY17,Information Technology,Employer Paid Taxes,IT Regional Support Division,39603
 32346,FY18,Information Technology,Labor Adjustments,Public Safety IT Division,39600
-12610,FY16,Information Technology,Employer Paid Taxes,IT Regional Support Division,39176
 32318,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,38630
-20213,FY17,Information Technology,Interfund Reimbursement,311 Division,38423
 32311,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,38211
-20125,FY17,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,38167
-20168,FY17,Information Technology,Employer Paid Taxes,Innovation Team Division,38070
 32327,FY18,Information Technology,Employee Benefits,Public Safety IT Division,36988
-3104,FY15,Information Technology,Employer Paid Taxes,IT Regional Support Division,36984
 32489,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,36401
-12545,FY16,Information Technology,Employee Benefits,IT Business Management Division,35928
 32338,FY18,Information Technology,Employee Benefits,Public Safety IT Division,35623
 32465,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,35190
 32322,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,33289
 32516,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,32917
 32390,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,31984
 32343,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,31608
-12665,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,31502
-20177,FY17,Information Technology,Interfund Reimbursement,311 Division,31502
-20098,FY17,Information Technology,Employee Benefits,IT Regional Support Division,31374
 32264,FY18,Information Technology,Other Purchased Services,Office of CIO Division,31000
-3051,FY15,Information Technology,Other Purchased Services,IT Business Management Division,30000
-12567,FY16,Information Technology,Other Purchased Services,IT Business Management Division,30000
-20065,FY17,Information Technology,Other Purchased Services,IT Business Management Division,30000
-20074,FY17,Information Technology,Other Purchased Services,IT Business Management Division,30000
-20141,FY17,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,29771
-20104,FY17,Information Technology,Employer Paid Taxes,IT Regional Support Division,29294
 32289,FY18,Information Technology,Employee Benefits,Office of CIO Division,29112
-12674,FY16,Information Technology,Other Purchased Services,IT 311 Division,28940
-20186,FY17,Information Technology,Other Purchased Services,311 Division,28940
-20048,FY17,Information Technology,Employer Paid Taxes,IT Business Management Division,28626
-20030,FY17,Information Technology,General Supplies,IT Business Management Division,28600
 32330,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,28305
 32518,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,28194
-20086,FY17,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,27361
 32362,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,26860
 32460,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,26460
-20127,FY17,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,26322
-20170,FY17,Information Technology,Employer Paid Taxes,Innovation Team Division,26255
 32293,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,26054
 32388,FY18,Information Technology,Employee Benefits,IT Regional Support Division,25761
-12599,FY16,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,25645
-3050,FY15,Information Technology,Other Purchased Services,IT Business Management Division,25000
-3064,FY15,Information Technology,General Supplies,IT Business Management Division,25000
-3073,FY15,Information Technology,Purchased Property Services,IT Business Management Division,25000
-12563,FY16,Information Technology,Purchased Property Services,IT Business Management Division,25000
-12568,FY16,Information Technology,Other Purchased Services,IT Business Management Division,25000
-12577,FY16,Information Technology,General Supplies,IT Business Management Division,25000
-12672,FY16,Information Technology,Purchased Property Services,IT 311 Division,25000
-20061,FY17,Information Technology,Purchased Property Services,IT Business Management Division,25000
-20066,FY17,Information Technology,Other Purchased Services,IT Business Management Division,25000
-20185,FY17,Information Technology,Purchased Property Services,311 Division,25000
 32259,FY18,Information Technology,Purchased Property Services,Office of CIO Division,25000
 32263,FY18,Information Technology,Other Purchased Services,Office of CIO Division,25000
 32464,FY18,Information Technology,Purchased Property Services,Sacramento City 311 Division,25000
-12549,FY16,Information Technology,Employer Paid Taxes,IT Business Management Division,24217
-12637,FY16,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,24198
-12664,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,23537
-20176,FY17,Information Technology,Interfund Reimbursement,311 Division,23537
-3090,FY15,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,23470
-20209,FY17,Information Technology,Employer Paid Taxes,311 Division,23195
-3053,FY15,Information Technology,Labor Adjustments,IT Business Management Division,22524
 32455,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,22372
-3122,FY15,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,20796
 32492,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,20402
-3042,FY15,Information Technology,Employer Paid Taxes,IT Business Management Division,20281
-12689,FY16,Information Technology,Employer Paid Taxes,IT 311 Division,20001
-12650,FY16,Information Technology,General Supplies,IT Business Management Division,20000
-20150,FY17,Information Technology,General Supplies,IT Business Management Division,20000
 32438,FY18,Information Technology,General Supplies,Office of CIO Division,20000
-3033,FY15,Information Technology,Transfers 1,IT Business Management Division,19779
-3039,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,19779
-12554,FY16,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,19779
-20039,FY17,Information Technology,Transfers 1,IT Business Management Division,19779
-20052,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,19779
-20047,FY17,Information Technology,Employee Benefits,IT Business Management Division,19205
-20088,FY17,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,18869
-3083,FY15,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,18630
-12585,FY16,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,17686
-12548,FY16,Information Technology,Employee Benefits,IT Business Management Division,17604
-12620,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,17482
-12639,FY16,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,16688
-3063,FY15,Information Technology,General Supplies,IT Business Management Division,16169
-12578,FY16,Information Technology,General Supplies,IT Business Management Division,16169
-20031,FY17,Information Technology,General Supplies,IT Business Management Division,16169
 32273,FY18,Information Technology,General Supplies,Office of CIO Division,16169
-20114,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,16000
 32373,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,16000
-20183,FY17,Information Technology,Employer Paid Taxes,311 Division,15997
 32333,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,15736
-12657,FY16,Information Technology,Employer Paid Taxes,Innovation Team Division,15487
-3054,FY15,Information Technology,Employer Paid Taxes,IT Business Management Division,15387
 32486,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,15042
-3127,FY15,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,14342
 32320,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,14003
-3061,FY15,Information Technology,General Supplies,IT Business Management Division,14000
-12580,FY16,Information Technology,General Supplies,IT Business Management Division,14000
-20033,FY17,Information Technology,General Supplies,IT Business Management Division,14000
 32275,FY18,Information Technology,General Supplies,Office of CIO Division,14000
-12691,FY16,Information Technology,Employer Paid Taxes,IT 311 Division,13794
-3107,FY15,Information Technology,Labor Adjustments,Enterprise Applications Management Division,13667
 32482,FY18,Information Technology,Service & Supply Adjustments,Sacramento City 311 Division,13500
 32267,FY18,Information Technology,Other Purchased Services,Office of CIO Division,12559
-20220,FY17,Information Technology,Service & Supply Adjustments,311 Division,12500
-12642,FY16,Information Technology,Purchased Property Services,IT Business Management Division,12302
-3036,FY15,Information Technology,Property Accounts,IT Business Management Division,12000
-3076,FY15,Information Technology,Purchased Property Services,IT Business Management Division,12000
-12560,FY16,Information Technology,Purchased Property Services,IT Business Management Division,12000
-20058,FY17,Information Technology,Purchased Property Services,IT Business Management Division,12000
-20071,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,12000
-20181,FY17,Information Technology,Purchased Property Services,311 Division,12000
 32481,FY18,Information Technology,Service & Supply Adjustments,Sacramento City 311 Division,11250
 32291,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,10959
-3069,FY15,Information Technology,Other Purchased Services,IT Business Management Division,10740
-12572,FY16,Information Technology,Other Purchased Services,IT Business Management Division,10740
-20070,FY17,Information Technology,Other Purchased Services,IT Business Management Division,10740
-12655,FY16,Information Technology,Employer Paid Taxes,Innovation Team Division,10681
 32457,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,10628
-20206,FY17,Information Technology,Employee Benefits,311 Division,10191
-3081,FY15,Information Technology,Purchased Property Services,IT Business Management Division,10000
-3141,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,10000
-12565,FY16,Information Technology,Purchased Property Services,IT Business Management Division,10000
-12649,FY16,Information Technology,Other Purchased Services,IT Business Management Division,10000
-20063,FY17,Information Technology,Purchased Property Services,IT Business Management Division,10000
-20149,FY17,Information Technology,Other Purchased Services,IT Business Management Division,10000
 32261,FY18,Information Technology,Purchased Property Services,Office of CIO Division,10000
 32335,FY18,Information Technology,Service & Supply Adjustments,Public Safety IT Division,10000
 32437,FY18,Information Technology,Other Purchased Services,Office of CIO Division,10000
-3057,FY15,Information Technology,Other Objects,IT Business Management Division,9400
-12582,FY16,Information Technology,Other Objects,IT Business Management Division,9400
-20035,FY17,Information Technology,Other Objects,IT Business Management Division,9400
 32277,FY18,Information Technology,Other Objects,Office of CIO Division,9400
-12673,FY16,Information Technology,Purchased Property Services,IT 311 Division,9386
-12611,FY16,Information Technology,Employer Paid Taxes,IT Regional Support Division,9162
 32477,FY18,Information Technology,Purchased Property Services,Sacramento City 311 Division,9000
-3103,FY15,Information Technology,Employer Paid Taxes,IT Regional Support Division,8649
-12687,FY16,Information Technology,Employee Benefits,IT 311 Division,8587
 32495,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,8250
 32500,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,8250
-20049,FY17,Information Technology,Employer Paid Taxes,IT Business Management Division,7742
 32461,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,7665
 32488,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,7525
-3066,FY15,Information Technology,Other Purchased Services,IT Business Management Division,7000
-12575,FY16,Information Technology,Other Purchased Services,IT Business Management Division,7000
-20028,FY17,Information Technology,Other Purchased Services,IT Business Management Division,7000
 32270,FY18,Information Technology,Other Purchased Services,Office of CIO Division,7000
-20182,FY17,Information Technology,Employer Paid Taxes,311 Division,6720
 32331,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,6619
-12550,FY16,Information Technology,Employer Paid Taxes,IT Business Management Division,6382
-12601,FY16,Information Technology,Employer Paid Taxes,IT Regional Support Division,6319
-20103,FY17,Information Technology,Employer Paid Taxes,IT Regional Support Division,6300
 32312,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,6300
 32428,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,6300
-20221,FY17,Information Technology,Service & Supply Adjustments,311 Division,6250
 32329,FY18,Information Technology,Employee Benefits,Public Safety IT Division,6230
-20126,FY17,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,6090
 32405,FY18,Information Technology,Service & Supply Adjustments,Enterprise Applications Management Division,6000
 32365,FY18,Information Technology,Purchased Property Services,Technology Infrastructure Services Division,5968
-3096,FY15,Information Technology,Employer Paid Taxes,IT Regional Support Division,5965
-12628,FY16,Information Technology,Labor Adjustments,Enterprise Applications Management Division,5963
-20130,FY17,Information Technology,Labor Adjustments,Enterprise Applications Management Division,5963
-20169,FY17,Information Technology,Employer Paid Taxes,Innovation Team Division,5880
-12690,FY16,Information Technology,Employer Paid Taxes,IT 311 Division,5670
-12662,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,5566
-20199,FY17,Information Technology,Interfund Reimbursement,311 Division,5566
-20051,FY17,Information Technology,Employer Paid Taxes,IT Business Management Division,5339
-3095,FY15,Information Technology,Purchased Property Services,Technology Infrastructure Services Division,5140
 32344,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,5040
 32391,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,5040
-3037,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,5000
-3075,FY15,Information Technology,Purchased Property Services,IT Business Management Division,5000
-12556,FY16,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,5000
-12561,FY16,Information Technology,Purchased Property Services,IT Business Management Division,5000
-12617,FY16,Information Technology,Service & Supply Adjustments,Enterprise Applications Management Division,5000
-12678,FY16,Information Technology,Other Purchased Services,IT 311 Division,5000
-12694,FY16,Information Technology,Property Accounts,IT 311 Division,5000
-20054,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,5000
-20059,FY17,Information Technology,Purchased Property Services,IT Business Management Division,5000
-20190,FY17,Information Technology,Other Purchased Services,311 Division,5000
-20196,FY17,Information Technology,Property Accounts,311 Division,5000
 32295,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,5000
 32299,FY18,Information Technology,Purchased Property Services,Office of CIO Division,5000
 32404,FY18,Information Technology,Service & Supply Adjustments,Enterprise Applications Management Division,5000
 32469,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,5000
 32475,FY18,Information Technology,Property Accounts,Sacramento City 311 Division,5000
 32334,FY18,Information Technology,Labor Adjustments,Public Safety IT Division,4800
-12552,FY16,Information Technology,Employer Paid Taxes,IT Business Management Division,4401
 32454,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,4217
-12600,FY16,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,3990
-20087,FY17,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,3990
-12638,FY16,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,3780
 32363,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,3780
-12675,FY16,Information Technology,Other Purchased Services,IT 311 Division,3600
-20187,FY17,Information Technology,Other Purchased Services,311 Division,3600
 32466,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,3600
-3084,FY15,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,3570
 32514,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,3379
-20218,FY17,Information Technology,Interfund Reimbursement,311 Division,3319
 32490,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,3275
-3055,FY15,Information Technology,Employer Paid Taxes,IT Business Management Division,3150
-3108,FY15,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,3150
-3067,FY15,Information Technology,Other Purchased Services,IT Business Management Division,3000
-12574,FY16,Information Technology,Other Purchased Services,IT Business Management Division,3000
-12677,FY16,Information Technology,Other Purchased Services,IT 311 Division,3000
-20027,FY17,Information Technology,Other Purchased Services,IT Business Management Division,3000
-20189,FY17,Information Technology,Other Purchased Services,311 Division,3000
 32269,FY18,Information Technology,Other Purchased Services,Office of CIO Division,3000
 32468,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,3000
 32517,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2962
 32498,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2843
-3074,FY15,Information Technology,Purchased Property Services,IT Business Management Division,2500
-12562,FY16,Information Technology,Purchased Property Services,IT Business Management Division,2500
-12590,FY16,Information Technology,Service & Supply Adjustments,Technology Infrastructure Services Division,2500
-20060,FY17,Information Technology,Purchased Property Services,IT Business Management Division,2500
 32258,FY18,Information Technology,Purchased Property Services,Office of CIO Division,2500
-12618,FY16,Information Technology,Service & Supply Adjustments,Enterprise Applications Management Division,2400
-12658,FY16,Information Technology,Employer Paid Taxes,Innovation Team Division,2310
-12586,FY16,Information Technology,Purchased Property Services,Technology Infrastructure Services Division,2211
 32505,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2194
-12623,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,2094
-3085,FY15,Information Technology,Energy and Fuel,Technology Infrastructure Services Division,2027
 32456,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2013
-3078,FY15,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,2000
-12558,FY16,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,2000
-12670,FY16,Information Technology,Employee Benefits,IT 311 Division,2000
-12676,FY16,Information Technology,Other Purchased Services,IT 311 Division,2000
-12696,FY16,Information Technology,Other Purchased Services,IT Business Management Division,2000
-20056,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,2000
-20188,FY17,Information Technology,Other Purchased Services,311 Division,2000
-20207,FY17,Information Technology,Employee Benefits,311 Division,2000
 32297,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,2000
 32458,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,2000
 32467,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,2000
 32321,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,1890
-20076,FY17,Information Technology,Other Purchased Services,IT Business Management Division,1819
-20153,FY17,Information Technology,Purchased Property Services,IT Business Management Division,1818
-3070,FY15,Information Technology,Other Purchased Services,IT Business Management Division,1596
-12571,FY16,Information Technology,Other Purchased Services,IT Business Management Division,1596
-20069,FY17,Information Technology,Other Purchased Services,IT Business Management Division,1596
 32440,FY18,Information Technology,Purchased Property Services,Office of CIO Division,1583
-3068,FY15,Information Technology,Other Purchased Services,IT Business Management Division,1500
-12573,FY16,Information Technology,Other Purchased Services,IT Business Management Division,1500
-20026,FY17,Information Technology,Other Purchased Services,IT Business Management Division,1500
 32268,FY18,Information Technology,Other Purchased Services,Office of CIO Division,1500
-12587,FY16,Information Technology,Energy and Fuel,Technology Infrastructure Services Division,1487
-3097,FY15,Information Technology,Employer Paid Taxes,IT Regional Support Division,1470
-12612,FY16,Information Technology,Employer Paid Taxes,IT Regional Support Division,1470
 32292,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,1470
-12621,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,1415
-20089,FY17,Information Technology,Purchased Property Services,Technology Infrastructure Services Division,1292
 32366,FY18,Information Technology,Energy and Fuel,Technology Infrastructure Services Division,1211
-12591,FY16,Information Technology,Service & Supply Adjustments,Technology Infrastructure Services Division,1200
 32497,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,1146
-12622,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,1132
-20050,FY17,Information Technology,Employer Paid Taxes,IT Business Management Division,1050
 32332,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,1050
-3049,FY15,Information Technology,Other Purchased Services,IT Business Management Division,1000
-3071,FY15,Information Technology,Other Purchased Services,IT Business Management Division,1000
-12569,FY16,Information Technology,Other Purchased Services,IT Business Management Division,1000
-12570,FY16,Information Technology,Other Purchased Services,IT Business Management Division,1000
-12680,FY16,Information Technology,General Supplies,IT 311 Division,1000
-12682,FY16,Information Technology,Food,IT 311 Division,1000
-12692,FY16,Information Technology,Other Objects,IT 311 Division,1000
-20067,FY17,Information Technology,Other Purchased Services,IT Business Management Division,1000
-20068,FY17,Information Technology,Other Purchased Services,IT Business Management Division,1000
-20192,FY17,Information Technology,General Supplies,311 Division,1000
-20194,FY17,Information Technology,Food,311 Division,1000
-20195,FY17,Information Technology,Other Objects,311 Division,1000
 32265,FY18,Information Technology,Other Purchased Services,Office of CIO Division,1000
 32471,FY18,Information Technology,General Supplies,Sacramento City 311 Division,1000
 32473,FY18,Information Technology,Food,Sacramento City 311 Division,1000
 32474,FY18,Information Technology,Other Objects,Sacramento City 311 Division,1000
-20105,FY17,Information Technology,Purchased Property Services,IT Regional Support Division,900
 32395,FY18,Information Technology,Purchased Property Services,IT Regional Support Division,849
-12551,FY16,Information Technology,Employer Paid Taxes,IT Business Management Division,840
-12661,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,810
-20198,FY17,Information Technology,Interfund Reimbursement,311 Division,810
 32453,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,793
 32501,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,753
-20090,FY17,Information Technology,Energy and Fuel,Technology Infrastructure Services Division,712
-3065,FY15,Information Technology,General Supplies,IT Business Management Division,623
-12576,FY16,Information Technology,General Supplies,IT Business Management Division,623
-20029,FY17,Information Technology,General Supplies,IT Business Management Division,623
-3080,FY15,Information Technology,Purchased Property Services,IT Business Management Division,600
-12566,FY16,Information Technology,Purchased Property Services,IT Business Management Division,600
-20064,FY17,Information Technology,Purchased Property Services,IT Business Management Division,600
 32262,FY18,Information Technology,Purchased Property Services,Office of CIO Division,600
 32487,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,561
-3040,FY15,Information Technology,Employee Benefits,IT Business Management Division,500
-3058,FY15,Information Technology,Books and Periodicals,IT Business Management Division,500
-3088,FY15,Information Technology,Employee Benefits,Technology Infrastructure Services Division,500
-12544,FY16,Information Technology,Employee Benefits,IT Business Management Division,500
-12581,FY16,Information Technology,Books and Periodicals,IT Business Management Division,500
-12593,FY16,Information Technology,Employee Benefits,Technology Infrastructure Services Division,500
-12679,FY16,Information Technology,Other Purchased Services,IT 311 Division,500
-12681,FY16,Information Technology,General Supplies,IT 311 Division,500
-20034,FY17,Information Technology,Books and Periodicals,IT Business Management Division,500
-20043,FY17,Information Technology,Employee Benefits,IT Business Management Division,500
-20093,FY17,Information Technology,Employee Benefits,Technology Infrastructure Services Division,500
-20191,FY17,Information Technology,Other Purchased Services,311 Division,500
-20193,FY17,Information Technology,General Supplies,311 Division,500
 32276,FY18,Information Technology,Books and Periodicals,Office of CIO Division,500
 32284,FY18,Information Technology,Employee Benefits,Office of CIO Division,500
 32355,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,500
 32470,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,500
 32472,FY18,Information Technology,General Supplies,Sacramento City 311 Division,500
 32400,FY18,Information Technology,Purchased Property Services,Enterprise Applications Management Division,254
-12643,FY16,Information Technology,Purchased Property Services,IT Business Management Division,203
-3120,FY15,Information Technology,Employee Benefits,Enterprise Applications Management Division,200
-12631,FY16,Information Technology,Employee Benefits,Enterprise Applications Management Division,200
-12669,FY16,Information Technology,Employee Benefits,IT 311 Division,200
-20119,FY17,Information Technology,Employee Benefits,Enterprise Applications Management Division,200
-20202,FY17,Information Technology,Employee Benefits,311 Division,200
 32266,FY18,Information Technology,Other Purchased Services,Office of CIO Division,200
 32271,FY18,Information Technology,General Supplies,Office of CIO Division,200
 32420,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,200
 32508,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,200
 32503,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,150
-3101,FY15,Information Technology,Employee Benefits,IT Regional Support Division,100
-12606,FY16,Information Technology,Employee Benefits,IT Regional Support Division,100
-20116,FY17,Information Technology,Employee Benefits,IT Regional Support Division,100
 32383,FY18,Information Technology,Employee Benefits,IT Regional Support Division,100
-12614,FY16,Information Technology,Purchased Property Services,Enterprise Applications Management Division,54
-3142,FY15,Information Technology,Purchased Property Services,IT Business Management Division,53
-3110,FY15,Information Technology,Purchased Property Services,Enterprise Applications Management Division,29
 32502,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,22
-12668,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,11
-20180,FY17,Information Technology,Interfund Reimbursement,311 Division,11
-3098,FY15,Information Technology,Purchased Property Services,IT Regional Support Division,10
-12602,FY16,Information Technology,Purchased Property Services,IT Regional Support Division,10
-20219,FY17,Information Technology,Interfund Reimbursement,311 Division,-11
-20212,FY17,Information Technology,Interfund Reimbursement,311 Division,-57
-20077,FY17,Information Technology,General Supplies,IT Business Management Division,-423
-12596,FY16,Information Technology,Employee Benefits,Technology Infrastructure Services Division,-670
-20075,FY17,Information Technology,Other Purchased Services,IT Business Management Division,-1396
-12547,FY16,Information Technology,Employee Benefits,IT Business Management Division,-1653
-12634,FY16,Information Technology,Employee Benefits,Enterprise Applications Management Division,-1851
 32485,FY18,Information Technology,Labor Adjustments,Sacramento City 311 Division,-2769
-20156,FY17,Information Technology,Labor Adjustments,Innovation Team Division,-3178
-20216,FY17,Information Technology,Interfund Reimbursement,311 Division,-3308
 32336,FY18,Information Technology,Employee Benefits,Public Safety IT Division,-3691
-20046,FY17,Information Technology,Employee Benefits,IT Business Management Division,-5339
-12629,FY16,Information Technology,Labor Adjustments,Enterprise Applications Management Division,-5963
-20128,FY17,Information Technology,Labor Adjustments,Enterprise Applications Management Division,-5963
-12609,FY16,Information Technology,Employee Benefits,IT Regional Support Division,-6319
-20140,FY17,Information Technology,Labor Adjustments,Enterprise Applications Management Division,-6745
 32317,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,-6780
 32288,FY18,Information Technology,Employee Benefits,Office of CIO Division,-6997
-20215,FY17,Information Technology,Interfund Reimbursement,311 Division,-8495
 32506,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-9534
 32407,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-11000
-12686,FY16,Information Technology,Employee Benefits,IT 311 Division,-11530
 32512,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,-11978
-20072,FY17,Information Technology,Purchased Property Services,IT Business Management Division,-12000
-20205,FY17,Information Technology,Employee Benefits,311 Division,-12325
-3109,FY15,Information Technology,Labor Adjustments,Enterprise Applications Management Division,-13667
-12640,FY16,Information Technology,Labor Adjustments,Enterprise Applications Management Division,-13667
 32280,FY18,Information Technology,Labor Adjustments,Office of CIO Division,-13880
 32359,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,-14878
-20134,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,-16358
 32424,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,-16442
-20122,FY17,Information Technology,Employee Benefits,Enterprise Applications Management Division,-16890
-20083,FY17,Information Technology,Employee Benefits,Technology Infrastructure Services Division,-18036
-20222,FY17,Information Technology,Interfund Reimbursement,311 Division,-18750
 32340,FY18,Information Technology,Employee Benefits,Public Safety IT Division,-19432
-3034,FY15,Information Technology,Transfers 1,IT Business Management Division,-19779
-3035,FY15,Information Technology,Transfers 1,IT Business Management Division,-19779
-12542,FY16,Information Technology,Transfers 1,IT Business Management Division,-19779
-20037,FY17,Information Technology,Transfers 1,IT Business Management Division,-19779
-20038,FY17,Information Technology,Purchased Prof and Tech Svcs,IT Business Management Division,-19779
-3133,FY15,Information Technology,General Supplies,IT Business Management Division,-20000
 32387,FY18,Information Technology,Employee Benefits,IT Regional Support Division,-20414
-20165,FY17,Information Technology,Employee Benefits,Innovation Team Division,-20755
-12619,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,-22123
 32308,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,-22370
-3056,FY15,Information Technology,Labor Adjustments,IT Business Management Division,-22524
-12553,FY16,Information Technology,Labor Adjustments,IT Business Management Division,-22524
 32484,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-24750
-20097,FY17,Information Technology,Employee Benefits,IT Regional Support Division,-26416
 32479,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-28497
-20142,FY17,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-29771
-20073,FY17,Information Technology,Other Purchased Services,IT Business Management Division,-30000
-20211,FY17,Information Technology,Interfund Reimbursement,311 Division,-36045
 32349,FY18,Information Technology,Interfund Reimbursement,Public Safety IT Division,-38447
-3130,FY15,Information Technology,Property Accounts,IT Business Management Division,-40018
-12693,FY16,Information Technology,Service & Supply Adjustments,IT 311 Division,-50000
-12616,FY16,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-54211
-3145,FY15,Information Technology,Purchased Property Services,IT Business Management Division,-55571
-20217,FY17,Information Technology,Interfund Reimbursement,311 Division,-55848
 32515,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-59553
 32409,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-64434
 32411,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-64434
 32413,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-64434
-3128,FY15,Information Technology,Other Purchased Services,IT Business Management Division,-65000
-3136,FY15,Information Technology,Other Purchased Services,IT Business Management Division,-75000
 32417,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-76176
-20135,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,-85032
 32480,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-98604
-3132,FY15,Information Technology,Service & Supply Adjustments,IT Business Management Division,-100000
-12641,FY16,Information Technology,Service & Supply Adjustments,IT Business Management Division,-100000
-20154,FY17,Information Technology,Service & Supply Adjustments,IT Business Management Division,-100000
 32442,FY18,Information Technology,Service & Supply Adjustments,Office of CIO Division,-100000
 32378,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-105806
 32376,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-109624
-20155,FY17,Information Technology,Interfund Reimbursement,IT Business Management Division,-113776
-20132,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,-117058
 32372,FY18,Information Technology,Transfers 1,IT Regional Support Division,-119446
-20136,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,-121242
 32401,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-125853
 32415,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-125931
-3100,FY15,Information Technology,Interfund Reimbursement,IT Regional Support Division,-126776
-3119,FY15,Information Technology,Transfers 1,Enterprise Applications Management Division,-127506
-3059,FY15,Information Technology,Energy and Fuel,IT Business Management Division,-135000
-20133,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,-137384
-12644,FY16,Information Technology,Interfund Reimbursement,IT Business Management Division,-149828
-3112,FY15,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-157833
 32348,FY18,Information Technology,Interfund Reimbursement,Public Safety IT Division,-167788
 32441,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,-181963
-20137,FY17,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-202107
 32431,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-202107
-20106,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,-206335
 32399,FY18,Information Technology,Transfers 1,IT Regional Support Division,-210787
 32450,FY18,Information Technology,Transfers 1,Office of CIO Division,-227238
 32406,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-235014
-3047,FY15,Information Technology,Purchased Property Services,IT Business Management Division,-253184
-3144,FY15,Information Technology,Interfund Reimbursement,IT Business Management Division,-281360
 32483,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,-285349
-3032,FY15,Information Technology,Interfund Reimbursement,IT Business Management Division,-285900
-20223,FY17,Information Technology,Other Purchased Services,IT Business Management Division,-294000
 32519,FY18,Information Technology,Other Purchased Services,Office of CIO Division,-294000
-12695,FY16,Information Technology,Other Purchased Services,IT Business Management Division,-296000
-20210,FY17,Information Technology,Interfund Reimbursement,311 Division,-310800
 32430,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-314544
-12588,FY16,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,-356392
 32370,FY18,Information Technology,Transfers 1,IT Regional Support Division,-372391
-3118,FY15,Information Technology,Transfers 1,Enterprise Applications Management Division,-399505
-20171,FY17,Information Technology,Transfers 1,Innovation Team Division,-406359
 32448,FY18,Information Technology,Transfers 1,Office of CIO Division,-414389
 32380,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-430979
-12603,FY16,Information Technology,Interfund Reimbursement,IT Regional Support Division,-504239
-12613,FY16,Information Technology,Transfers 1,Enterprise Applications Management Division,-527011
-20129,FY17,Information Technology,Transfers 1,Enterprise Applications Management Division,-549134
-20091,FY17,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,-569746
-3147,FY15,Information Technology,Other Purchased Services,IT Business Management Division,-627000
 32314,FY18,Information Technology,Transfers 1,DOU Systems Support Division,-688736
-20102,FY17,Information Technology,Interfund Reimbursement,IT Regional Support Division,-702409
 32394,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-702409
-20101,FY17,Information Technology,Transfers 1,IT Regional Support Division,-702624
 32393,FY18,Information Technology,Transfers 1,IT Regional Support Division,-702624
 32444,FY18,Information Technology,Transfers 1,Office of CIO Division,-839140
 32446,FY18,Information Technology,Transfers 1,Office of CIO Division,-847992
 32432,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-1017948
-3087,FY15,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,-1019966
-20078,FY17,Information Technology,Interfund Reimbursement,IT Business Management Division,-1041301
 32323,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,-1047880
-12583,FY16,Information Technology,Interfund Reimbursement,IT Business Management Division,-1061118
 32396,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-1075955
-12660,FY16,Information Technology,Interfund Reimbursement,IT 311 Division,-1135808
-20197,FY17,Information Technology,Interfund Reimbursement,311 Division,-1135808
 32367,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,-1150673
 32476,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-1501403
 32279,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,-1589065
-20175,FY17,Information Technology,Transfers 1,Innovation Team Division,-1922400
 32451,FY18,Information Technology,Transfers 1,Office of CIO Division,-2328759

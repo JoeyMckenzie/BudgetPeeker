@@ -333,9 +333,6 @@
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/BudgetPeeker.RazorCoreGenerate.cache
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Budget/Index.g.cshtml.cs
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Budget/Results.g.cshtml.cs
-/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
-/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
-/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
@@ -355,3 +352,4 @@
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/BudgetPeeker.db
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/CsvHelper.dll
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Budget/ExportToCsv.g.cshtml.cs
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
