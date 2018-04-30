@@ -1,0 +1,50 @@
+@using BudgetPeeker.Models
+@model BudgetResultsViewModel
+
+
+<form method="get" asp-controller="Budget" asp-action="Results" class="form-group text-center">
+    @{
+        var topPreviousPage = Model.InputSelectors.Page - 1;
+        var topNextPage = Model.InputSelectors.Page + 1;
+    }
+
+    @* Paginate if total number of pages <= 10 *@
+    @if (Model.NumberOfPages <= 10)
+    {
+        <div style="margin-left: 40%;">
+            <ul class="pagination">
+                <li class="@(Model.InputSelectors.Page == 1 ? "page-item disabled" : "page-item")">
+                    <button name="Page" type="submit" class="page-link" value="@(topPreviousPage == 0 ? Model.NumberOfPages : topPreviousPage)">&laquo;</button>
+                </li>
+                @for (int i = 1; i <= Model.NumberOfPages; i++)
+                {
+                    <li class="@(Model.InputSelectors.Page == i ? "page-item active" : "page-item")">
+                        <button name="Page" type="submit" class="page-link" value="@i">@i</button>
+                    </li>
+                }
+                <li class="@(Model.InputSelectors.Page == Model.NumberOfPages ? "page-item disabled" : "page-item")">
+                    <button name="Page" type="submit" class="page-link" value="@(topNextPage > Model.NumberOfPages ? 1 : topNextPage)">&raquo;</button>
+                </li>
+            </ul>
+        </div>
+    }
+    else
+    {
+        @* Page next/back *@
+        <p>
+            <strong>Current page: </strong>@(Model.InputSelectors.Page == 0 ? 1 : Model.InputSelectors.Page)
+        </p>
+
+        if (Model.NumberOfPages > 1)
+        {
+            <button name="Page" type="submit" class="btn btn-primary" value="@(topPreviousPage == 0 ? Model.NumberOfPages : topPreviousPage)">Previous Page</button>
+            <button name="Page" type="submit" class="btn btn-primary" value="@(topNextPage > Model.NumberOfPages ? 1 : topNextPage)">Next Page</button>
+        }
+    }
+
+    <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
+    <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
+    <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
+    <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
+    <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
+</form>
