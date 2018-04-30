@@ -105,6 +105,7 @@
                     </label>
                     <select name="FiscalYear" onchange="this.form.submit()"  asp-items="@filteredFiscalYearDropdown" class="custom-select">
                         <option disabled selected>Filter by fiscal year</option>
+                        <option>All fiscal years</option>
                     </select>
                 }
             </div>
@@ -118,8 +119,6 @@
         </form>
                 
 
-
-            
         @* Department Division *@
         <form method="get" asp-controller="Budget" asp-action="Results">
             <div class="form-group form-inline">
@@ -136,6 +135,7 @@
                     </label>
                     <select name="DepartmentDivision" onchange="this.form.submit()" asp-items="@filteredDepartmentDivisionDropdown" class="custom-select">                       
                         <option disabled selected>Filter by department division</option>
+                        <option>All department divisions</option>
                     </select>
                 }
             </div>
@@ -165,6 +165,7 @@
                     </label>
                     <select name="AccountCategory" onchange="this.form.submit()" asp-items="@filteredAccountCategoryDropdown" class="custom-select">
                         <option disabled selected>Filter by account category</option>
+                        <option>All account categoies</option>
                     </select>
                 }
             </div>   
@@ -193,6 +194,7 @@
                     </label>
                     <select name="OperatingUnit" onchange="this.form.submit()" asp-items="@filteredOperatingUnitDropdown" class="custom-select">
                         <option disabled selected>Filter by operating unit</option>
+                        <option>All operating units</option>
                     </select>
                 }
             </div>
@@ -204,16 +206,15 @@
             <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
             <input type="hidden" name="Page" value="1"/>
         </form>
-
+        
+        @* Get previous query *@
+        <div class="form-group">
+            <a id="previousResults" class="btn btn-secondary" href="javascript:history.go(-1)">Unfilter</a>
+        </div>
             
         <div class="form-group">
             <a class="btn btn-primary" asp-controller="Budget" asp-action="Index" role="button">Select Different Fields</a>
         </div>
-        
-        @* Get previous query *@
-        @* <div class="form-group"> *@
-        @*     <a id="previousResults" class="btn btn-secondary" href="javascript:history.go(-1)">Previous Results</a> *@
-        @* </div> *@
         
         @* Get CSV *@
         <div class="form-group">

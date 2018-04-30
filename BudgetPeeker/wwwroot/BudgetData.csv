@@ -1,269 +1,363 @@
 Id,FiscalYear,OperatingUnit,AccountCategory,DepartmentDivision,BudgetAmount
-28044,FY18,Police,Earnings,Office of Operations Division,450000
-28045,FY18,Police,Earnings,Office of Operations Division,201324
-28104,FY18,Police,Earnings,Office of Operations Division,8191
-28105,FY18,Police,Earnings,Office of Operations Division,615
-28106,FY18,Police,Earnings,Office of Operations Division,425
-28111,FY18,Police,Earnings,Office of Specialized Services Division,155000
-28146,FY18,Police,Earnings,Office of Specialized Services Division,11000
-28186,FY18,Police,Earnings,Office of Specialized Services Division,127000
-28215,FY18,Police,Earnings,Office of Operations Division,222000
-28216,FY18,Police,Earnings,Office of Operations Division,14322
-28217,FY18,Police,Earnings,Office of Operations Division,12000
-28218,FY18,Police,Earnings,Office of Operations Division,21322
-28262,FY18,Police,Earnings,Office of Operations Division,222000
-28263,FY18,Police,Earnings,Office of Operations Division,11264
-28264,FY18,Police,Earnings,Office of Operations Division,13100
-28265,FY18,Police,Earnings,Office of Operations Division,18030
-28317,FY18,Police,Earnings,Office of Operations Division,144000
-28342,FY18,Police,Earnings,Office of the Chief Division,10000
-28352,FY18,Police,Earnings,Office of Operations Division,96000
-28382,FY18,Police,Earnings,Office of Investigations Division,154
-28383,FY18,Police,Earnings,Office of Investigations Division,2000
-28399,FY18,Police,Earnings,Office of Investigations Division,77
-28422,FY18,Police,Earnings,Office of Investigations Division,508182
-28423,FY18,Police,Earnings,Office of Investigations Division,54
-28424,FY18,Police,Earnings,Office of Investigations Division,37900
-28425,FY18,Police,Earnings,Office of Investigations Division,7730
-28471,FY18,Police,Earnings,Office of Investigations Division,1160
-28482,FY18,Police,Earnings,Office of Investigations Division,87500
-28483,FY18,Police,Earnings,Office of Investigations Division,84365
-28485,FY18,Police,Earnings,Office of Investigations Division,7838
-28541,FY18,Police,Earnings,Office of Specialized Services Division,109
-28543,FY18,Police,Earnings,Office of Operations Division,242000
-28544,FY18,Police,Earnings,Office of Operations Division,670469
-28545,FY18,Police,Earnings,Office of Operations Division,15000
-28546,FY18,Police,Earnings,Office of Operations Division,14268
-28606,FY18,Police,Earnings,Office of Investigations Division,310132
-28607,FY18,Police,Earnings,Office of Investigations Division,130000
-28636,FY18,Police,Earnings,Office of Investigations Division,1303
-28668,FY18,Police,Earnings,Office of Investigations Division,35450
-28669,FY18,Police,Earnings,Office of Investigations Division,35935
-28670,FY18,Police,Earnings,Office of Investigations Division,6660
-28711,FY18,Police,Earnings,Office of Specialized Services Division,11000
-28712,FY18,Police,Earnings,Office of Specialized Services Division,270
-28713,FY18,Police,Earnings,Office of Specialized Services Division,184
-28775,FY18,Police,Earnings,Office of Investigations Division,16500
-28776,FY18,Police,Earnings,Office of Investigations Division,21993
-28777,FY18,Police,Earnings,Office of Investigations Division,5000
-28778,FY18,Police,Earnings,Office of Investigations Division,10
-28812,FY18,Police,Earnings,Office of the Chief Division,3550
-28905,FY18,Police,Earnings,Office of Specialized Services Division,208206
-29521,FY18,City Clerk,Earnings,City Clerk Division,20000
-29746,FY18,Finance,Earnings,Revenue Division,350
-29782,FY18,Finance,Earnings,Revenue Division,7633
-29783,FY18,Finance,Earnings,Revenue Division,3000
-29838,FY18,Finance,Earnings,Revenue Division,3131
-29906,FY18,Finance,Earnings,Accounting Division,-21000
-29953,FY18,Finance,Earnings,Accounting Division,26000
-30115,FY18,Fire,Earnings,Risk Reduction Division,10000
-30144,FY18,Fire,Earnings,Risk Reduction Division,12000
-30162,FY18,Fire,Earnings,Risk Reduction Division,113866
-30206,FY18,Fire,Earnings,Operations Division,2327448
-30246,FY18,Fire,Earnings,Resource Management Division,14000
-30368,FY18,Fire,Earnings,Operations Division,10000
-30377,FY18,Fire,Earnings,Operations Division,25000
-30402,FY18,Fire,Earnings,Risk Reduction Division,810000
-30713,FY18,Utilities,Earnings,Operations & Maintenance Division,31229
-30714,FY18,Utilities,Earnings,Operations & Maintenance Division,20000
-30715,FY18,Utilities,Earnings,Operations & Maintenance Division,20000
-30716,FY18,Utilities,Earnings,Operations & Maintenance Division,7443
-30788,FY18,Utilities,Earnings,Operations & Maintenance Division,113771
-30789,FY18,Utilities,Earnings,Operations & Maintenance Division,580000
-30790,FY18,Utilities,Earnings,Operations & Maintenance Division,15000
-30791,FY18,Utilities,Earnings,Operations & Maintenance Division,367557
-30828,FY18,Utilities,Earnings,Operations & Maintenance Division,6972
-30829,FY18,Utilities,Earnings,Operations & Maintenance Division,8575
-30830,FY18,Utilities,Earnings,Operations & Maintenance Division,10000
-30903,FY18,Utilities,Earnings,Operations & Maintenance Division,80000
-30904,FY18,Utilities,Earnings,Operations & Maintenance Division,500
-30905,FY18,Utilities,Earnings,Operations & Maintenance Division,44200
-30906,FY18,Utilities,Earnings,Operations & Maintenance Division,2955
-30931,FY18,Utilities,Earnings,Operations & Maintenance Division,-30000
-30932,FY18,Utilities,Earnings,Operations & Maintenance Division,7800
-30933,FY18,Utilities,Earnings,Operations & Maintenance Division,33720
-31031,FY18,Utilities,Earnings,Operations & Maintenance Division,82904
-31032,FY18,Utilities,Earnings,Operations & Maintenance Division,47015
-31033,FY18,Utilities,Earnings,Operations & Maintenance Division,3818
-31093,FY18,Utilities,Earnings,Operations & Maintenance Division,14000
-31094,FY18,Utilities,Earnings,Operations & Maintenance Division,8000
-31164,FY18,Utilities,Earnings,Operations & Maintenance Division,10000
-31165,FY18,Utilities,Earnings,Operations & Maintenance Division,5000
-31166,FY18,Utilities,Earnings,Operations & Maintenance Division,1000
-31212,FY18,Utilities,Earnings,Operations & Maintenance Division,14051
-31213,FY18,Utilities,Earnings,Operations & Maintenance Division,4000
-31242,FY18,Utilities,Earnings,Business Services Division,5000
-31243,FY18,Utilities,Earnings,Business Services Division,3748
-31309,FY18,Utilities,Earnings,Business Services Division,11152
-31310,FY18,Utilities,Earnings,Business Services Division,20000
-31351,FY18,Utilities,Earnings,Business Services Division,10000
-31356,FY18,Utilities,Earnings,Business Services Division,15500
-31547,FY18,Public Works,Earnings,Office of the Director,5000
-31548,FY18,Public Works,Earnings,Office of the Director,26452
-31670,FY18,Public Works,Earnings,Engineering Services Division - Public Works,16544
-31802,FY18,Public Works,Earnings,Parking Services Division,26506
-31803,FY18,Public Works,Earnings,Parking Services Division,58755
-31804,FY18,Public Works,Earnings,Parking Services Division,62111
-32131,FY18,Finance,Earnings,Budget Office Division,2500
-32132,FY18,Finance,Earnings,Budget Office Division,5000
-32235,FY18,Finance,Earnings,Payroll Division,21000
-32686,FY18,Human Resources,Earnings,HR Administration Division,-500
-32704,FY18,Human Resources,Earnings,HR Administration Division,500
-32917,FY18,Police,Earnings,Office of the Chief Division,9500
-32918,FY18,Police,Earnings,Office of the Chief Division,17000
-32919,FY18,Police,Earnings,Office of the Chief Division,22997
-32953,FY18,Police,Earnings,Office of the Chief Division,12500
-32954,FY18,Police,Earnings,Office of the Chief Division,5000
-32983,FY18,Police,Earnings,Office of the Chief Division,40300
-32984,FY18,Police,Earnings,Office of the Chief Division,20000
-32985,FY18,Police,Earnings,Office of the Chief Division,237
-34027,FY18,Utilities,Earnings,Operations & Maintenance Division,4236
-34028,FY18,Utilities,Earnings,Operations & Maintenance Division,10688
-34029,FY18,Utilities,Earnings,Operations & Maintenance Division,3792
-34079,FY18,Utilities,Earnings,Operations & Maintenance Division,7680
-34080,FY18,Utilities,Earnings,Operations & Maintenance Division,7696
-34081,FY18,Utilities,Earnings,Operations & Maintenance Division,564
-34131,FY18,Utilities,Earnings,Operations & Maintenance Division,6942
-34132,FY18,Utilities,Earnings,Operations & Maintenance Division,2150
-34160,FY18,Utilities,Earnings,Operations & Maintenance Division,5008
-34161,FY18,Utilities,Earnings,Operations & Maintenance Division,3898
-34182,FY18,Utilities,Earnings,Operations & Maintenance Division,2150
-34183,FY18,Utilities,Earnings,Operations & Maintenance Division,-2150
-34251,FY18,Utilities,Earnings,Operations & Maintenance Division,10000
-34252,FY18,Utilities,Earnings,Operations & Maintenance Division,3000
-34253,FY18,Utilities,Earnings,Operations & Maintenance Division,1000
-34281,FY18,Utilities,Earnings,Operations & Maintenance Division,-3000
-34282,FY18,Utilities,Earnings,Operations & Maintenance Division,-1000
-34342,FY18,Utilities,Earnings,Engineering  & Water Services Division,35000
-34419,FY18,Utilities,Earnings,Engineering  & Water Services Division,-9000
-34420,FY18,Utilities,Earnings,Engineering  & Water Services Division,-5000
-34421,FY18,Utilities,Earnings,Engineering  & Water Services Division,-1000
-34437,FY18,Utilities,Earnings,Engineering  & Water Services Division,10000
-34438,FY18,Utilities,Earnings,Engineering  & Water Services Division,5000
-34439,FY18,Utilities,Earnings,Engineering  & Water Services Division,1000
-34591,FY18,Utilities,Earnings,Engineering  & Water Services Division,15015
-34592,FY18,Utilities,Earnings,Engineering  & Water Services Division,2149
-34593,FY18,Utilities,Earnings,Engineering  & Water Services Division,22541
-34594,FY18,Utilities,Earnings,Engineering  & Water Services Division,15998
-34626,FY18,Utilities,Earnings,Engineering  & Water Services Division,15000
-34627,FY18,Utilities,Earnings,Engineering  & Water Services Division,8500
-34729,FY18,Utilities,Earnings,Engineering  & Water Services Division,8570
-34766,FY18,Utilities,Earnings,Engineering  & Water Services Division,10000
-34842,FY18,Utilities,Earnings,Operations & Maintenance Division,321000
-34843,FY18,Utilities,Earnings,Operations & Maintenance Division,26500
-34878,FY18,Utilities,Earnings,Operations & Maintenance Division,123500
-34879,FY18,Utilities,Earnings,Operations & Maintenance Division,45000
-34887,FY18,Utilities,Earnings,Operations & Maintenance Division,37000
-34888,FY18,Utilities,Earnings,Operations & Maintenance Division,22000
-34916,FY18,Utilities,Earnings,Operations & Maintenance Division,100000
-34917,FY18,Utilities,Earnings,Operations & Maintenance Division,66537
-34989,FY18,Utilities,Earnings,Operations & Maintenance Division,100000
-34990,FY18,Utilities,Earnings,Operations & Maintenance Division,32782
-34991,FY18,Utilities,Earnings,Operations & Maintenance Division,4000
-35357,FY18,Public Works,Earnings,Parking Services Division,1545
-35465,FY18,Public Works,Earnings,Maintenance Services Division,35000
-35466,FY18,Public Works,Earnings,Maintenance Services Division,68
-35522,FY18,Public Works,Earnings,Maintenance Services Division,80000
-35523,FY18,Public Works,Earnings,Maintenance Services Division,16138
-35524,FY18,Public Works,Earnings,Maintenance Services Division,15000
-35591,FY18,Public Works,Earnings,Maintenance Services Division,2090
-35643,FY18,Public Works,Earnings,Maintenance Services Division,2035
-35738,FY18,Public Works,Earnings,Maintenance Services Division,18090
-35739,FY18,Public Works,Earnings,Maintenance Services Division,1056
-35740,FY18,Public Works,Earnings,Maintenance Services Division,12830
-35741,FY18,Public Works,Earnings,Maintenance Services Division,3407
-35813,FY18,Public Works,Earnings,Transportation Division,10000
-35814,FY18,Public Works,Earnings,Transportation Division,2000
-35818,FY18,Public Works,Earnings,Transportation Division,34160
-35819,FY18,Public Works,Earnings,Transportation Division,13504
-35820,FY18,Public Works,Earnings,Transportation Division,21900
-35919,FY18,Public Works,Earnings,Transportation Division,23100
-35920,FY18,Public Works,Earnings,Transportation Division,2900
-35935,FY18,Public Works,Earnings,Transportation Division,14914
-35936,FY18,Public Works,Earnings,Transportation Division,6552
-35937,FY18,Public Works,Earnings,Transportation Division,5000
-36012,FY18,Public Works,Earnings,Parking Services Division,1500
-36013,FY18,Public Works,Earnings,Parking Services Division,2000
-36014,FY18,Public Works,Earnings,Parking Services Division,1850
-36137,FY18,Public Works,Earnings,Fleet Management Division,86794
-36138,FY18,Public Works,Earnings,Fleet Management Division,-81348
-36139,FY18,Public Works,Earnings,Fleet Management Division,2493
-36140,FY18,Public Works,Earnings,Fleet Management Division,5819
-36170,FY18,Public Works,Earnings,Fleet Management Division,57732
-36171,FY18,Public Works,Earnings,Fleet Management Division,135330
-36172,FY18,Public Works,Earnings,Fleet Management Division,22454
-36173,FY18,Public Works,Earnings,Fleet Management Division,3021
-36267,FY18,Parks and Recreation,Earnings,Recreation Operations Division,15000
-36268,FY18,Parks and Recreation,Earnings,Recreation Operations Division,5000
-36269,FY18,Parks and Recreation,Earnings,Recreation Operations Division,15000
-36393,FY18,Community Development,Earnings,Administration Division,57300
-36394,FY18,Community Development,Earnings,Administration Division,7500
-36432,FY18,Community Development,Earnings,Customer Service Division,25200
-36433,FY18,Community Development,Earnings,Customer Service Division,5000
-36462,FY18,Community Development,Earnings,Building Division,165000
-36463,FY18,Community Development,Earnings,Building Division,20500
-36553,FY18,Community Development,Earnings,Planning Division,32500
-36554,FY18,Community Development,Earnings,Planning Division,17000
-36726,FY18,Community Development,Earnings,Code Enforcement Division,43920
-36727,FY18,Community Development,Earnings,Code Enforcement Division,7000
-36728,FY18,Community Development,Earnings,Code Enforcement Division,50000
-36771,FY18,Community Development,Earnings,Code Enforcement Division,36228
-36772,FY18,Community Development,Earnings,Code Enforcement Division,75
-37229,FY18,Convention and Cultural Services,Earnings,History Division,2000
-37322,FY18,Parks and Recreation,Earnings,Administrative Services Division,1505
-37425,FY18,Parks and Recreation,Earnings,Park Planning and Development Division,5200
-37527,FY18,Parks and Recreation,Earnings,Park Operations Division,7398
-37528,FY18,Parks and Recreation,Earnings,Park Operations Division,7398
-37529,FY18,Parks and Recreation,Earnings,Park Operations Division,5400
-37570,FY18,Parks and Recreation,Earnings,Recreation Operations Division,118
-37612,FY18,Parks and Recreation,Earnings,Recreation Operations Division,794
-37613,FY18,Parks and Recreation,Earnings,Recreation Operations Division,794
-37614,FY18,Parks and Recreation,Earnings,Recreation Operations Division,2097
-37692,FY18,Parks and Recreation,Earnings,Recreation Operations Division,796
-37764,FY18,Parks and Recreation,Earnings,Recreation Operations Division,84896
-37765,FY18,Parks and Recreation,Earnings,Recreation Operations Division,5179
-37834,FY18,Parks and Recreation,Earnings,Park Operations Division,10220
-37874,FY18,Parks and Recreation,Earnings,Recreation Operations Division,10000
+4150,FY15,Parks and Recreation,Other Objects,4th R Division,1000
+4151,FY15,Parks and Recreation,Other Objects,4th R Division,1839
+4152,FY15,Parks and Recreation,Other Objects,4th R Division,5000
+4153,FY15,Parks and Recreation,Books and Periodicals,4th R Division,5708
+4154,FY15,Parks and Recreation,Food,4th R Division,125000
+4155,FY15,Parks and Recreation,General Supplies,4th R Division,1027
+4156,FY15,Parks and Recreation,Energy and Fuel,4th R Division,739
+4157,FY15,Parks and Recreation,General Supplies,4th R Division,8615
+4158,FY15,Parks and Recreation,General Supplies,4th R Division,9193
+4159,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,-590298
+4160,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,901263
+4161,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+4162,FY15,Parks and Recreation,Labor Adjustments,4th R Division,-758626
+4163,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,65152
+4164,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,38842
+4165,FY15,Parks and Recreation,Other Purchased Services,4th R Division,27300
+4166,FY15,Parks and Recreation,Purchased Property Services,4th R Division,20000
+4167,FY15,Parks and Recreation,Purchased Property Services,4th R Division,114
+4168,FY15,Parks and Recreation,Purchased Property Services,4th R Division,8500
+4169,FY15,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+4170,FY15,Parks and Recreation,Property Accounts,4th R Division,39800
+4171,FY15,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+4172,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-57000
+4173,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,75000
+4174,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
+4175,FY15,Parks and Recreation,Other Purchased Services,4th R Division,2500
+4176,FY15,Parks and Recreation,Other Purchased Services,4th R Division,1500
+4177,FY15,Parks and Recreation,Other Purchased Services,4th R Division,70896
+4178,FY15,Parks and Recreation,Other Purchased Services,4th R Division,70000
+4179,FY15,Parks and Recreation,Other Purchased Services,4th R Division,173
+4180,FY15,Parks and Recreation,Other Purchased Services,4th R Division,21500
+4181,FY15,Parks and Recreation,Other Purchased Services,4th R Division,30000
+4182,FY15,Parks and Recreation,Other Purchased Services,4th R Division,9808
+4183,FY15,Parks and Recreation,Other Purchased Services,4th R Division,5000
+4184,FY15,Parks and Recreation,Other Purchased Services,4th R Division,18261
+4185,FY15,Parks and Recreation,Other Purchased Services,4th R Division,30062
+4186,FY15,Parks and Recreation,General Supplies,4th R Division,197269
+4187,FY15,Parks and Recreation,General Supplies,4th R Division,189
+4188,FY15,Parks and Recreation,General Supplies,4th R Division,4438
+4189,FY15,Parks and Recreation,General Supplies,4th R Division,303
+4190,FY15,Parks and Recreation,General Supplies,4th R Division,13
+4191,FY15,Parks and Recreation,General Supplies,4th R Division,44249
+4192,FY15,Parks and Recreation,General Supplies,4th R Division,1253
+4193,FY15,Parks and Recreation,Other Purchased Services,4th R Division,2500
+4194,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
+4195,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+4196,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+4197,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
+4198,FY15,Parks and Recreation,Salaries,4th R Division,3884672
+4199,FY15,Parks and Recreation,Employee Benefits,4th R Division,700
+4200,FY15,Parks and Recreation,Earnings,4th R Division,170150
+4201,FY15,Parks and Recreation,Earnings,4th R Division,8500
+4202,FY15,Parks and Recreation,Purchased Property Services,4th R Division,1527
+4203,FY15,Parks and Recreation,Purchased Property Services,4th R Division,10000
+4204,FY15,Parks and Recreation,Purchased Property Services,4th R Division,25000
+4205,FY15,Parks and Recreation,Purchased Property Services,4th R Division,9273
+4206,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
+4207,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+4208,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
+4209,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,56328
+4210,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,240850
+4211,FY15,Parks and Recreation,Employee Benefits,4th R Division,30929
+4212,FY15,Parks and Recreation,Employee Benefits,4th R Division,2500
+4213,FY15,Parks and Recreation,Employee Benefits,4th R Division,1000
+4214,FY15,Parks and Recreation,Purchased Property Services,4th R Division,89226
+4215,FY15,Parks and Recreation,Employee Benefits,4th R Division,3000
+4216,FY15,Parks and Recreation,Employee Benefits,4th R Division,9220
+4217,FY15,Parks and Recreation,Employee Benefits,4th R Division,404360
+4218,FY15,Parks and Recreation,Employee Benefits,4th R Division,583858
+4219,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+4220,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-101800
+4221,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,150000
+4222,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+4223,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-50000
+4224,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,100000
+4225,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-2864429
+4226,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,4735012
+4227,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+4228,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+4229,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,5000
+4230,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,3000
+16396,FY16,Parks and Recreation,Employee Benefits,4th R Division,30929
+16397,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,255539
+16398,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,59763
+16399,FY16,Parks and Recreation,Other Purchased Services,4th R Division,2500
+16400,FY16,Parks and Recreation,Other Purchased Services,4th R Division,2500
+16401,FY16,Parks and Recreation,General Supplies,4th R Division,1253
+16402,FY16,Parks and Recreation,General Supplies,4th R Division,44249
+16403,FY16,Parks and Recreation,General Supplies,4th R Division,13
+16404,FY16,Parks and Recreation,General Supplies,4th R Division,303
+16405,FY16,Parks and Recreation,General Supplies,4th R Division,4438
+16406,FY16,Parks and Recreation,General Supplies,4th R Division,189
+16407,FY16,Parks and Recreation,General Supplies,4th R Division,1027
+16408,FY16,Parks and Recreation,General Supplies,4th R Division,197269
+16409,FY16,Parks and Recreation,General Supplies,4th R Division,9193
+16410,FY16,Parks and Recreation,General Supplies,4th R Division,8615
+16411,FY16,Parks and Recreation,Food,4th R Division,125000
+16412,FY16,Parks and Recreation,Books and Periodicals,4th R Division,5708
+16413,FY16,Parks and Recreation,Other Objects,4th R Division,5000
+16414,FY16,Parks and Recreation,Other Objects,4th R Division,1839
+16415,FY16,Parks and Recreation,Other Objects,4th R Division,1000
+16416,FY16,Parks and Recreation,Property Accounts,4th R Division,39800
+16417,FY16,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+16418,FY16,Parks and Recreation,Operating Transfers Accounts,4th R Division,-209000
+16419,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,39168
+16420,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,127143
+16421,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
+16422,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+16423,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+16424,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
+16425,FY16,Parks and Recreation,Purchased Property Services,4th R Division,990
+16426,FY16,Parks and Recreation,Purchased Property Services,4th R Division,40
+16427,FY16,Parks and Recreation,Energy and Fuel,4th R Division,715
+16428,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-523000
+16429,FY16,Parks and Recreation,Labor Adjustments,4th R Division,-1381592
+16430,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,523000
+16431,FY16,Parks and Recreation,Labor Adjustments,4th R Division,563082
+16432,FY16,Parks and Recreation,Operating Transfers Accounts,4th R Division,-131000
+16433,FY16,Parks and Recreation,Other Purchased Services,4th R Division,4280
+16434,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
+16435,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+16436,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
+16437,FY16,Parks and Recreation,Purchased Property Services,4th R Division,9273
+16438,FY16,Parks and Recreation,Purchased Property Services,4th R Division,25000
+16439,FY16,Parks and Recreation,Purchased Property Services,4th R Division,10000
+16440,FY16,Parks and Recreation,Purchased Property Services,4th R Division,89226
+16441,FY16,Parks and Recreation,Purchased Property Services,4th R Division,8500
+16442,FY16,Parks and Recreation,Purchased Property Services,4th R Division,20000
+16443,FY16,Parks and Recreation,Other Purchased Services,4th R Division,57362
+16444,FY16,Parks and Recreation,Other Purchased Services,4th R Division,18261
+16445,FY16,Parks and Recreation,Other Purchased Services,4th R Division,5000
+16446,FY16,Parks and Recreation,Other Purchased Services,4th R Division,9808
+16447,FY16,Parks and Recreation,Other Purchased Services,4th R Division,30000
+16448,FY16,Parks and Recreation,Other Purchased Services,4th R Division,21500
+16449,FY16,Parks and Recreation,Other Purchased Services,4th R Division,173
+16450,FY16,Parks and Recreation,Other Purchased Services,4th R Division,70000
+16451,FY16,Parks and Recreation,Other Purchased Services,4th R Division,70896
+16452,FY16,Parks and Recreation,Other Purchased Services,4th R Division,1500
+16453,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+16454,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
+16455,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,8000
+16456,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+16457,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+16458,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1870583
+16459,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,50000
+16460,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+16461,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
+16462,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+16463,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
+16464,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,18000
+16465,FY16,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+16466,FY16,Parks and Recreation,Salaries,4th R Division,4121589
+16467,FY16,Parks and Recreation,Earnings,4th R Division,8500
+16468,FY16,Parks and Recreation,Earnings,4th R Division,170150
+16469,FY16,Parks and Recreation,Employee Benefits,4th R Division,700
+16470,FY16,Parks and Recreation,Employee Benefits,4th R Division,743432
+16471,FY16,Parks and Recreation,Employee Benefits,4th R Division,498890
+16472,FY16,Parks and Recreation,Employee Benefits,4th R Division,-31532
+16473,FY16,Parks and Recreation,Employee Benefits,4th R Division,9531
+16474,FY16,Parks and Recreation,Employee Benefits,4th R Division,3000
+16475,FY16,Parks and Recreation,Employee Benefits,4th R Division,1000
+16476,FY16,Parks and Recreation,Employee Benefits,4th R Division,2500
+27372,FY17,Parks and Recreation,Salaries,4th R Division,4047948
+27373,FY17,Parks and Recreation,Earnings,4th R Division,8500
+27374,FY17,Parks and Recreation,Earnings,4th R Division,170150
+27375,FY17,Parks and Recreation,Employee Benefits,4th R Division,700
+27376,FY17,Parks and Recreation,Employee Benefits,4th R Division,647731
+27377,FY17,Parks and Recreation,Employee Benefits,4th R Division,448542
+27378,FY17,Parks and Recreation,Employee Benefits,4th R Division,-27223
+27379,FY17,Parks and Recreation,Employee Benefits,4th R Division,4017
+27380,FY17,Parks and Recreation,Employee Benefits,4th R Division,30929
+27381,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,250972
+27382,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,58695
+27383,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,48539
+27384,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,186547
+27385,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
+27386,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+27387,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+27388,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
+27389,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
+27390,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+27391,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
+27392,FY17,Parks and Recreation,Purchased Property Services,4th R Division,9273
+27393,FY17,Parks and Recreation,Purchased Property Services,4th R Division,25000
+27394,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,5000
+27395,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,15000
+27396,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,8000
+27397,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+27398,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
+27399,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,8000
+27400,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+27401,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+27402,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1870583
+27403,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,50000
+27404,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+27405,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
+27406,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+27407,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
+27408,FY17,Parks and Recreation,Purchased Property Services,4th R Division,10000
+27409,FY17,Parks and Recreation,Purchased Property Services,4th R Division,89226
+27410,FY17,Parks and Recreation,Purchased Property Services,4th R Division,8500
+27411,FY17,Parks and Recreation,Purchased Property Services,4th R Division,20000
+27412,FY17,Parks and Recreation,Other Purchased Services,4th R Division,61642
+27413,FY17,Parks and Recreation,Other Purchased Services,4th R Division,18261
+27414,FY17,Parks and Recreation,Other Purchased Services,4th R Division,5000
+27415,FY17,Parks and Recreation,Other Purchased Services,4th R Division,9808
+27416,FY17,Parks and Recreation,Other Purchased Services,4th R Division,30000
+27417,FY17,Parks and Recreation,Other Purchased Services,4th R Division,21500
+27418,FY17,Parks and Recreation,Other Purchased Services,4th R Division,173
+27419,FY17,Parks and Recreation,Other Purchased Services,4th R Division,70000
+27420,FY17,Parks and Recreation,Other Purchased Services,4th R Division,70896
+27421,FY17,Parks and Recreation,Other Purchased Services,4th R Division,1500
+27422,FY17,Parks and Recreation,Other Purchased Services,4th R Division,2500
+27423,FY17,Parks and Recreation,Other Purchased Services,4th R Division,2500
+27424,FY17,Parks and Recreation,General Supplies,4th R Division,1253
+27425,FY17,Parks and Recreation,General Supplies,4th R Division,44249
+27426,FY17,Parks and Recreation,General Supplies,4th R Division,13
+27427,FY17,Parks and Recreation,General Supplies,4th R Division,303
+27428,FY17,Parks and Recreation,General Supplies,4th R Division,4438
+27429,FY17,Parks and Recreation,General Supplies,4th R Division,189
+27430,FY17,Parks and Recreation,General Supplies,4th R Division,1027
+27431,FY17,Parks and Recreation,General Supplies,4th R Division,197269
+27432,FY17,Parks and Recreation,General Supplies,4th R Division,9193
+27433,FY17,Parks and Recreation,General Supplies,4th R Division,8615
+27434,FY17,Parks and Recreation,Food,4th R Division,125000
+27435,FY17,Parks and Recreation,Books and Periodicals,4th R Division,5708
+27436,FY17,Parks and Recreation,Other Objects,4th R Division,5000
+27437,FY17,Parks and Recreation,Other Objects,4th R Division,1839
+27438,FY17,Parks and Recreation,Other Objects,4th R Division,1000
+27439,FY17,Parks and Recreation,Property Accounts,4th R Division,39800
+27440,FY17,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+27441,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,-340000
+27442,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,18000
+27443,FY17,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+27444,FY17,Parks and Recreation,Labor Adjustments,4th R Division,-786
+27445,FY17,Parks and Recreation,Labor Adjustments,4th R Division,-3356
+27446,FY17,Parks and Recreation,Purchased Property Services,4th R Division,3089
+27447,FY17,Parks and Recreation,Purchased Property Services,4th R Division,20
+27448,FY17,Parks and Recreation,Energy and Fuel,4th R Division,660
+27449,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
+27450,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
+27451,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-77300
+27452,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-7700
+27453,FY17,Parks and Recreation,Other Purchased Services,4th R Division,51606
+27454,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-20000
+27455,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-25000
+27456,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-20000
+27457,FY17,Parks and Recreation,General Supplies,4th R Division,-20000
+27458,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
+27459,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,-250
+27460,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,9829
+27461,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3840
+27462,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,-250
+27463,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,500
+27464,FY17,Parks and Recreation,Purchased Property Services,4th R Division,5727
+27465,FY17,Parks and Recreation,Purchased Property Services,4th R Division,-5000
+27466,FY17,Parks and Recreation,Purchased Property Services,4th R Division,5000
+27467,FY17,Parks and Recreation,Purchased Property Services,4th R Division,774
+27468,FY17,Parks and Recreation,Purchased Property Services,4th R Division,1560
+27469,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-17661
+27470,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-500
+27471,FY17,Parks and Recreation,Other Purchased Services,4th R Division,192
+27472,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-10000
+27473,FY17,Parks and Recreation,Other Purchased Services,4th R Division,3500
+27474,FY17,Parks and Recreation,Other Purchased Services,4th R Division,27
+27475,FY17,Parks and Recreation,Other Purchased Services,4th R Division,104
+27476,FY17,Parks and Recreation,General Supplies,4th R Division,247
+27477,FY17,Parks and Recreation,General Supplies,4th R Division,751
+27478,FY17,Parks and Recreation,General Supplies,4th R Division,-13
+27479,FY17,Parks and Recreation,General Supplies,4th R Division,197
+27480,FY17,Parks and Recreation,General Supplies,4th R Division,-4438
+27481,FY17,Parks and Recreation,General Supplies,4th R Division,-189
+27482,FY17,Parks and Recreation,General Supplies,4th R Division,-1027
+27483,FY17,Parks and Recreation,General Supplies,4th R Division,731
+27484,FY17,Parks and Recreation,General Supplies,4th R Division,-9193
+27485,FY17,Parks and Recreation,General Supplies,4th R Division,-8615
+27486,FY17,Parks and Recreation,General Supplies,4th R Division,20212
+27487,FY17,Parks and Recreation,Books and Periodicals,4th R Division,-5708
+27488,FY17,Parks and Recreation,Other Objects,4th R Division,-5000
+27489,FY17,Parks and Recreation,Other Objects,4th R Division,-1839
+27490,FY17,Parks and Recreation,Other Objects,4th R Division,8492
+27491,FY17,Parks and Recreation,Property Accounts,4th R Division,-20000
+27492,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,10000
+27493,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-30000
+27494,FY17,Parks and Recreation,Employee Benefits,4th R Division,3000
+27495,FY17,Parks and Recreation,Employee Benefits,4th R Division,1000
+27496,FY17,Parks and Recreation,Employee Benefits,4th R Division,2500
+37934,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,15000
+37935,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,4000
+37936,FY18,Parks and Recreation,Purchased Property Services,4th R Division,15000
+37937,FY18,Parks and Recreation,Purchased Property Services,4th R Division,20000
+37938,FY18,Parks and Recreation,Purchased Property Services,4th R Division,15000
+37939,FY18,Parks and Recreation,Purchased Property Services,4th R Division,90000
+37940,FY18,Parks and Recreation,Purchased Property Services,4th R Division,10060
+37941,FY18,Parks and Recreation,Purchased Property Services,4th R Division,20000
+37942,FY18,Parks and Recreation,Other Purchased Services,4th R Division,113248
+37943,FY18,Parks and Recreation,Other Purchased Services,4th R Division,600
+37944,FY18,Parks and Recreation,Other Purchased Services,4th R Division,4500
+37945,FY18,Parks and Recreation,Other Purchased Services,4th R Division,10000
+37946,FY18,Parks and Recreation,Other Purchased Services,4th R Division,25000
+37947,FY18,Parks and Recreation,Other Purchased Services,4th R Division,200
+37948,FY18,Parks and Recreation,Other Purchased Services,4th R Division,45000
+37949,FY18,Parks and Recreation,Employee Benefits,4th R Division,219363
+37950,FY18,Parks and Recreation,Employee Benefits,4th R Division,-25369
+37951,FY18,Parks and Recreation,Employee Benefits,4th R Division,8030
+37952,FY18,Parks and Recreation,Employee Benefits,4th R Division,3000
+37953,FY18,Parks and Recreation,Employee Benefits,4th R Division,1000
+37954,FY18,Parks and Recreation,Employee Benefits,4th R Division,2500
+37955,FY18,Parks and Recreation,Employee Benefits,4th R Division,30929
+37956,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,257528
+37957,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,60228
+37958,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,48981
+37959,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,91755
+37960,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
+37961,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
+37962,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
+37963,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+37964,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
+37965,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,18000
+37966,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+37967,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+37968,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1793283
+37969,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,42300
+37970,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+37971,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
+37972,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,10000
+37973,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,6750
+37974,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,33000
+37975,FY18,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+37976,FY18,Parks and Recreation,Salaries,4th R Division,4153690
 37977,FY18,Parks and Recreation,Earnings,4th R Division,8500
 37978,FY18,Parks and Recreation,Earnings,4th R Division,170150
-38140,FY18,Parks and Recreation,Earnings,Recreation Operations Division,17592
-38141,FY18,Parks and Recreation,Earnings,Recreation Operations Division,71061
-38142,FY18,Parks and Recreation,Earnings,Recreation Operations Division,7660
-38143,FY18,Parks and Recreation,Earnings,Recreation Operations Division,11353
-38185,FY18,Parks and Recreation,Earnings,Recreation Operations Division,3770
-38261,FY18,Public Works,Earnings,Facilities & Real Property Mgmt Division,2000
-38262,FY18,Public Works,Earnings,Facilities & Real Property Mgmt Division,2000
-38305,FY18,Public Works,Earnings,Facilities & Real Property Mgmt Division,1500
-38344,FY18,Public Works,Earnings,Facilities & Real Property Mgmt Division,-1500
-38396,FY18,Public Works,Earnings,Recycling & Solid Waste Division,10000
-38470,FY18,Public Works,Earnings,Recycling & Solid Waste Division,397554
-38471,FY18,Public Works,Earnings,Recycling & Solid Waste Division,10500
-38472,FY18,Public Works,Earnings,Recycling & Solid Waste Division,10800
-38491,FY18,Public Works,Earnings,Recycling & Solid Waste Division,170000
-38492,FY18,Public Works,Earnings,Recycling & Solid Waste Division,17000
-38529,FY18,Public Works,Earnings,Recycling & Solid Waste Division,30000
-38530,FY18,Public Works,Earnings,Recycling & Solid Waste Division,3000
-38531,FY18,Public Works,Earnings,Recycling & Solid Waste Division,7000
-38532,FY18,Public Works,Earnings,Recycling & Solid Waste Division,5000
-38581,FY18,Public Works,Earnings,Recycling & Solid Waste Division,253446
-38582,FY18,Public Works,Earnings,Recycling & Solid Waste Division,6769
-38583,FY18,Public Works,Earnings,Recycling & Solid Waste Division,5000
-38599,FY18,Public Works,Earnings,Recycling & Solid Waste Division,500
-38600,FY18,Public Works,Earnings,Recycling & Solid Waste Division,500
-38627,FY18,Public Works,Earnings,Recycling & Solid Waste Division,35000
-38667,FY18,Public Works,Earnings,Recycling & Solid Waste Division,167000
-38689,FY18,Public Works,Earnings,Recycling & Solid Waste Division,50000
-38734,FY18,Convention and Cultural Services,Earnings,CCS Administration Division,500
-38735,FY18,Convention and Cultural Services,Earnings,CCS Administration Division,1000
-38792,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,3000
-38793,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,20000
-38871,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,44650
-38872,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,300
-38873,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,19500
-38874,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,200
-38875,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,1575
-38929,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,2000
-38930,FY18,Convention and Cultural Services,Earnings,Convention Center Complex Division,525
-39010,FY18,Convention and Cultural Services,Earnings,Sacramento Zoo Division,13810
-39011,FY18,Convention and Cultural Services,Earnings,Sacramento Zoo Division,647
-39051,FY18,Convention and Cultural Services,Earnings,Crocker Art Museum Division,3000
+37979,FY18,Parks and Recreation,Employee Benefits,4th R Division,700
+37980,FY18,Parks and Recreation,Employee Benefits,4th R Division,607290
+37981,FY18,Parks and Recreation,Employee Benefits,4th R Division,211267
+37982,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+37983,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
+37984,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,45000
+37985,FY18,Parks and Recreation,Other Purchased Services,4th R Division,51000
+37986,FY18,Parks and Recreation,Other Purchased Services,4th R Division,1500
+37987,FY18,Parks and Recreation,Other Purchased Services,4th R Division,2500
+37988,FY18,Parks and Recreation,Other Purchased Services,4th R Division,2500
+37989,FY18,Parks and Recreation,General Supplies,4th R Division,1500
+37990,FY18,Parks and Recreation,General Supplies,4th R Division,45000
+37991,FY18,Parks and Recreation,General Supplies,4th R Division,500
+37992,FY18,Parks and Recreation,General Supplies,4th R Division,178000
+37993,FY18,Parks and Recreation,General Supplies,4th R Division,20212
+37994,FY18,Parks and Recreation,Food,4th R Division,125000
+37995,FY18,Parks and Recreation,Other Objects,4th R Division,9492
+37996,FY18,Parks and Recreation,Property Accounts,4th R Division,19800
+37997,FY18,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+37998,FY18,Parks and Recreation,Interfund Reimbursement,4th R Division,-340000
+37999,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
+38000,FY18,Parks and Recreation,Purchased Property Services,4th R Division,5585
+38001,FY18,Parks and Recreation,Purchased Property Services,4th R Division,1200
+38002,FY18,Parks and Recreation,Energy and Fuel,4th R Division,447
+38003,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,250000
+38004,FY18,Parks and Recreation,Labor Adjustments,4th R Division,-752203
+38005,FY18,Parks and Recreation,Other Purchased Services,4th R Division,-15916
+38006,FY18,Parks and Recreation,Interfund Reimbursement,4th R Division,340000
+38007,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
+38008,FY18,Parks and Recreation,Service & Supply Adjustments,4th R Division,-5928
