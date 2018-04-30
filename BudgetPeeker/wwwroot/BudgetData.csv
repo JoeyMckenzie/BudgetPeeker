@@ -1,263 +1,363 @@
 Id,FiscalYear,OperatingUnit,AccountCategory,DepartmentDivision,BudgetAmount
-32419,FY18,Information Technology,Salaries,Enterprise Applications Management Division,2737540
-32304,FY18,Information Technology,Salaries,DOU Systems Support Division,2635257
-32452,FY18,Information Technology,Transfers 1,Office of CIO Division,2328759
-32382,FY18,Information Technology,Salaries,IT Regional Support Division,2205807
-32345,FY18,Information Technology,Salaries,Public Safety IT Division,2179895
-32354,FY18,Information Technology,Salaries,Technology Infrastructure Services Division,1852479
-32507,FY18,Information Technology,Salaries,Sacramento City 311 Division,1824836
-32282,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,1589065
-32353,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,1150673
-32381,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,1075955
-32326,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,1047880
-32418,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,1017948
-32325,FY18,Information Technology,Salaries,Technology Infrastructure Services Division,965755
-32445,FY18,Information Technology,Transfers 1,Office of CIO Division,847992
-32443,FY18,Information Technology,Transfers 1,Office of CIO Division,839140
-32491,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,786980
-32283,FY18,Information Technology,Salaries,Office of CIO Division,755847
-32397,FY18,Information Technology,Transfers 1,IT Regional Support Division,702624
-32398,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,646409
-32328,FY18,Information Technology,Salaries,Public Safety IT Division,456539
-32379,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,430979
-32447,FY18,Information Technology,Transfers 1,Office of CIO Division,414389
-32369,FY18,Information Technology,Transfers 1,IT Regional Support Division,372391
-32509,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,354660
-32421,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,325945
-32305,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,284812
-32300,FY18,Information Technology,Transfers 1,DOU Systems Support Division,282890
-32351,FY18,Information Technology,Employee Benefits,Public Safety IT Division,269030
-32384,FY18,Information Technology,Employee Benefits,IT Regional Support Division,236798
-32439,FY18,Information Technology,Property Accounts,Office of CIO Division,231195
-32449,FY18,Information Technology,Transfers 1,Office of CIO Division,227238
-32423,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,219393
-32307,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,213508
-32422,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,211296
-32368,FY18,Information Technology,Transfers 1,IT Regional Support Division,210787
-32306,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,205629
-32403,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,202107
-32301,FY18,Information Technology,Transfers 1,DOU Systems Support Division,201904
-32513,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,197681
-32281,FY18,Information Technology,Service & Supply Adjustments,Office of CIO Division,195000
-32402,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,193302
-32433,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,181963
-32386,FY18,Information Technology,Employee Benefits,IT Regional Support Division,178714
-32339,FY18,Information Technology,Employee Benefits,Public Safety IT Division,176615
-32385,FY18,Information Technology,Employee Benefits,IT Regional Support Division,172119
-32350,FY18,Information Technology,Employee Benefits,Public Safety IT Division,170097
-32426,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,169562
-32356,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,168134
-32310,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,163385
-32358,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,150087
-32435,FY18,Information Technology,Purchased Property Services,Office of CIO Division,150000
-32511,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,147848
-32357,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,144549
-32510,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,142391
-32389,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,136595
-32342,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,134988
-32278,FY18,Information Technology,Property Accounts,Office of CIO Division,133000
-32414,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,125931
-32493,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,120180
-32371,FY18,Information Technology,Transfers 1,IT Regional Support Division,119446
-32361,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,114688
-32459,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,113139
-32375,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,109624
-32377,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,105806
-32302,FY18,Information Technology,Transfers 1,DOU Systems Support Division,105734
-32499,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,99399
-32504,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,99214
-32303,FY18,Information Technology,Transfers 1,DOU Systems Support Division,98208
-32429,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,94363
-32494,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,94260
-32298,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,91927
-32313,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,90837
-32316,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,87006
-32324,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,78245
-32416,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,76176
-32392,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,76034
-32315,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,75357
-32352,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,75140
-32272,FY18,Information Technology,General Supplies,Office of CIO Division,72690
-32285,FY18,Information Technology,Employee Benefits,Office of CIO Division,72649
-32260,FY18,Information Technology,Purchased Property Services,Office of CIO Division,70000
-32434,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,70000
-32425,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,66946
-32337,FY18,Information Technology,Employee Benefits,Public Safety IT Division,65331
-32408,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,64434
-32410,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,64434
-32412,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,64434
-32364,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,63854
-32462,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,62902
-32274,FY18,Information Technology,General Supplies,Office of CIO Division,62674
-32360,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,62529
-32287,FY18,Information Technology,Employee Benefits,Office of CIO Division,61238
-32478,FY18,Information Technology,Purchased Property Services,Sacramento City 311 Division,60000
-32319,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,59712
-32286,FY18,Information Technology,Employee Benefits,Office of CIO Division,58978
-32294,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,57000
-32309,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,50498
-32296,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,50000
-32436,FY18,Information Technology,Purchased Property Services,Office of CIO Division,50000
-32463,FY18,Information Technology,Purchased Prof and Tech Svcs,Sacramento City 311 Division,50000
-32341,FY18,Information Technology,Employee Benefits,Public Safety IT Division,48171
-32347,FY18,Information Technology,Service & Supply Adjustments,Public Safety IT Division,48000
-32496,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,43989
-32290,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,42968
-32374,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,40000
-32427,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,39694
-32346,FY18,Information Technology,Labor Adjustments,Public Safety IT Division,39600
-32318,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,38630
-32311,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,38211
-32327,FY18,Information Technology,Employee Benefits,Public Safety IT Division,36988
-32489,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,36401
-32338,FY18,Information Technology,Employee Benefits,Public Safety IT Division,35623
-32465,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,35190
-32322,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,33289
-32516,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,32917
-32390,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,31984
-32343,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,31608
-32264,FY18,Information Technology,Other Purchased Services,Office of CIO Division,31000
-32289,FY18,Information Technology,Employee Benefits,Office of CIO Division,29112
-32330,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,28305
-32518,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,28194
-32362,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,26860
-32460,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,26460
-32293,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,26054
-32388,FY18,Information Technology,Employee Benefits,IT Regional Support Division,25761
-32259,FY18,Information Technology,Purchased Property Services,Office of CIO Division,25000
-32263,FY18,Information Technology,Other Purchased Services,Office of CIO Division,25000
-32464,FY18,Information Technology,Purchased Property Services,Sacramento City 311 Division,25000
-32455,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,22372
-32492,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,20402
-32438,FY18,Information Technology,General Supplies,Office of CIO Division,20000
-32273,FY18,Information Technology,General Supplies,Office of CIO Division,16169
-32373,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,16000
-32333,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,15736
-32486,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,15042
-32320,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,14003
-32275,FY18,Information Technology,General Supplies,Office of CIO Division,14000
-32482,FY18,Information Technology,Service & Supply Adjustments,Sacramento City 311 Division,13500
-32267,FY18,Information Technology,Other Purchased Services,Office of CIO Division,12559
-32481,FY18,Information Technology,Service & Supply Adjustments,Sacramento City 311 Division,11250
-32291,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,10959
-32457,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,10628
-32261,FY18,Information Technology,Purchased Property Services,Office of CIO Division,10000
-32335,FY18,Information Technology,Service & Supply Adjustments,Public Safety IT Division,10000
-32437,FY18,Information Technology,Other Purchased Services,Office of CIO Division,10000
-32277,FY18,Information Technology,Other Objects,Office of CIO Division,9400
-32477,FY18,Information Technology,Purchased Property Services,Sacramento City 311 Division,9000
-32495,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,8250
-32500,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,8250
-32461,FY18,Information Technology,Employer Paid Taxes,Sacramento City 311 Division,7665
-32488,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,7525
-32270,FY18,Information Technology,Other Purchased Services,Office of CIO Division,7000
-32331,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,6619
-32312,FY18,Information Technology,Employer Paid Taxes,DOU Systems Support Division,6300
-32428,FY18,Information Technology,Employer Paid Taxes,Enterprise Applications Management Division,6300
-32329,FY18,Information Technology,Employee Benefits,Public Safety IT Division,6230
-32405,FY18,Information Technology,Service & Supply Adjustments,Enterprise Applications Management Division,6000
-32365,FY18,Information Technology,Purchased Property Services,Technology Infrastructure Services Division,5968
-32344,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,5040
-32391,FY18,Information Technology,Employer Paid Taxes,IT Regional Support Division,5040
-32295,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,5000
-32299,FY18,Information Technology,Purchased Property Services,Office of CIO Division,5000
-32404,FY18,Information Technology,Service & Supply Adjustments,Enterprise Applications Management Division,5000
-32469,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,5000
-32475,FY18,Information Technology,Property Accounts,Sacramento City 311 Division,5000
-32334,FY18,Information Technology,Labor Adjustments,Public Safety IT Division,4800
-32454,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,4217
-32363,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,3780
-32466,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,3600
-32514,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,3379
-32490,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,3275
-32269,FY18,Information Technology,Other Purchased Services,Office of CIO Division,3000
-32468,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,3000
-32517,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2962
-32498,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2843
-32258,FY18,Information Technology,Purchased Property Services,Office of CIO Division,2500
-32505,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2194
-32456,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,2013
-32297,FY18,Information Technology,Purchased Prof and Tech Svcs,Office of CIO Division,2000
-32458,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,2000
-32467,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,2000
-32321,FY18,Information Technology,Employer Paid Taxes,Technology Infrastructure Services Division,1890
-32440,FY18,Information Technology,Purchased Property Services,Office of CIO Division,1583
-32268,FY18,Information Technology,Other Purchased Services,Office of CIO Division,1500
-32292,FY18,Information Technology,Employer Paid Taxes,Office of CIO Division,1470
-32366,FY18,Information Technology,Energy and Fuel,Technology Infrastructure Services Division,1211
-32497,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,1146
-32332,FY18,Information Technology,Employer Paid Taxes,Public Safety IT Division,1050
-32265,FY18,Information Technology,Other Purchased Services,Office of CIO Division,1000
-32471,FY18,Information Technology,General Supplies,Sacramento City 311 Division,1000
-32473,FY18,Information Technology,Food,Sacramento City 311 Division,1000
-32474,FY18,Information Technology,Other Objects,Sacramento City 311 Division,1000
-32395,FY18,Information Technology,Purchased Property Services,IT Regional Support Division,849
-32453,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,793
-32501,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,753
-32262,FY18,Information Technology,Purchased Property Services,Office of CIO Division,600
-32487,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,561
-32276,FY18,Information Technology,Books and Periodicals,Office of CIO Division,500
-32284,FY18,Information Technology,Employee Benefits,Office of CIO Division,500
-32355,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,500
-32470,FY18,Information Technology,Other Purchased Services,Sacramento City 311 Division,500
-32472,FY18,Information Technology,General Supplies,Sacramento City 311 Division,500
-32400,FY18,Information Technology,Purchased Property Services,Enterprise Applications Management Division,254
-32266,FY18,Information Technology,Other Purchased Services,Office of CIO Division,200
-32271,FY18,Information Technology,General Supplies,Office of CIO Division,200
-32420,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,200
-32508,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,200
-32503,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,150
-32383,FY18,Information Technology,Employee Benefits,IT Regional Support Division,100
-32502,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,22
-32485,FY18,Information Technology,Labor Adjustments,Sacramento City 311 Division,-2769
-32336,FY18,Information Technology,Employee Benefits,Public Safety IT Division,-3691
-32317,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,-6780
-32288,FY18,Information Technology,Employee Benefits,Office of CIO Division,-6997
-32506,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-9534
-32407,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-11000
-32512,FY18,Information Technology,Employee Benefits,Sacramento City 311 Division,-11978
-32280,FY18,Information Technology,Labor Adjustments,Office of CIO Division,-13880
-32359,FY18,Information Technology,Employee Benefits,Technology Infrastructure Services Division,-14878
-32424,FY18,Information Technology,Employee Benefits,Enterprise Applications Management Division,-16442
-32340,FY18,Information Technology,Employee Benefits,Public Safety IT Division,-19432
-32387,FY18,Information Technology,Employee Benefits,IT Regional Support Division,-20414
-32308,FY18,Information Technology,Employee Benefits,DOU Systems Support Division,-22370
-32484,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-24750
-32479,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-28497
-32349,FY18,Information Technology,Interfund Reimbursement,Public Safety IT Division,-38447
-32515,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-59553
-32409,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-64434
-32411,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-64434
-32413,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-64434
-32417,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-76176
-32480,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-98604
-32442,FY18,Information Technology,Service & Supply Adjustments,Office of CIO Division,-100000
-32378,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-105806
-32376,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-109624
-32372,FY18,Information Technology,Transfers 1,IT Regional Support Division,-119446
-32401,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-125853
-32415,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-125931
-32348,FY18,Information Technology,Interfund Reimbursement,Public Safety IT Division,-167788
-32441,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,-181963
-32431,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-202107
-32399,FY18,Information Technology,Transfers 1,IT Regional Support Division,-210787
-32450,FY18,Information Technology,Transfers 1,Office of CIO Division,-227238
-32406,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-235014
-32483,FY18,Information Technology,Transfers 1,Sacramento City 311 Division,-285349
-32519,FY18,Information Technology,Other Purchased Services,Office of CIO Division,-294000
-32430,FY18,Information Technology,Transfers 1,Enterprise Applications Management Division,-314544
-32370,FY18,Information Technology,Transfers 1,IT Regional Support Division,-372391
-32448,FY18,Information Technology,Transfers 1,Office of CIO Division,-414389
-32380,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-430979
-32314,FY18,Information Technology,Transfers 1,DOU Systems Support Division,-688736
-32394,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-702409
-32393,FY18,Information Technology,Transfers 1,IT Regional Support Division,-702624
-32444,FY18,Information Technology,Transfers 1,Office of CIO Division,-839140
-32446,FY18,Information Technology,Transfers 1,Office of CIO Division,-847992
-32432,FY18,Information Technology,Interfund Reimbursement,Enterprise Applications Management Division,-1017948
-32323,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,-1047880
-32396,FY18,Information Technology,Interfund Reimbursement,IT Regional Support Division,-1075955
-32367,FY18,Information Technology,Interfund Reimbursement,Technology Infrastructure Services Division,-1150673
-32476,FY18,Information Technology,Interfund Reimbursement,Sacramento City 311 Division,-1501403
-32279,FY18,Information Technology,Interfund Reimbursement,Office of CIO Division,-1589065
-32451,FY18,Information Technology,Transfers 1,Office of CIO Division,-2328759
+4226,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,4735012
+37976,FY18,Parks and Recreation,Salaries,4th R Division,4153690
+16466,FY16,Parks and Recreation,Salaries,4th R Division,4121589
+27372,FY17,Parks and Recreation,Salaries,4th R Division,4047948
+4198,FY15,Parks and Recreation,Salaries,4th R Division,3884672
+4227,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+16457,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+27401,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+37967,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
+16458,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1870583
+27402,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1870583
+37968,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1793283
+4160,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,901263
+16470,FY16,Parks and Recreation,Employee Benefits,4th R Division,743432
+27449,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
+37961,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
+38007,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
+27376,FY17,Parks and Recreation,Employee Benefits,4th R Division,647731
+37980,FY18,Parks and Recreation,Employee Benefits,4th R Division,607290
+4218,FY15,Parks and Recreation,Employee Benefits,4th R Division,583858
+16431,FY16,Parks and Recreation,Labor Adjustments,4th R Division,563082
+16430,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,523000
+16471,FY16,Parks and Recreation,Employee Benefits,4th R Division,498890
+27377,FY17,Parks and Recreation,Employee Benefits,4th R Division,448542
+4217,FY15,Parks and Recreation,Employee Benefits,4th R Division,404360
+38006,FY18,Parks and Recreation,Interfund Reimbursement,4th R Division,340000
+16454,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
+27398,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
+37964,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
+4161,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+16453,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+27397,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+37963,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
+37956,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,257528
+16397,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,255539
+27381,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,250972
+38003,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,250000
+4210,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,240850
+37949,FY18,Parks and Recreation,Employee Benefits,4th R Division,219363
+37981,FY18,Parks and Recreation,Employee Benefits,4th R Division,211267
+4186,FY15,Parks and Recreation,General Supplies,4th R Division,197269
+16408,FY16,Parks and Recreation,General Supplies,4th R Division,197269
+27431,FY17,Parks and Recreation,General Supplies,4th R Division,197269
+27384,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,186547
+37992,FY18,Parks and Recreation,General Supplies,4th R Division,178000
+4200,FY15,Parks and Recreation,Earnings,4th R Division,170150
+16468,FY16,Parks and Recreation,Earnings,4th R Division,170150
+27374,FY17,Parks and Recreation,Earnings,4th R Division,170150
+37978,FY18,Parks and Recreation,Earnings,4th R Division,170150
+4221,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,150000
+16420,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,127143
+4154,FY15,Parks and Recreation,Food,4th R Division,125000
+16411,FY16,Parks and Recreation,Food,4th R Division,125000
+27434,FY17,Parks and Recreation,Food,4th R Division,125000
+37994,FY18,Parks and Recreation,Food,4th R Division,125000
+37942,FY18,Parks and Recreation,Other Purchased Services,4th R Division,113248
+4224,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,100000
+37959,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,91755
+37939,FY18,Parks and Recreation,Purchased Property Services,4th R Division,90000
+4214,FY15,Parks and Recreation,Purchased Property Services,4th R Division,89226
+16440,FY16,Parks and Recreation,Purchased Property Services,4th R Division,89226
+27409,FY17,Parks and Recreation,Purchased Property Services,4th R Division,89226
+4173,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,75000
+4177,FY15,Parks and Recreation,Other Purchased Services,4th R Division,70896
+16451,FY16,Parks and Recreation,Other Purchased Services,4th R Division,70896
+27420,FY17,Parks and Recreation,Other Purchased Services,4th R Division,70896
+4178,FY15,Parks and Recreation,Other Purchased Services,4th R Division,70000
+16450,FY16,Parks and Recreation,Other Purchased Services,4th R Division,70000
+27419,FY17,Parks and Recreation,Other Purchased Services,4th R Division,70000
+4163,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,65152
+27412,FY17,Parks and Recreation,Other Purchased Services,4th R Division,61642
+37957,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,60228
+16398,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,59763
+27382,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,58695
+16443,FY16,Parks and Recreation,Other Purchased Services,4th R Division,57362
+4209,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,56328
+27453,FY17,Parks and Recreation,Other Purchased Services,4th R Division,51606
+37985,FY18,Parks and Recreation,Other Purchased Services,4th R Division,51000
+16459,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,50000
+27403,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,50000
+37958,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,48981
+27383,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,48539
+16461,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
+27405,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
+37971,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
+37948,FY18,Parks and Recreation,Other Purchased Services,4th R Division,45000
+37984,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,45000
+37990,FY18,Parks and Recreation,General Supplies,4th R Division,45000
+4191,FY15,Parks and Recreation,General Supplies,4th R Division,44249
+16402,FY16,Parks and Recreation,General Supplies,4th R Division,44249
+27425,FY17,Parks and Recreation,General Supplies,4th R Division,44249
+37969,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,42300
+4219,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+4228,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+16456,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+16462,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+27400,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+27406,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+37966,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
+4170,FY15,Parks and Recreation,Property Accounts,4th R Division,39800
+16416,FY16,Parks and Recreation,Property Accounts,4th R Division,39800
+27439,FY17,Parks and Recreation,Property Accounts,4th R Division,39800
+16419,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,39168
+4164,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,38842
+4194,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
+16424,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
+27388,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
+37974,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,33000
+4211,FY15,Parks and Recreation,Employee Benefits,4th R Division,30929
+16396,FY16,Parks and Recreation,Employee Benefits,4th R Division,30929
+27380,FY17,Parks and Recreation,Employee Benefits,4th R Division,30929
+37955,FY18,Parks and Recreation,Employee Benefits,4th R Division,30929
+4185,FY15,Parks and Recreation,Other Purchased Services,4th R Division,30062
+4181,FY15,Parks and Recreation,Other Purchased Services,4th R Division,30000
+16447,FY16,Parks and Recreation,Other Purchased Services,4th R Division,30000
+27416,FY17,Parks and Recreation,Other Purchased Services,4th R Division,30000
+4165,FY15,Parks and Recreation,Other Purchased Services,4th R Division,27300
+4204,FY15,Parks and Recreation,Purchased Property Services,4th R Division,25000
+16438,FY16,Parks and Recreation,Purchased Property Services,4th R Division,25000
+27393,FY17,Parks and Recreation,Purchased Property Services,4th R Division,25000
+37946,FY18,Parks and Recreation,Other Purchased Services,4th R Division,25000
+4180,FY15,Parks and Recreation,Other Purchased Services,4th R Division,21500
+16448,FY16,Parks and Recreation,Other Purchased Services,4th R Division,21500
+27417,FY17,Parks and Recreation,Other Purchased Services,4th R Division,21500
+27486,FY17,Parks and Recreation,General Supplies,4th R Division,20212
+37993,FY18,Parks and Recreation,General Supplies,4th R Division,20212
+4166,FY15,Parks and Recreation,Purchased Property Services,4th R Division,20000
+16442,FY16,Parks and Recreation,Purchased Property Services,4th R Division,20000
+27411,FY17,Parks and Recreation,Purchased Property Services,4th R Division,20000
+27458,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
+37937,FY18,Parks and Recreation,Purchased Property Services,4th R Division,20000
+37941,FY18,Parks and Recreation,Purchased Property Services,4th R Division,20000
+37960,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
+37983,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
+37996,FY18,Parks and Recreation,Property Accounts,4th R Division,19800
+4184,FY15,Parks and Recreation,Other Purchased Services,4th R Division,18261
+16444,FY16,Parks and Recreation,Other Purchased Services,4th R Division,18261
+27413,FY17,Parks and Recreation,Other Purchased Services,4th R Division,18261
+16464,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,18000
+27442,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,18000
+37965,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,18000
+27395,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,15000
+37934,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,15000
+37936,FY18,Parks and Recreation,Purchased Property Services,4th R Division,15000
+37938,FY18,Parks and Recreation,Purchased Property Services,4th R Division,15000
+4196,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+16422,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+27386,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+37982,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
+4197,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
+16421,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
+27385,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
+4208,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
+16434,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
+27389,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
+37940,FY18,Parks and Recreation,Purchased Property Services,4th R Division,10060
+4203,FY15,Parks and Recreation,Purchased Property Services,4th R Division,10000
+16439,FY16,Parks and Recreation,Purchased Property Services,4th R Division,10000
+27408,FY17,Parks and Recreation,Purchased Property Services,4th R Division,10000
+27492,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,10000
+37945,FY18,Parks and Recreation,Other Purchased Services,4th R Division,10000
+37972,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,10000
+27460,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,9829
+4182,FY15,Parks and Recreation,Other Purchased Services,4th R Division,9808
+16446,FY16,Parks and Recreation,Other Purchased Services,4th R Division,9808
+27415,FY17,Parks and Recreation,Other Purchased Services,4th R Division,9808
+16473,FY16,Parks and Recreation,Employee Benefits,4th R Division,9531
+37995,FY18,Parks and Recreation,Other Objects,4th R Division,9492
+4205,FY15,Parks and Recreation,Purchased Property Services,4th R Division,9273
+16437,FY16,Parks and Recreation,Purchased Property Services,4th R Division,9273
+27392,FY17,Parks and Recreation,Purchased Property Services,4th R Division,9273
+4216,FY15,Parks and Recreation,Employee Benefits,4th R Division,9220
+4158,FY15,Parks and Recreation,General Supplies,4th R Division,9193
+16409,FY16,Parks and Recreation,General Supplies,4th R Division,9193
+27432,FY17,Parks and Recreation,General Supplies,4th R Division,9193
+4157,FY15,Parks and Recreation,General Supplies,4th R Division,8615
+16410,FY16,Parks and Recreation,General Supplies,4th R Division,8615
+27433,FY17,Parks and Recreation,General Supplies,4th R Division,8615
+4168,FY15,Parks and Recreation,Purchased Property Services,4th R Division,8500
+4201,FY15,Parks and Recreation,Earnings,4th R Division,8500
+16441,FY16,Parks and Recreation,Purchased Property Services,4th R Division,8500
+16467,FY16,Parks and Recreation,Earnings,4th R Division,8500
+27373,FY17,Parks and Recreation,Earnings,4th R Division,8500
+27410,FY17,Parks and Recreation,Purchased Property Services,4th R Division,8500
+37977,FY18,Parks and Recreation,Earnings,4th R Division,8500
+27490,FY17,Parks and Recreation,Other Objects,4th R Division,8492
+37951,FY18,Parks and Recreation,Employee Benefits,4th R Division,8030
+16455,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,8000
+27396,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,8000
+27399,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,8000
+37973,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,6750
+27464,FY17,Parks and Recreation,Purchased Property Services,4th R Division,5727
+4153,FY15,Parks and Recreation,Books and Periodicals,4th R Division,5708
+16412,FY16,Parks and Recreation,Books and Periodicals,4th R Division,5708
+27435,FY17,Parks and Recreation,Books and Periodicals,4th R Division,5708
+38000,FY18,Parks and Recreation,Purchased Property Services,4th R Division,5585
+4152,FY15,Parks and Recreation,Other Objects,4th R Division,5000
+4183,FY15,Parks and Recreation,Other Purchased Services,4th R Division,5000
+4229,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,5000
+16413,FY16,Parks and Recreation,Other Objects,4th R Division,5000
+16445,FY16,Parks and Recreation,Other Purchased Services,4th R Division,5000
+27394,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,5000
+27414,FY17,Parks and Recreation,Other Purchased Services,4th R Division,5000
+27436,FY17,Parks and Recreation,Other Objects,4th R Division,5000
+27466,FY17,Parks and Recreation,Purchased Property Services,4th R Division,5000
+37944,FY18,Parks and Recreation,Other Purchased Services,4th R Division,4500
+4188,FY15,Parks and Recreation,General Supplies,4th R Division,4438
+16405,FY16,Parks and Recreation,General Supplies,4th R Division,4438
+27428,FY17,Parks and Recreation,General Supplies,4th R Division,4438
+16433,FY16,Parks and Recreation,Other Purchased Services,4th R Division,4280
+27379,FY17,Parks and Recreation,Employee Benefits,4th R Division,4017
+4171,FY15,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+16465,FY16,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+27443,FY17,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+37935,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,4000
+37975,FY18,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
+27461,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3840
+4206,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
+16436,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
+27391,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
+27473,FY17,Parks and Recreation,Other Purchased Services,4th R Division,3500
+4222,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+16460,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+27404,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+37970,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
+27446,FY17,Parks and Recreation,Purchased Property Services,4th R Division,3089
+4215,FY15,Parks and Recreation,Employee Benefits,4th R Division,3000
+4230,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,3000
+16474,FY16,Parks and Recreation,Employee Benefits,4th R Division,3000
+27494,FY17,Parks and Recreation,Employee Benefits,4th R Division,3000
+37952,FY18,Parks and Recreation,Employee Benefits,4th R Division,3000
+4175,FY15,Parks and Recreation,Other Purchased Services,4th R Division,2500
+4193,FY15,Parks and Recreation,Other Purchased Services,4th R Division,2500
+4212,FY15,Parks and Recreation,Employee Benefits,4th R Division,2500
+16399,FY16,Parks and Recreation,Other Purchased Services,4th R Division,2500
+16400,FY16,Parks and Recreation,Other Purchased Services,4th R Division,2500
+16476,FY16,Parks and Recreation,Employee Benefits,4th R Division,2500
+27422,FY17,Parks and Recreation,Other Purchased Services,4th R Division,2500
+27423,FY17,Parks and Recreation,Other Purchased Services,4th R Division,2500
+27496,FY17,Parks and Recreation,Employee Benefits,4th R Division,2500
+37954,FY18,Parks and Recreation,Employee Benefits,4th R Division,2500
+37987,FY18,Parks and Recreation,Other Purchased Services,4th R Division,2500
+37988,FY18,Parks and Recreation,Other Purchased Services,4th R Division,2500
+4151,FY15,Parks and Recreation,Other Objects,4th R Division,1839
+16414,FY16,Parks and Recreation,Other Objects,4th R Division,1839
+27437,FY17,Parks and Recreation,Other Objects,4th R Division,1839
+4174,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
+16463,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
+27407,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
+27468,FY17,Parks and Recreation,Purchased Property Services,4th R Division,1560
+4202,FY15,Parks and Recreation,Purchased Property Services,4th R Division,1527
+4176,FY15,Parks and Recreation,Other Purchased Services,4th R Division,1500
+16452,FY16,Parks and Recreation,Other Purchased Services,4th R Division,1500
+27421,FY17,Parks and Recreation,Other Purchased Services,4th R Division,1500
+37986,FY18,Parks and Recreation,Other Purchased Services,4th R Division,1500
+37989,FY18,Parks and Recreation,General Supplies,4th R Division,1500
+4192,FY15,Parks and Recreation,General Supplies,4th R Division,1253
+16401,FY16,Parks and Recreation,General Supplies,4th R Division,1253
+27424,FY17,Parks and Recreation,General Supplies,4th R Division,1253
+38001,FY18,Parks and Recreation,Purchased Property Services,4th R Division,1200
+4155,FY15,Parks and Recreation,General Supplies,4th R Division,1027
+16407,FY16,Parks and Recreation,General Supplies,4th R Division,1027
+27430,FY17,Parks and Recreation,General Supplies,4th R Division,1027
+4150,FY15,Parks and Recreation,Other Objects,4th R Division,1000
+4169,FY15,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+4213,FY15,Parks and Recreation,Employee Benefits,4th R Division,1000
+16415,FY16,Parks and Recreation,Other Objects,4th R Division,1000
+16417,FY16,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+16475,FY16,Parks and Recreation,Employee Benefits,4th R Division,1000
+27438,FY17,Parks and Recreation,Other Objects,4th R Division,1000
+27440,FY17,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+27495,FY17,Parks and Recreation,Employee Benefits,4th R Division,1000
+37953,FY18,Parks and Recreation,Employee Benefits,4th R Division,1000
+37997,FY18,Parks and Recreation,Interfund SerProvided,4th R Division,1000
+16425,FY16,Parks and Recreation,Purchased Property Services,4th R Division,990
+27467,FY17,Parks and Recreation,Purchased Property Services,4th R Division,774
+27477,FY17,Parks and Recreation,General Supplies,4th R Division,751
+4156,FY15,Parks and Recreation,Energy and Fuel,4th R Division,739
+27483,FY17,Parks and Recreation,General Supplies,4th R Division,731
+16427,FY16,Parks and Recreation,Energy and Fuel,4th R Division,715
+4199,FY15,Parks and Recreation,Employee Benefits,4th R Division,700
+16469,FY16,Parks and Recreation,Employee Benefits,4th R Division,700
+27375,FY17,Parks and Recreation,Employee Benefits,4th R Division,700
+37979,FY18,Parks and Recreation,Employee Benefits,4th R Division,700
+27448,FY17,Parks and Recreation,Energy and Fuel,4th R Division,660
+37943,FY18,Parks and Recreation,Other Purchased Services,4th R Division,600
+27463,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,500
+37991,FY18,Parks and Recreation,General Supplies,4th R Division,500
+38002,FY18,Parks and Recreation,Energy and Fuel,4th R Division,447
+4189,FY15,Parks and Recreation,General Supplies,4th R Division,303
+16404,FY16,Parks and Recreation,General Supplies,4th R Division,303
+27427,FY17,Parks and Recreation,General Supplies,4th R Division,303
+4195,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+4207,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+16423,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+16435,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+27387,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+27390,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
+27476,FY17,Parks and Recreation,General Supplies,4th R Division,247
+37947,FY18,Parks and Recreation,Other Purchased Services,4th R Division,200
+27479,FY17,Parks and Recreation,General Supplies,4th R Division,197
+27471,FY17,Parks and Recreation,Other Purchased Services,4th R Division,192
+4187,FY15,Parks and Recreation,General Supplies,4th R Division,189
+16406,FY16,Parks and Recreation,General Supplies,4th R Division,189
+27429,FY17,Parks and Recreation,General Supplies,4th R Division,189
+4179,FY15,Parks and Recreation,Other Purchased Services,4th R Division,173
+16449,FY16,Parks and Recreation,Other Purchased Services,4th R Division,173
+27418,FY17,Parks and Recreation,Other Purchased Services,4th R Division,173
+4167,FY15,Parks and Recreation,Purchased Property Services,4th R Division,114
+27475,FY17,Parks and Recreation,Other Purchased Services,4th R Division,104
+16426,FY16,Parks and Recreation,Purchased Property Services,4th R Division,40
+27474,FY17,Parks and Recreation,Other Purchased Services,4th R Division,27
+27447,FY17,Parks and Recreation,Purchased Property Services,4th R Division,20
+4190,FY15,Parks and Recreation,General Supplies,4th R Division,13
+16403,FY16,Parks and Recreation,General Supplies,4th R Division,13
+27426,FY17,Parks and Recreation,General Supplies,4th R Division,13
+27478,FY17,Parks and Recreation,General Supplies,4th R Division,-13
+27481,FY17,Parks and Recreation,General Supplies,4th R Division,-189
+27459,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,-250
+27462,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,-250
+27470,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-500
+27444,FY17,Parks and Recreation,Labor Adjustments,4th R Division,-786
+27482,FY17,Parks and Recreation,General Supplies,4th R Division,-1027
+27489,FY17,Parks and Recreation,Other Objects,4th R Division,-1839
+27445,FY17,Parks and Recreation,Labor Adjustments,4th R Division,-3356
+27480,FY17,Parks and Recreation,General Supplies,4th R Division,-4438
+27465,FY17,Parks and Recreation,Purchased Property Services,4th R Division,-5000
+27488,FY17,Parks and Recreation,Other Objects,4th R Division,-5000
+27487,FY17,Parks and Recreation,Books and Periodicals,4th R Division,-5708
+38008,FY18,Parks and Recreation,Service & Supply Adjustments,4th R Division,-5928
+27452,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-7700
+27485,FY17,Parks and Recreation,General Supplies,4th R Division,-8615
+27484,FY17,Parks and Recreation,General Supplies,4th R Division,-9193
+27472,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-10000
+38005,FY18,Parks and Recreation,Other Purchased Services,4th R Division,-15916
+27469,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-17661
+27454,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-20000
+27456,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-20000
+27457,FY17,Parks and Recreation,General Supplies,4th R Division,-20000
+27491,FY17,Parks and Recreation,Property Accounts,4th R Division,-20000
+27455,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-25000
+37950,FY18,Parks and Recreation,Employee Benefits,4th R Division,-25369
+27378,FY17,Parks and Recreation,Employee Benefits,4th R Division,-27223
+27493,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-30000
+16472,FY16,Parks and Recreation,Employee Benefits,4th R Division,-31532
+4223,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-50000
+4172,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-57000
+27451,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-77300
+4220,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-101800
+16432,FY16,Parks and Recreation,Operating Transfers Accounts,4th R Division,-131000
+16418,FY16,Parks and Recreation,Operating Transfers Accounts,4th R Division,-209000
+27441,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,-340000
+37998,FY18,Parks and Recreation,Interfund Reimbursement,4th R Division,-340000
+16428,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-523000
+4159,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,-590298
+27450,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
+37962,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
+37999,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
+38004,FY18,Parks and Recreation,Labor Adjustments,4th R Division,-752203
+4162,FY15,Parks and Recreation,Labor Adjustments,4th R Division,-758626
+16429,FY16,Parks and Recreation,Labor Adjustments,4th R Division,-1381592
+4225,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-2864429

@@ -353,3 +353,4 @@
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/bin/Debug/netcoreapp2.1/refs/CsvHelper.dll
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Budget/ExportToCsv.g.cshtml.cs
 /Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/joey/asp/mvc-apps/BudgetPeeker/BudgetPeeker/obj/Debug/netcoreapp2.1/Razor/Views/Shared/PagingPartial.g.cshtml.cs
