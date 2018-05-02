@@ -1,363 +1,409 @@
+Fiscal Year: All fiscal years
+Department Division: All department divisions
+Account Category: All account categories
+Operating Unit: Economic Development
+Budget Amount: 9620787
 Id,FiscalYear,OperatingUnit,AccountCategory,DepartmentDivision,BudgetAmount
-4150,FY15,Parks and Recreation,Other Objects,4th R Division,1000
-4151,FY15,Parks and Recreation,Other Objects,4th R Division,1839
-4152,FY15,Parks and Recreation,Other Objects,4th R Division,5000
-4153,FY15,Parks and Recreation,Books and Periodicals,4th R Division,5708
-4154,FY15,Parks and Recreation,Food,4th R Division,125000
-4155,FY15,Parks and Recreation,General Supplies,4th R Division,1027
-4156,FY15,Parks and Recreation,Energy and Fuel,4th R Division,739
-4157,FY15,Parks and Recreation,General Supplies,4th R Division,8615
-4158,FY15,Parks and Recreation,General Supplies,4th R Division,9193
-4159,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,-590298
-4160,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,901263
-4161,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
-4162,FY15,Parks and Recreation,Labor Adjustments,4th R Division,-758626
-4163,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,65152
-4164,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,38842
-4165,FY15,Parks and Recreation,Other Purchased Services,4th R Division,27300
-4166,FY15,Parks and Recreation,Purchased Property Services,4th R Division,20000
-4167,FY15,Parks and Recreation,Purchased Property Services,4th R Division,114
-4168,FY15,Parks and Recreation,Purchased Property Services,4th R Division,8500
-4169,FY15,Parks and Recreation,Interfund SerProvided,4th R Division,1000
-4170,FY15,Parks and Recreation,Property Accounts,4th R Division,39800
-4171,FY15,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
-4172,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-57000
-4173,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,75000
-4174,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
-4175,FY15,Parks and Recreation,Other Purchased Services,4th R Division,2500
-4176,FY15,Parks and Recreation,Other Purchased Services,4th R Division,1500
-4177,FY15,Parks and Recreation,Other Purchased Services,4th R Division,70896
-4178,FY15,Parks and Recreation,Other Purchased Services,4th R Division,70000
-4179,FY15,Parks and Recreation,Other Purchased Services,4th R Division,173
-4180,FY15,Parks and Recreation,Other Purchased Services,4th R Division,21500
-4181,FY15,Parks and Recreation,Other Purchased Services,4th R Division,30000
-4182,FY15,Parks and Recreation,Other Purchased Services,4th R Division,9808
-4183,FY15,Parks and Recreation,Other Purchased Services,4th R Division,5000
-4184,FY15,Parks and Recreation,Other Purchased Services,4th R Division,18261
-4185,FY15,Parks and Recreation,Other Purchased Services,4th R Division,30062
-4186,FY15,Parks and Recreation,General Supplies,4th R Division,197269
-4187,FY15,Parks and Recreation,General Supplies,4th R Division,189
-4188,FY15,Parks and Recreation,General Supplies,4th R Division,4438
-4189,FY15,Parks and Recreation,General Supplies,4th R Division,303
-4190,FY15,Parks and Recreation,General Supplies,4th R Division,13
-4191,FY15,Parks and Recreation,General Supplies,4th R Division,44249
-4192,FY15,Parks and Recreation,General Supplies,4th R Division,1253
-4193,FY15,Parks and Recreation,Other Purchased Services,4th R Division,2500
-4194,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
-4195,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
-4196,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
-4197,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
-4198,FY15,Parks and Recreation,Salaries,4th R Division,3884672
-4199,FY15,Parks and Recreation,Employee Benefits,4th R Division,700
-4200,FY15,Parks and Recreation,Earnings,4th R Division,170150
-4201,FY15,Parks and Recreation,Earnings,4th R Division,8500
-4202,FY15,Parks and Recreation,Purchased Property Services,4th R Division,1527
-4203,FY15,Parks and Recreation,Purchased Property Services,4th R Division,10000
-4204,FY15,Parks and Recreation,Purchased Property Services,4th R Division,25000
-4205,FY15,Parks and Recreation,Purchased Property Services,4th R Division,9273
-4206,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
-4207,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
-4208,FY15,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
-4209,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,56328
-4210,FY15,Parks and Recreation,Employer Paid Taxes,4th R Division,240850
-4211,FY15,Parks and Recreation,Employee Benefits,4th R Division,30929
-4212,FY15,Parks and Recreation,Employee Benefits,4th R Division,2500
-4213,FY15,Parks and Recreation,Employee Benefits,4th R Division,1000
-4214,FY15,Parks and Recreation,Purchased Property Services,4th R Division,89226
-4215,FY15,Parks and Recreation,Employee Benefits,4th R Division,3000
-4216,FY15,Parks and Recreation,Employee Benefits,4th R Division,9220
-4217,FY15,Parks and Recreation,Employee Benefits,4th R Division,404360
-4218,FY15,Parks and Recreation,Employee Benefits,4th R Division,583858
-4219,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
-4220,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-101800
-4221,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,150000
-4222,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
-4223,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-50000
-4224,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,100000
-4225,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-2864429
-4226,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,4735012
-4227,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
-4228,FY15,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
-4229,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,5000
-4230,FY15,Parks and Recreation,Intergovernmental Accounts,4th R Division,3000
-16396,FY16,Parks and Recreation,Employee Benefits,4th R Division,30929
-16397,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,255539
-16398,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,59763
-16399,FY16,Parks and Recreation,Other Purchased Services,4th R Division,2500
-16400,FY16,Parks and Recreation,Other Purchased Services,4th R Division,2500
-16401,FY16,Parks and Recreation,General Supplies,4th R Division,1253
-16402,FY16,Parks and Recreation,General Supplies,4th R Division,44249
-16403,FY16,Parks and Recreation,General Supplies,4th R Division,13
-16404,FY16,Parks and Recreation,General Supplies,4th R Division,303
-16405,FY16,Parks and Recreation,General Supplies,4th R Division,4438
-16406,FY16,Parks and Recreation,General Supplies,4th R Division,189
-16407,FY16,Parks and Recreation,General Supplies,4th R Division,1027
-16408,FY16,Parks and Recreation,General Supplies,4th R Division,197269
-16409,FY16,Parks and Recreation,General Supplies,4th R Division,9193
-16410,FY16,Parks and Recreation,General Supplies,4th R Division,8615
-16411,FY16,Parks and Recreation,Food,4th R Division,125000
-16412,FY16,Parks and Recreation,Books and Periodicals,4th R Division,5708
-16413,FY16,Parks and Recreation,Other Objects,4th R Division,5000
-16414,FY16,Parks and Recreation,Other Objects,4th R Division,1839
-16415,FY16,Parks and Recreation,Other Objects,4th R Division,1000
-16416,FY16,Parks and Recreation,Property Accounts,4th R Division,39800
-16417,FY16,Parks and Recreation,Interfund SerProvided,4th R Division,1000
-16418,FY16,Parks and Recreation,Operating Transfers Accounts,4th R Division,-209000
-16419,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,39168
-16420,FY16,Parks and Recreation,Employer Paid Taxes,4th R Division,127143
-16421,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
-16422,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
-16423,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
-16424,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
-16425,FY16,Parks and Recreation,Purchased Property Services,4th R Division,990
-16426,FY16,Parks and Recreation,Purchased Property Services,4th R Division,40
-16427,FY16,Parks and Recreation,Energy and Fuel,4th R Division,715
-16428,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-523000
-16429,FY16,Parks and Recreation,Labor Adjustments,4th R Division,-1381592
-16430,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,523000
-16431,FY16,Parks and Recreation,Labor Adjustments,4th R Division,563082
-16432,FY16,Parks and Recreation,Operating Transfers Accounts,4th R Division,-131000
-16433,FY16,Parks and Recreation,Other Purchased Services,4th R Division,4280
-16434,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
-16435,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
-16436,FY16,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
-16437,FY16,Parks and Recreation,Purchased Property Services,4th R Division,9273
-16438,FY16,Parks and Recreation,Purchased Property Services,4th R Division,25000
-16439,FY16,Parks and Recreation,Purchased Property Services,4th R Division,10000
-16440,FY16,Parks and Recreation,Purchased Property Services,4th R Division,89226
-16441,FY16,Parks and Recreation,Purchased Property Services,4th R Division,8500
-16442,FY16,Parks and Recreation,Purchased Property Services,4th R Division,20000
-16443,FY16,Parks and Recreation,Other Purchased Services,4th R Division,57362
-16444,FY16,Parks and Recreation,Other Purchased Services,4th R Division,18261
-16445,FY16,Parks and Recreation,Other Purchased Services,4th R Division,5000
-16446,FY16,Parks and Recreation,Other Purchased Services,4th R Division,9808
-16447,FY16,Parks and Recreation,Other Purchased Services,4th R Division,30000
-16448,FY16,Parks and Recreation,Other Purchased Services,4th R Division,21500
-16449,FY16,Parks and Recreation,Other Purchased Services,4th R Division,173
-16450,FY16,Parks and Recreation,Other Purchased Services,4th R Division,70000
-16451,FY16,Parks and Recreation,Other Purchased Services,4th R Division,70896
-16452,FY16,Parks and Recreation,Other Purchased Services,4th R Division,1500
-16453,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
-16454,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
-16455,FY16,Parks and Recreation,Intergovernmental Accounts,4th R Division,8000
-16456,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
-16457,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
-16458,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1870583
-16459,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,50000
-16460,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
-16461,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
-16462,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
-16463,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
-16464,FY16,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,18000
-16465,FY16,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
-16466,FY16,Parks and Recreation,Salaries,4th R Division,4121589
-16467,FY16,Parks and Recreation,Earnings,4th R Division,8500
-16468,FY16,Parks and Recreation,Earnings,4th R Division,170150
-16469,FY16,Parks and Recreation,Employee Benefits,4th R Division,700
-16470,FY16,Parks and Recreation,Employee Benefits,4th R Division,743432
-16471,FY16,Parks and Recreation,Employee Benefits,4th R Division,498890
-16472,FY16,Parks and Recreation,Employee Benefits,4th R Division,-31532
-16473,FY16,Parks and Recreation,Employee Benefits,4th R Division,9531
-16474,FY16,Parks and Recreation,Employee Benefits,4th R Division,3000
-16475,FY16,Parks and Recreation,Employee Benefits,4th R Division,1000
-16476,FY16,Parks and Recreation,Employee Benefits,4th R Division,2500
-27372,FY17,Parks and Recreation,Salaries,4th R Division,4047948
-27373,FY17,Parks and Recreation,Earnings,4th R Division,8500
-27374,FY17,Parks and Recreation,Earnings,4th R Division,170150
-27375,FY17,Parks and Recreation,Employee Benefits,4th R Division,700
-27376,FY17,Parks and Recreation,Employee Benefits,4th R Division,647731
-27377,FY17,Parks and Recreation,Employee Benefits,4th R Division,448542
-27378,FY17,Parks and Recreation,Employee Benefits,4th R Division,-27223
-27379,FY17,Parks and Recreation,Employee Benefits,4th R Division,4017
-27380,FY17,Parks and Recreation,Employee Benefits,4th R Division,30929
-27381,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,250972
-27382,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,58695
-27383,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,48539
-27384,FY17,Parks and Recreation,Employer Paid Taxes,4th R Division,186547
-27385,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,12000
-27386,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
-27387,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
-27388,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,35171
-27389,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,11160
-27390,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,250
-27391,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3500
-27392,FY17,Parks and Recreation,Purchased Property Services,4th R Division,9273
-27393,FY17,Parks and Recreation,Purchased Property Services,4th R Division,25000
-27394,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,5000
-27395,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,15000
-27396,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,8000
-27397,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
-27398,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
-27399,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,8000
-27400,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
-27401,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
-27402,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1870583
-27403,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,50000
-27404,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
-27405,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
-27406,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
-27407,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1750
-27408,FY17,Parks and Recreation,Purchased Property Services,4th R Division,10000
-27409,FY17,Parks and Recreation,Purchased Property Services,4th R Division,89226
-27410,FY17,Parks and Recreation,Purchased Property Services,4th R Division,8500
-27411,FY17,Parks and Recreation,Purchased Property Services,4th R Division,20000
-27412,FY17,Parks and Recreation,Other Purchased Services,4th R Division,61642
-27413,FY17,Parks and Recreation,Other Purchased Services,4th R Division,18261
-27414,FY17,Parks and Recreation,Other Purchased Services,4th R Division,5000
-27415,FY17,Parks and Recreation,Other Purchased Services,4th R Division,9808
-27416,FY17,Parks and Recreation,Other Purchased Services,4th R Division,30000
-27417,FY17,Parks and Recreation,Other Purchased Services,4th R Division,21500
-27418,FY17,Parks and Recreation,Other Purchased Services,4th R Division,173
-27419,FY17,Parks and Recreation,Other Purchased Services,4th R Division,70000
-27420,FY17,Parks and Recreation,Other Purchased Services,4th R Division,70896
-27421,FY17,Parks and Recreation,Other Purchased Services,4th R Division,1500
-27422,FY17,Parks and Recreation,Other Purchased Services,4th R Division,2500
-27423,FY17,Parks and Recreation,Other Purchased Services,4th R Division,2500
-27424,FY17,Parks and Recreation,General Supplies,4th R Division,1253
-27425,FY17,Parks and Recreation,General Supplies,4th R Division,44249
-27426,FY17,Parks and Recreation,General Supplies,4th R Division,13
-27427,FY17,Parks and Recreation,General Supplies,4th R Division,303
-27428,FY17,Parks and Recreation,General Supplies,4th R Division,4438
-27429,FY17,Parks and Recreation,General Supplies,4th R Division,189
-27430,FY17,Parks and Recreation,General Supplies,4th R Division,1027
-27431,FY17,Parks and Recreation,General Supplies,4th R Division,197269
-27432,FY17,Parks and Recreation,General Supplies,4th R Division,9193
-27433,FY17,Parks and Recreation,General Supplies,4th R Division,8615
-27434,FY17,Parks and Recreation,Food,4th R Division,125000
-27435,FY17,Parks and Recreation,Books and Periodicals,4th R Division,5708
-27436,FY17,Parks and Recreation,Other Objects,4th R Division,5000
-27437,FY17,Parks and Recreation,Other Objects,4th R Division,1839
-27438,FY17,Parks and Recreation,Other Objects,4th R Division,1000
-27439,FY17,Parks and Recreation,Property Accounts,4th R Division,39800
-27440,FY17,Parks and Recreation,Interfund SerProvided,4th R Division,1000
-27441,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,-340000
-27442,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,18000
-27443,FY17,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
-27444,FY17,Parks and Recreation,Labor Adjustments,4th R Division,-786
-27445,FY17,Parks and Recreation,Labor Adjustments,4th R Division,-3356
-27446,FY17,Parks and Recreation,Purchased Property Services,4th R Division,3089
-27447,FY17,Parks and Recreation,Purchased Property Services,4th R Division,20
-27448,FY17,Parks and Recreation,Energy and Fuel,4th R Division,660
-27449,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
-27450,FY17,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
-27451,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-77300
-27452,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-7700
-27453,FY17,Parks and Recreation,Other Purchased Services,4th R Division,51606
-27454,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-20000
-27455,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-25000
-27456,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-20000
-27457,FY17,Parks and Recreation,General Supplies,4th R Division,-20000
-27458,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
-27459,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,-250
-27460,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,9829
-27461,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,3840
-27462,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,-250
-27463,FY17,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,500
-27464,FY17,Parks and Recreation,Purchased Property Services,4th R Division,5727
-27465,FY17,Parks and Recreation,Purchased Property Services,4th R Division,-5000
-27466,FY17,Parks and Recreation,Purchased Property Services,4th R Division,5000
-27467,FY17,Parks and Recreation,Purchased Property Services,4th R Division,774
-27468,FY17,Parks and Recreation,Purchased Property Services,4th R Division,1560
-27469,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-17661
-27470,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-500
-27471,FY17,Parks and Recreation,Other Purchased Services,4th R Division,192
-27472,FY17,Parks and Recreation,Other Purchased Services,4th R Division,-10000
-27473,FY17,Parks and Recreation,Other Purchased Services,4th R Division,3500
-27474,FY17,Parks and Recreation,Other Purchased Services,4th R Division,27
-27475,FY17,Parks and Recreation,Other Purchased Services,4th R Division,104
-27476,FY17,Parks and Recreation,General Supplies,4th R Division,247
-27477,FY17,Parks and Recreation,General Supplies,4th R Division,751
-27478,FY17,Parks and Recreation,General Supplies,4th R Division,-13
-27479,FY17,Parks and Recreation,General Supplies,4th R Division,197
-27480,FY17,Parks and Recreation,General Supplies,4th R Division,-4438
-27481,FY17,Parks and Recreation,General Supplies,4th R Division,-189
-27482,FY17,Parks and Recreation,General Supplies,4th R Division,-1027
-27483,FY17,Parks and Recreation,General Supplies,4th R Division,731
-27484,FY17,Parks and Recreation,General Supplies,4th R Division,-9193
-27485,FY17,Parks and Recreation,General Supplies,4th R Division,-8615
-27486,FY17,Parks and Recreation,General Supplies,4th R Division,20212
-27487,FY17,Parks and Recreation,Books and Periodicals,4th R Division,-5708
-27488,FY17,Parks and Recreation,Other Objects,4th R Division,-5000
-27489,FY17,Parks and Recreation,Other Objects,4th R Division,-1839
-27490,FY17,Parks and Recreation,Other Objects,4th R Division,8492
-27491,FY17,Parks and Recreation,Property Accounts,4th R Division,-20000
-27492,FY17,Parks and Recreation,Intergovernmental Accounts,4th R Division,10000
-27493,FY17,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,-30000
-27494,FY17,Parks and Recreation,Employee Benefits,4th R Division,3000
-27495,FY17,Parks and Recreation,Employee Benefits,4th R Division,1000
-27496,FY17,Parks and Recreation,Employee Benefits,4th R Division,2500
-37934,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,15000
-37935,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,4000
-37936,FY18,Parks and Recreation,Purchased Property Services,4th R Division,15000
-37937,FY18,Parks and Recreation,Purchased Property Services,4th R Division,20000
-37938,FY18,Parks and Recreation,Purchased Property Services,4th R Division,15000
-37939,FY18,Parks and Recreation,Purchased Property Services,4th R Division,90000
-37940,FY18,Parks and Recreation,Purchased Property Services,4th R Division,10060
-37941,FY18,Parks and Recreation,Purchased Property Services,4th R Division,20000
-37942,FY18,Parks and Recreation,Other Purchased Services,4th R Division,113248
-37943,FY18,Parks and Recreation,Other Purchased Services,4th R Division,600
-37944,FY18,Parks and Recreation,Other Purchased Services,4th R Division,4500
-37945,FY18,Parks and Recreation,Other Purchased Services,4th R Division,10000
-37946,FY18,Parks and Recreation,Other Purchased Services,4th R Division,25000
-37947,FY18,Parks and Recreation,Other Purchased Services,4th R Division,200
-37948,FY18,Parks and Recreation,Other Purchased Services,4th R Division,45000
-37949,FY18,Parks and Recreation,Employee Benefits,4th R Division,219363
-37950,FY18,Parks and Recreation,Employee Benefits,4th R Division,-25369
-37951,FY18,Parks and Recreation,Employee Benefits,4th R Division,8030
-37952,FY18,Parks and Recreation,Employee Benefits,4th R Division,3000
-37953,FY18,Parks and Recreation,Employee Benefits,4th R Division,1000
-37954,FY18,Parks and Recreation,Employee Benefits,4th R Division,2500
-37955,FY18,Parks and Recreation,Employee Benefits,4th R Division,30929
-37956,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,257528
-37957,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,60228
-37958,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,48981
-37959,FY18,Parks and Recreation,Employer Paid Taxes,4th R Division,91755
-37960,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
-37961,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
-37962,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
-37963,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,304730
-37964,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,310965
-37965,FY18,Parks and Recreation,Intergovernmental Accounts,4th R Division,18000
-37966,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,40000
-37967,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3219612
-37968,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,1793283
-37969,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,42300
-37970,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,3200
-37971,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,48200
-37972,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,10000
-37973,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,6750
-37974,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,33000
-37975,FY18,Parks and Recreation,Miscellaneous Revenue Accounts,4th R Division,4000
-37976,FY18,Parks and Recreation,Salaries,4th R Division,4153690
-37977,FY18,Parks and Recreation,Earnings,4th R Division,8500
-37978,FY18,Parks and Recreation,Earnings,4th R Division,170150
-37979,FY18,Parks and Recreation,Employee Benefits,4th R Division,700
-37980,FY18,Parks and Recreation,Employee Benefits,4th R Division,607290
-37981,FY18,Parks and Recreation,Employee Benefits,4th R Division,211267
-37982,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,13500
-37983,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,20000
-37984,FY18,Parks and Recreation,Purchased Prof and Tech Svcs,4th R Division,45000
-37985,FY18,Parks and Recreation,Other Purchased Services,4th R Division,51000
-37986,FY18,Parks and Recreation,Other Purchased Services,4th R Division,1500
-37987,FY18,Parks and Recreation,Other Purchased Services,4th R Division,2500
-37988,FY18,Parks and Recreation,Other Purchased Services,4th R Division,2500
-37989,FY18,Parks and Recreation,General Supplies,4th R Division,1500
-37990,FY18,Parks and Recreation,General Supplies,4th R Division,45000
-37991,FY18,Parks and Recreation,General Supplies,4th R Division,500
-37992,FY18,Parks and Recreation,General Supplies,4th R Division,178000
-37993,FY18,Parks and Recreation,General Supplies,4th R Division,20212
-37994,FY18,Parks and Recreation,Food,4th R Division,125000
-37995,FY18,Parks and Recreation,Other Objects,4th R Division,9492
-37996,FY18,Parks and Recreation,Property Accounts,4th R Division,19800
-37997,FY18,Parks and Recreation,Interfund SerProvided,4th R Division,1000
-37998,FY18,Parks and Recreation,Interfund Reimbursement,4th R Division,-340000
-37999,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,-709979
-38000,FY18,Parks and Recreation,Purchased Property Services,4th R Division,5585
-38001,FY18,Parks and Recreation,Purchased Property Services,4th R Division,1200
-38002,FY18,Parks and Recreation,Energy and Fuel,4th R Division,447
-38003,FY18,Parks and Recreation,"Charges, Fees, & Services Accounts",4th R Division,250000
-38004,FY18,Parks and Recreation,Labor Adjustments,4th R Division,-752203
-38005,FY18,Parks and Recreation,Other Purchased Services,4th R Division,-15916
-38006,FY18,Parks and Recreation,Interfund Reimbursement,4th R Division,340000
-38007,FY18,Parks and Recreation,Operating Transfers Accounts,4th R Division,709979
-38008,FY18,Parks and Recreation,Service & Supply Adjustments,4th R Division,-5928
+26618,FY17,Economic Development,Salaries,Citywide Development Division,1327582
+2591,FY15,Economic Development,Energy and Fuel,Citywide Development Division,1155371
+2592,FY15,Economic Development,"Charges, Fees, & Services Accounts",Citywide Development Division,1155371
+15763,FY16,Economic Development,Salaries,Citywide Development Division,461207
+2583,FY15,Economic Development,Salaries,Citywide Development Division,452837
+2516,FY15,Economic Development,Salaries,Downtown Development Division,410525
+15690,FY16,Economic Development,Salaries,Downtown Development Division,390911
+15768,FY16,Economic Development,"Charges, Fees, & Services Accounts",Citywide Development Division,380371
+15769,FY16,Economic Development,Energy and Fuel,Citywide Development Division,380371
+37248,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,357658
+2534,FY15,Economic Development,"Charges, Fees, & Services Accounts",Downtown Development Division,226880
+15689,FY16,Economic Development,"Charges, Fees, & Services Accounts",Downtown Development Division,226880
+26546,FY17,Economic Development,"Charges, Fees, & Services Accounts",Downtown Development Division,226880
+26621,FY17,Economic Development,Employee Benefits,Citywide Development Division,218732
+2511,FY15,Economic Development,Salaries,Economic Development Administration Division,203206
+15677,FY16,Economic Development,Salaries,Economic Development Administration Division,195161
+26657,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,180873
+37318,FY18,Economic Development,"Charges, Fees, & Services Accounts",Citywide Development Division,158208
+26654,FY17,Economic Development,"Charges, Fees, & Services Accounts",Citywide Development Division,152000
+26617,FY17,Economic Development,Service & Supply Adjustments,Citywide Development Division,150000
+37316,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,125000
+26620,FY17,Economic Development,Employee Benefits,Citywide Development Division,121396
+2580,FY15,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,110577
+15738,FY16,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,110577
+26630,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,110577
+26653,FY17,Economic Development,Intergovernmental Accounts,Citywide Development Division,107000
+2579,FY15,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,101220
+15739,FY16,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,101220
+2510,FY15,Economic Development,Purchased Prof and Tech Svcs,Economic Development Administration Division,97688
+15687,FY16,Economic Development,Purchased Prof and Tech Svcs,Economic Development Administration Division,97688
+26545,FY17,Economic Development,Purchased Prof and Tech Svcs,Economic Development Administration Division,97688
+26625,FY17,Economic Development,Employer Paid Taxes,Citywide Development Division,76285
+26557,FY17,Economic Development,Purchased Property Services,Downtown Development Division,74880
+37250,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,73530
+15766,FY16,Economic Development,Employee Benefits,Citywide Development Division,71630
+26631,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,71220
+2571,FY15,Economic Development,Employee Benefits,Citywide Development Division,65295
+2512,FY15,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,63000
+15702,FY16,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,63000
+15694,FY16,Economic Development,Employee Benefits,Downtown Development Division,60712
+26616,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,60000
+2541,FY15,Economic Development,Employee Benefits,Downtown Development Division,59194
+2550,FY15,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,58000
+15704,FY16,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,58000
+2577,FY15,Economic Development,Employee Benefits,Citywide Development Division,55001
+26623,FY17,Economic Development,Employee Benefits,Citywide Development Division,51896
+15718,FY16,Economic Development,Purchased Property Services,Downtown Development Division,51380
+2588,FY15,Economic Development,Interfund Reimbursement,Citywide Development Division,50000
+2589,FY15,Economic Development,Interfund Reimbursement,Citywide Development Division,50000
+15765,FY16,Economic Development,Employee Benefits,Citywide Development Division,48722
+37258,FY18,Economic Development,Other Purchased Services,Citywide Development Division,45000
+2545,FY15,Economic Development,Employee Benefits,Downtown Development Division,39149
+15693,FY16,Economic Development,Employee Benefits,Downtown Development Division,37848
+26551,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,37310
+26544,FY17,Economic Development,Service & Supply Adjustments,Economic Development Administration Division,34414
+37312,FY18,Economic Development,Service & Supply Adjustments,Citywide Development Division,34414
+2514,FY15,Economic Development,Employee Benefits,Downtown Development Division,34388
+15692,FY16,Economic Development,Employee Benefits,Downtown Development Division,34388
+26548,FY17,Economic Development,Employee Benefits,Downtown Development Division,34388
+15679,FY16,Economic Development,Employee Benefits,Economic Development Administration Division,30310
+2508,FY15,Economic Development,Employee Benefits,Economic Development Administration Division,29300
+15733,FY16,Economic Development,Employer Paid Taxes,Citywide Development Division,28530
+2568,FY15,Economic Development,Employer Paid Taxes,Citywide Development Division,28063
+2538,FY15,Economic Development,Employer Paid Taxes,Downtown Development Division,25064
+2561,FY15,Economic Development,Other Purchased Services,Citywide Development Division,25000
+15745,FY16,Economic Development,Other Purchased Services,Citywide Development Division,25000
+26637,FY17,Economic Development,Other Purchased Services,Citywide Development Division,25000
+15697,FY16,Economic Development,Employer Paid Taxes,Downtown Development Division,23941
+2546,FY15,Economic Development,Purchased Property Services,Downtown Development Division,23500
+15708,FY16,Economic Development,Purchased Property Services,Downtown Development Division,23500
+37246,FY18,Economic Development,Employee Benefits,Citywide Development Division,22200
+15688,FY16,Economic Development,Employee Benefits,Economic Development Administration Division,21522
+2527,FY15,Economic Development,Other Purchased Services,Downtown Development Division,20000
+15723,FY16,Economic Development,Other Purchased Services,Downtown Development Division,20000
+26562,FY17,Economic Development,Other Purchased Services,Downtown Development Division,20000
+26667,FY17,Economic Development,Other Purchased Services,Citywide Development Division,20000
+37260,FY18,Economic Development,Other Purchased Services,Citywide Development Division,20000
+26626,FY17,Economic Development,Employer Paid Taxes,Citywide Development Division,19249
+15767,FY16,Economic Development,Employee Benefits,Citywide Development Division,18448
+2570,FY15,Economic Development,Employee Benefits,Citywide Development Division,18113
+2540,FY15,Economic Development,Employee Benefits,Downtown Development Division,16421
+15695,FY16,Economic Development,Employee Benefits,Downtown Development Division,15636
+37247,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,14000
+37264,FY18,Economic Development,General Supplies,Citywide Development Division,13700
+2509,FY15,Economic Development,Employee Benefits,Economic Development Administration Division,13383
+26628,FY17,Economic Development,Employer Paid Taxes,Citywide Development Division,13275
+37283,FY18,Economic Development,Labor Adjustments,Citywide Development Division,12536
+2569,FY15,Economic Development,Employee Benefits,Citywide Development Division,12000
+2581,FY15,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,12000
+15732,FY16,Economic Development,Employee Benefits,Citywide Development Division,12000
+15737,FY16,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,12000
+26624,FY17,Economic Development,Employee Benefits,Citywide Development Division,12000
+26629,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,12000
+2515,FY15,Economic Development,Employee Benefits,Downtown Development Division,11487
+15691,FY16,Economic Development,Employee Benefits,Downtown Development Division,11487
+26547,FY17,Economic Development,Employee Benefits,Downtown Development Division,11487
+15683,FY16,Economic Development,Employer Paid Taxes,Economic Development Administration Division,10646
+2505,FY15,Economic Development,Employer Paid Taxes,Economic Development Administration Division,10488
+26655,FY17,Economic Development,Employee Benefits,Citywide Development Division,10200
+2525,FY15,Economic Development,Other Purchased Services,Downtown Development Division,10000
+2559,FY15,Economic Development,Other Purchased Services,Citywide Development Division,10000
+15725,FY16,Economic Development,Other Purchased Services,Downtown Development Division,10000
+15747,FY16,Economic Development,Other Purchased Services,Citywide Development Division,10000
+26564,FY17,Economic Development,Other Purchased Services,Downtown Development Division,10000
+26639,FY17,Economic Development,Other Purchased Services,Citywide Development Division,10000
+26669,FY17,Economic Development,Other Purchased Services,Citywide Development Division,10000
+2555,FY15,Economic Development,General Supplies,Citywide Development Division,7700
+15751,FY16,Economic Development,General Supplies,Citywide Development Division,7700
+26643,FY17,Economic Development,General Supplies,Citywide Development Division,7700
+2539,FY15,Economic Development,Employee Benefits,Downtown Development Division,7200
+15696,FY16,Economic Development,Employee Benefits,Downtown Development Division,7200
+26549,FY17,Economic Development,Employee Benefits,Downtown Development Division,7200
+2507,FY15,Economic Development,Employee Benefits,Economic Development Administration Division,7085
+15681,FY16,Economic Development,Employee Benefits,Economic Development Administration Division,6742
+15734,FY16,Economic Development,Employer Paid Taxes,Citywide Development Division,6688
+2567,FY15,Economic Development,Employer Paid Taxes,Citywide Development Division,6566
+26613,FY17,Economic Development,"Charges, Fees, & Services Accounts",Citywide Development Division,6208
+26614,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,6208
+2522,FY15,Economic Development,General Supplies,Downtown Development Division,6000
+15728,FY16,Economic Development,General Supplies,Downtown Development Division,6000
+26567,FY17,Economic Development,General Supplies,Downtown Development Division,6000
+26672,FY17,Economic Development,General Supplies,Citywide Development Division,6000
+37255,FY18,Economic Development,Other Purchased Services,Citywide Development Division,6000
+2537,FY15,Economic Development,Employer Paid Taxes,Downtown Development Division,5953
+37274,FY18,Economic Development,Other Objects,Citywide Development Division,5850
+15698,FY16,Economic Development,Employer Paid Taxes,Downtown Development Division,5668
+37259,FY18,Economic Development,Other Purchased Services,Citywide Development Division,5223
+2572,FY15,Economic Development,Other Objects,Citywide Development Division,4850
+15759,FY16,Economic Development,Other Objects,Citywide Development Division,4850
+26651,FY17,Economic Development,Other Objects,Citywide Development Division,4850
+15736,FY16,Economic Development,Employer Paid Taxes,Citywide Development Division,4612
+2565,FY15,Economic Development,Employer Paid Taxes,Citywide Development Division,4528
+2547,FY15,Economic Development,Purchased Property Services,Downtown Development Division,4500
+15707,FY16,Economic Development,Purchased Property Services,Downtown Development Division,4500
+26556,FY17,Economic Development,Purchased Property Services,Downtown Development Division,4500
+26662,FY17,Economic Development,Purchased Property Services,Citywide Development Division,4500
+37253,FY18,Economic Development,Purchased Property Services,Citywide Development Division,4500
+37272,FY18,Economic Development,Books and Periodicals,Citywide Development Division,4500
+2535,FY15,Economic Development,Employer Paid Taxes,Downtown Development Division,4105
+2517,FY15,Economic Development,Other Purchased Services,Downtown Development Division,4000
+15720,FY16,Economic Development,Other Purchased Services,Downtown Development Division,4000
+26559,FY17,Economic Development,Other Purchased Services,Downtown Development Division,4000
+26664,FY17,Economic Development,Other Purchased Services,Citywide Development Division,4000
+37256,FY18,Economic Development,Other Purchased Services,Citywide Development Division,4000
+37257,FY18,Economic Development,Other Purchased Services,Citywide Development Division,4000
+15700,FY16,Economic Development,Employer Paid Taxes,Downtown Development Division,3909
+37262,FY18,Economic Development,Other Purchased Services,Citywide Development Division,3529
+2563,FY15,Economic Development,Other Purchased Services,Citywide Development Division,3500
+15743,FY16,Economic Development,Other Purchased Services,Citywide Development Division,3500
+26635,FY17,Economic Development,Other Purchased Services,Citywide Development Division,3500
+37254,FY18,Economic Development,Purchased Property Services,Citywide Development Division,3500
+37270,FY18,Economic Development,Food,Citywide Development Division,3500
+2573,FY15,Economic Development,Other Objects,Citywide Development Division,3168
+15758,FY16,Economic Development,Other Objects,Citywide Development Division,3168
+26650,FY17,Economic Development,Other Objects,Citywide Development Division,3168
+37273,FY18,Economic Development,Other Objects,Citywide Development Division,3168
+2506,FY15,Economic Development,Employee Benefits,Economic Development Administration Division,3000
+2562,FY15,Economic Development,Other Purchased Services,Citywide Development Division,3000
+2574,FY15,Economic Development,Books and Periodicals,Citywide Development Division,3000
+15682,FY16,Economic Development,Employee Benefits,Economic Development Administration Division,3000
+15744,FY16,Economic Development,Other Purchased Services,Citywide Development Division,3000
+15757,FY16,Economic Development,Books and Periodicals,Citywide Development Division,3000
+26540,FY17,Economic Development,Employee Benefits,Economic Development Administration Division,3000
+26636,FY17,Economic Development,Other Purchased Services,Citywide Development Division,3000
+26649,FY17,Economic Development,Books and Periodicals,Citywide Development Division,3000
+37251,FY18,Economic Development,Purchased Property Services,Citywide Development Division,3000
+2504,FY15,Economic Development,Employer Paid Taxes,Economic Development Administration Division,2946
+37278,FY18,Economic Development,Interfund SerProvided,Citywide Development Division,2856
+15684,FY16,Economic Development,Employer Paid Taxes,Economic Development Administration Division,2830
+2560,FY15,Economic Development,Other Purchased Services,Citywide Development Division,2723
+15746,FY16,Economic Development,Other Purchased Services,Citywide Development Division,2723
+26638,FY17,Economic Development,Other Purchased Services,Citywide Development Division,2723
+2557,FY15,Economic Development,Other Purchased Services,Citywide Development Division,2529
+15749,FY16,Economic Development,Other Purchased Services,Citywide Development Division,2529
+26641,FY17,Economic Development,Other Purchased Services,Citywide Development Division,2529
+26627,FY17,Economic Development,Employer Paid Taxes,Citywide Development Division,2520
+2518,FY15,Economic Development,Purchased Property Services,Downtown Development Division,2500
+2526,FY15,Economic Development,Other Purchased Services,Downtown Development Division,2500
+15719,FY16,Economic Development,Purchased Property Services,Downtown Development Division,2500
+15724,FY16,Economic Development,Other Purchased Services,Downtown Development Division,2500
+26558,FY17,Economic Development,Purchased Property Services,Downtown Development Division,2500
+26563,FY17,Economic Development,Other Purchased Services,Downtown Development Division,2500
+26663,FY17,Economic Development,Purchased Property Services,Citywide Development Division,2500
+26668,FY17,Economic Development,Other Purchased Services,Citywide Development Division,2500
+37263,FY18,Economic Development,General Supplies,Citywide Development Division,2500
+37268,FY18,Economic Development,General Supplies,Citywide Development Division,2500
+26553,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,2310
+26659,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,2310
+2502,FY15,Economic Development,Employer Paid Taxes,Economic Development Administration Division,2032
+2513,FY15,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,2000
+2548,FY15,Economic Development,Purchased Property Services,Downtown Development Division,2000
+2551,FY15,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,2000
+2556,FY15,Economic Development,General Supplies,Citywide Development Division,2000
+2576,FY15,Economic Development,Food,Citywide Development Division,2000
+2578,FY15,Economic Development,Purchased Property Services,Citywide Development Division,2000
+2584,FY15,Economic Development,Other Purchased Services,Citywide Development Division,2000
+15701,FY16,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,2000
+15703,FY16,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,2000
+15706,FY16,Economic Development,Purchased Property Services,Downtown Development Division,2000
+15740,FY16,Economic Development,Purchased Property Services,Citywide Development Division,2000
+15742,FY16,Economic Development,Other Purchased Services,Citywide Development Division,2000
+15750,FY16,Economic Development,General Supplies,Citywide Development Division,2000
+15755,FY16,Economic Development,Food,Citywide Development Division,2000
+26550,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,2000
+26552,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,2000
+26555,FY17,Economic Development,Purchased Property Services,Downtown Development Division,2000
+26632,FY17,Economic Development,Purchased Property Services,Citywide Development Division,2000
+26634,FY17,Economic Development,Other Purchased Services,Citywide Development Division,2000
+26642,FY17,Economic Development,General Supplies,Citywide Development Division,2000
+26647,FY17,Economic Development,Food,Citywide Development Division,2000
+26656,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,2000
+26658,FY17,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,2000
+26661,FY17,Economic Development,Purchased Property Services,Citywide Development Division,2000
+37249,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,2000
+37252,FY18,Economic Development,Purchased Property Services,Citywide Development Division,2000
+15686,FY16,Economic Development,Employer Paid Taxes,Economic Development Administration Division,1952
+2564,FY15,Economic Development,Interfund SerProvided,Citywide Development Division,1856
+15760,FY16,Economic Development,Interfund SerProvided,Citywide Development Division,1856
+26652,FY17,Economic Development,Interfund SerProvided,Citywide Development Division,1856
+2542,FY15,Economic Development,Books and Periodicals,Downtown Development Division,1500
+2544,FY15,Economic Development,Food,Downtown Development Division,1500
+2552,FY15,Economic Development,General Supplies,Citywide Development Division,1500
+15709,FY16,Economic Development,Food,Downtown Development Division,1500
+15711,FY16,Economic Development,Books and Periodicals,Downtown Development Division,1500
+15754,FY16,Economic Development,General Supplies,Citywide Development Division,1500
+26571,FY17,Economic Development,Food,Downtown Development Division,1500
+26573,FY17,Economic Development,Books and Periodicals,Downtown Development Division,1500
+26646,FY17,Economic Development,General Supplies,Citywide Development Division,1500
+26676,FY17,Economic Development,Food,Citywide Development Division,1500
+26678,FY17,Economic Development,Books and Periodicals,Citywide Development Division,1500
+2566,FY15,Economic Development,Employer Paid Taxes,Citywide Development Division,1050
+15735,FY16,Economic Development,Employer Paid Taxes,Citywide Development Division,1050
+2519,FY15,Economic Development,Energy and Fuel,Downtown Development Division,1000
+2520,FY15,Economic Development,General Supplies,Downtown Development Division,1000
+2524,FY15,Economic Development,Other Purchased Services,Downtown Development Division,1000
+2528,FY15,Economic Development,Other Purchased Services,Downtown Development Division,1000
+2530,FY15,Economic Development,Other Objects,Downtown Development Division,1000
+2531,FY15,Economic Development,Interfund SerProvided,Downtown Development Division,1000
+2532,FY15,Economic Development,Property Accounts,Downtown Development Division,1000
+2533,FY15,Economic Development,Property Accounts,Downtown Development Division,1000
+2549,FY15,Economic Development,Purchased Property Services,Downtown Development Division,1000
+2558,FY15,Economic Development,Other Purchased Services,Citywide Development Division,1000
+2585,FY15,Economic Development,Purchased Property Services,Citywide Development Division,1000
+15705,FY16,Economic Development,Purchased Property Services,Downtown Development Division,1000
+15712,FY16,Economic Development,Other Objects,Downtown Development Division,1000
+15713,FY16,Economic Development,Property Accounts,Downtown Development Division,1000
+15714,FY16,Economic Development,Property Accounts,Downtown Development Division,1000
+15715,FY16,Economic Development,Interfund SerProvided,Downtown Development Division,1000
+15722,FY16,Economic Development,Other Purchased Services,Downtown Development Division,1000
+15726,FY16,Economic Development,Other Purchased Services,Downtown Development Division,1000
+15730,FY16,Economic Development,General Supplies,Downtown Development Division,1000
+15731,FY16,Economic Development,Energy and Fuel,Downtown Development Division,1000
+15741,FY16,Economic Development,Purchased Property Services,Citywide Development Division,1000
+15748,FY16,Economic Development,Other Purchased Services,Citywide Development Division,1000
+26554,FY17,Economic Development,Purchased Property Services,Downtown Development Division,1000
+26561,FY17,Economic Development,Other Purchased Services,Downtown Development Division,1000
+26565,FY17,Economic Development,Other Purchased Services,Downtown Development Division,1000
+26569,FY17,Economic Development,General Supplies,Downtown Development Division,1000
+26570,FY17,Economic Development,Energy and Fuel,Downtown Development Division,1000
+26574,FY17,Economic Development,Other Objects,Downtown Development Division,1000
+26575,FY17,Economic Development,Property Accounts,Downtown Development Division,1000
+26576,FY17,Economic Development,Property Accounts,Downtown Development Division,1000
+26577,FY17,Economic Development,Interfund SerProvided,Downtown Development Division,1000
+26611,FY17,Economic Development,Interfund SerProvided,Citywide Development Division,1000
+26633,FY17,Economic Development,Purchased Property Services,Citywide Development Division,1000
+26640,FY17,Economic Development,Other Purchased Services,Citywide Development Division,1000
+26660,FY17,Economic Development,Purchased Property Services,Citywide Development Division,1000
+26666,FY17,Economic Development,Other Purchased Services,Citywide Development Division,1000
+26670,FY17,Economic Development,Other Purchased Services,Citywide Development Division,1000
+26674,FY17,Economic Development,General Supplies,Citywide Development Division,1000
+26675,FY17,Economic Development,Energy and Fuel,Citywide Development Division,1000
+26679,FY17,Economic Development,Other Objects,Citywide Development Division,1000
+26680,FY17,Economic Development,Property Accounts,Citywide Development Division,1000
+26681,FY17,Economic Development,Property Accounts,Citywide Development Division,1000
+37261,FY18,Economic Development,Other Purchased Services,Citywide Development Division,1000
+37269,FY18,Economic Development,Energy and Fuel,Citywide Development Division,1000
+37271,FY18,Economic Development,Books and Periodicals,Citywide Development Division,1000
+37276,FY18,Economic Development,Property Accounts,Citywide Development Division,1000
+37277,FY18,Economic Development,Property Accounts,Citywide Development Division,1000
+2536,FY15,Economic Development,Employer Paid Taxes,Downtown Development Division,840
+15699,FY16,Economic Development,Employer Paid Taxes,Downtown Development Division,840
+2521,FY15,Economic Development,General Supplies,Downtown Development Division,500
+2523,FY15,Economic Development,General Supplies,Downtown Development Division,500
+2529,FY15,Economic Development,Other Purchased Services,Downtown Development Division,500
+2543,FY15,Economic Development,Books and Periodicals,Downtown Development Division,500
+2575,FY15,Economic Development,Books and Periodicals,Citywide Development Division,500
+15710,FY16,Economic Development,Books and Periodicals,Downtown Development Division,500
+15721,FY16,Economic Development,Other Purchased Services,Downtown Development Division,500
+15727,FY16,Economic Development,General Supplies,Downtown Development Division,500
+15729,FY16,Economic Development,General Supplies,Downtown Development Division,500
+15756,FY16,Economic Development,Books and Periodicals,Citywide Development Division,500
+26560,FY17,Economic Development,Other Purchased Services,Downtown Development Division,500
+26566,FY17,Economic Development,General Supplies,Downtown Development Division,500
+26568,FY17,Economic Development,General Supplies,Downtown Development Division,500
+26572,FY17,Economic Development,Books and Periodicals,Downtown Development Division,500
+26648,FY17,Economic Development,Books and Periodicals,Citywide Development Division,500
+26665,FY17,Economic Development,Other Purchased Services,Citywide Development Division,500
+26671,FY17,Economic Development,General Supplies,Citywide Development Division,500
+26673,FY17,Economic Development,General Supplies,Citywide Development Division,500
+26677,FY17,Economic Development,Books and Periodicals,Citywide Development Division,500
+37267,FY18,Economic Development,General Supplies,Citywide Development Division,500
+2503,FY15,Economic Development,Employer Paid Taxes,Economic Development Administration Division,420
+15685,FY16,Economic Development,Employer Paid Taxes,Economic Development Administration Division,420
+2586,FY15,Economic Development,Purchased Property Services,Citywide Development Division,170
+2553,FY15,Economic Development,General Supplies,Citywide Development Division,100
+2582,FY15,Economic Development,Employee Benefits,Citywide Development Division,100
+15753,FY16,Economic Development,General Supplies,Citywide Development Division,100
+15764,FY16,Economic Development,Employee Benefits,Citywide Development Division,100
+26619,FY17,Economic Development,Employee Benefits,Citywide Development Division,100
+26645,FY17,Economic Development,General Supplies,Citywide Development Division,100
+37266,FY18,Economic Development,General Supplies,Citywide Development Division,100
+37319,FY18,Economic Development,Employee Benefits,Citywide Development Division,100
+2554,FY15,Economic Development,General Supplies,Citywide Development Division,50
+15752,FY16,Economic Development,General Supplies,Citywide Development Division,50
+26644,FY17,Economic Development,General Supplies,Citywide Development Division,50
+37265,FY18,Economic Development,General Supplies,Citywide Development Division,50
+15762,FY16,Economic Development,Purchased Property Services,Citywide Development Division,10
+37302,FY18,Economic Development,General Supplies,Citywide Development Division,-50
+37281,FY18,Economic Development,Employee Benefits,Citywide Development Division,-100
+37303,FY18,Economic Development,General Supplies,Citywide Development Division,-100
+26591,FY17,Economic Development,Other Purchased Services,Downtown Development Division,-500
+26597,FY17,Economic Development,General Supplies,Downtown Development Division,-500
+26599,FY17,Economic Development,General Supplies,Downtown Development Division,-500
+26603,FY17,Economic Development,Books and Periodicals,Downtown Development Division,-500
+37304,FY18,Economic Development,General Supplies,Citywide Development Division,-500
+26586,FY17,Economic Development,Purchased Property Services,Downtown Development Division,-1000
+26592,FY17,Economic Development,Other Purchased Services,Downtown Development Division,-1000
+26596,FY17,Economic Development,Other Purchased Services,Downtown Development Division,-1000
+26600,FY17,Economic Development,General Supplies,Downtown Development Division,-1000
+26601,FY17,Economic Development,Energy and Fuel,Downtown Development Division,-1000
+26605,FY17,Economic Development,Other Objects,Downtown Development Division,-1000
+26606,FY17,Economic Development,Property Accounts,Downtown Development Division,-1000
+26607,FY17,Economic Development,Property Accounts,Downtown Development Division,-1000
+26608,FY17,Economic Development,Interfund SerProvided,Downtown Development Division,-1000
+37298,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-1000
+37306,FY18,Economic Development,Energy and Fuel,Citywide Development Division,-1000
+37308,FY18,Economic Development,Books and Periodicals,Citywide Development Division,-1000
+37313,FY18,Economic Development,Property Accounts,Citywide Development Division,-1000
+37314,FY18,Economic Development,Property Accounts,Citywide Development Division,-1000
+15680,FY16,Economic Development,Employee Benefits,Economic Development Administration Division,-1420
+26602,FY17,Economic Development,Food,Downtown Development Division,-1500
+26604,FY17,Economic Development,Books and Periodicals,Downtown Development Division,-1500
+26582,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,-2000
+26584,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,-2000
+26587,FY17,Economic Development,Purchased Property Services,Downtown Development Division,-2000
+37286,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,-2000
+37289,FY18,Economic Development,Purchased Property Services,Citywide Development Division,-2000
+26585,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,-2310
+26589,FY17,Economic Development,Purchased Property Services,Downtown Development Division,-2500
+26594,FY17,Economic Development,Other Purchased Services,Downtown Development Division,-2500
+37300,FY18,Economic Development,General Supplies,Citywide Development Division,-2500
+37305,FY18,Economic Development,General Supplies,Citywide Development Division,-2500
+37315,FY18,Economic Development,Interfund SerProvided,Citywide Development Division,-2856
+26542,FY17,Economic Development,Employee Benefits,Economic Development Administration Division,-3000
+37288,FY18,Economic Development,Purchased Property Services,Citywide Development Division,-3000
+37310,FY18,Economic Development,Other Objects,Citywide Development Division,-3168
+37291,FY18,Economic Development,Purchased Property Services,Citywide Development Division,-3500
+37307,FY18,Economic Development,Food,Citywide Development Division,-3500
+37299,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-3529
+26590,FY17,Economic Development,Other Purchased Services,Downtown Development Division,-4000
+37293,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-4000
+37294,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-4000
+26588,FY17,Economic Development,Purchased Property Services,Downtown Development Division,-4500
+37290,FY18,Economic Development,Purchased Property Services,Citywide Development Division,-4500
+37309,FY18,Economic Development,Books and Periodicals,Citywide Development Division,-4500
+37296,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-5223
+37311,FY18,Economic Development,Other Objects,Citywide Development Division,-5850
+26598,FY17,Economic Development,General Supplies,Downtown Development Division,-6000
+37292,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-6000
+26581,FY17,Economic Development,Employee Benefits,Downtown Development Division,-7200
+26595,FY17,Economic Development,Other Purchased Services,Downtown Development Division,-10000
+26622,FY17,Economic Development,Employee Benefits,Citywide Development Division,-10611
+26579,FY17,Economic Development,Employee Benefits,Downtown Development Division,-11487
+37279,FY18,Economic Development,Labor Adjustments,Citywide Development Division,-12536
+37301,FY18,Economic Development,General Supplies,Citywide Development Division,-13700
+37284,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,-14000
+26593,FY17,Economic Development,Other Purchased Services,Downtown Development Division,-20000
+37297,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-20000
+37282,FY18,Economic Development,Employee Benefits,Citywide Development Division,-22200
+15716,FY16,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,-25690
+15761,FY16,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,-30000
+26580,FY17,Economic Development,Employee Benefits,Downtown Development Division,-34388
+2501,FY15,Economic Development,Service & Supply Adjustments,Economic Development Administration Division,-34414
+15678,FY16,Economic Development,Service & Supply Adjustments,Economic Development Administration Division,-34414
+26541,FY17,Economic Development,Service & Supply Adjustments,Economic Development Administration Division,-34414
+26612,FY17,Economic Development,Service & Supply Adjustments,Citywide Development Division,-34414
+37275,FY18,Economic Development,Service & Supply Adjustments,Citywide Development Division,-34414
+26583,FY17,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,-37310
+37295,FY18,Economic Development,Other Purchased Services,Citywide Development Division,-45000
+2587,FY15,Economic Development,Interfund Reimbursement,Citywide Development Division,-50000
+2590,FY15,Economic Development,Interfund Reimbursement,Citywide Development Division,-50000
+15717,FY16,Economic Development,Purchased Prof and Tech Svcs,Downtown Development Division,-55690
+37287,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,-73530
+26609,FY17,Economic Development,"Charges, Fees, & Services Accounts",Downtown Development Division,-74880
+26610,FY17,Economic Development,Purchased Property Services,Downtown Development Division,-74880
+26543,FY17,Economic Development,Purchased Prof and Tech Svcs,Economic Development Administration Division,-97688
+26615,FY17,Economic Development,Intergovernmental Accounts,Citywide Development Division,-107000
+37317,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,-125000
+26578,FY17,Economic Development,"Charges, Fees, & Services Accounts",Downtown Development Division,-152000
+37280,FY18,Economic Development,"Charges, Fees, & Services Accounts",Citywide Development Division,-158208
+37285,FY18,Economic Development,Purchased Prof and Tech Svcs,Citywide Development Division,-357658
+15770,FY16,Economic Development,Energy and Fuel,Citywide Development Division,-380371
+15771,FY16,Economic Development,"Charges, Fees, & Services Accounts",Citywide Development Division,-380371

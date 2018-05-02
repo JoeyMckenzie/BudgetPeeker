@@ -4,7 +4,7 @@
 @{
     ViewBag.Title = "Results";
     Layout = "_Layout";
-    bool negativeBudget = (Model.TotalBudget != null && Model.TotalBudget.ToString()[0] == '-');
+    bool negativeBudget = Model.TotalBudget != null && Model.TotalBudget < 0;
 
     @* Get selectors to dynamically updated based on filters *@
     var includeFiscalYear = Model.InputSelectors.FiscalYear.Split(" ")[0];
@@ -209,7 +209,7 @@
         
         @* Get previous query *@
         <div class="form-group">
-            <a id="previousResults" class="btn btn-secondary" href="javascript:history.go(-1)">Unfilter</a>
+            <a id="previousResults" class="btn btn-secondary" href="javascript:history.go(-1)">Previous Results</a>
         </div>
             
         <div class="form-group">
@@ -227,31 +227,80 @@
 
 <partial name="_PagingPartial"/>
 
-<table class="table">
-    <tr>
-        <th>Fiscal Year</th>
-        <th>Department Division</th>
-        <th>Account Category</th>
-        <th>Operating Unit</th>
-        <th>Budget Amount</th>
-    </tr>
-    @foreach (var item in Model.QueryResults)
-    {
+<div class="table-responsive">
+    <table class="table">
+        @* <tr> *@
+            @* Work in progress *@
+            @*             <form asp-controller="Budget" asp-action="Results"> *@
+            @*                 @{ *@
+            @*                     var currentUrl = string.Concat("https://", Context.Request.Host, Context.Request.Path, Context.Request.QueryString); *@
+            @*                 } *@
+            @*                 @currentUrl *@
+            @*                 <th><a onclick="this.form.submit()"/>Fiscal Year <i class="fas fa-sort"></i></th> *@
+            @*                 <th><a href="#" class="sort-by" onclick="this.form.submit()">Department Division <i class="fas fa-sort"></i></a></th> *@
+            @*                 <th><a href="#" class="sort-by" onclick="this.form.submit()">Account Category <i class="fas fa-sort"></i></a></th> *@
+            @*                 <th><a href="#" class="sort-by" onclick="this.form.submit()">Operating Unit <i class="fas fa-sort"></i></a></th> *@
+            @*                 <th><a href="#" class="sort-by" onclick="this.form.submit()">Budget Amount <i class="fas fa-sort"></i></a></th> *@
+            @* *@
+            @*                 <input type="hidden" name="FiscalYear" value="@selectedFiscalYear"/> *@
+            @*                 <input type="hidden" name="AccountCategory" value="@selectedAccountCategory"/> *@
+            @*                 <input type="hidden" name="DepartmentDivision" value="@selectedDepartmentDivision"/> *@
+            @*                 <input type="hidden" name="OperatingUnit" value="@selectedOperatingUnit"/> *@
+            @*                 <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/> *@
+            @*                 <input type="hidden" name="SortByDescending" value="true"/> *@
+            @*                 $1$ <input type="hidden" name="SortBy" value=""/> #1# *@
+            @*                 <input type="hidden" name="Page" value="@Model.InputSelectors.Page"/> *@
+            @*             </form> *@
+        @* </tr> *@
+        
         <tr>
-            <td>@item.FiscalYear</td>
-            <td>@item.DepartmentDivision</td>
-            <td>@item.AccountCategory</td>
-            <td>@item.OperatingUnit</td>
-            @if (item.BudgetAmount != null && item.BudgetAmount.ToString()[0] == '-')
-            {
-                <td>@string.Format("$({0:n0})", item.BudgetAmount)</td>
-            }
-            else
-            {
-                <td>@string.Format("${0:n0}", item.BudgetAmount)</td>
-            }
+            <th>Fiscal Year</th>
+            <th>Department Division</th>
+            <th>Account Category</th>
+            <th>Operating Unit</th>
+            <th>Budget Amount</th>
         </tr>
-    }
-</table>
+        
+        @foreach (var item in Model.QueryResults)
+        {
+            <tr>
+                <td>@item.FiscalYear</td>
+                <td>@item.DepartmentDivision</td>
+                <td>@item.AccountCategory</td>
+                <td>@item.OperatingUnit</td>
+                @if (item.BudgetAmount != null && item.BudgetAmount.ToString()[0] == '-')
+                {
+                    <td>@string.Format("$({0:n0})", item.BudgetAmount)</td>
+                }
+                else
+                {
+                    <td>@string.Format("${0:n0}", item.BudgetAmount)</td>
+                }
+            </tr>
+        }
+    </table>
+</div>
 
 <partial name="_PagingPartial"/>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        var url = 'https://localhost:5001/Results?Page=' +
+            encodeURI(@Model.InputSelectors.Page) +
+            '&FiscalYear=' +
+            encodeURI(@Model.InputSelectors.FiscalYear).toString() +
+            '&AccountCategory=' +
+            encodeURI(@Model.InputSelectors.AccountCategory).toString() +
+            '&DepartmentDivision=' +
+            encodeURI(@Model.InputSelectors.DepartmentDivision).toString() +
+            '&OperatingUnit=' +
+            encodeURI(@Model.InputSelectors.OperatingUnit).toString() +
+            '&OrderBudgetBy=' +
+            encodeURI(@Model.InputSelectors.OrderBudgetBy).toString() +
+            '&SortByDescending=' +
+            encodeURI('true').toString() +
+            '&SortBy=' +
+            encodeURI(trim($('.sort-by').text())).toString();
+        console.log(url);
+    });
+</script>

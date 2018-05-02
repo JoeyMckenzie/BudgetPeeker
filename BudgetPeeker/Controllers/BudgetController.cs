@@ -1,4 +1,5 @@
-﻿using CsvHelper;
+﻿using System;
+using CsvHelper;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -11,11 +12,10 @@ namespace BudgetPeeker.Controllers
 {
     public class BudgetController : Controller
     {
-        private readonly BudgetPeekerDbContext _context;
-
         //
-        // Limit page results to 100 records per page
-        private int _resultsPerPage = 100;
+        // Limit page results to 50 records per page
+        private const int ResultsPerPage = 50;
+        private readonly BudgetPeekerDbContext _context;
 
         public BudgetController(BudgetPeekerDbContext context)
         {
@@ -62,8 +62,12 @@ namespace BudgetPeeker.Controllers
         }
 
         [HttpGet]
-        public IActionResult Results([Bind("FiscalYear,OperatingUnit,AccountCategory,DepartmentDivision,OrderBudgetBy,Page")]BudgetViewModel budgetViewModel)
+        public IActionResult Results([Bind("FiscalYear,OperatingUnit,AccountCategory,DepartmentDivision,OrderBudgetBy,Page,SortBy,SortByDescending")]BudgetViewModel budgetViewModel)
         {
+            Console.WriteLine("----------");
+            Console.WriteLine($"SortBy: {budgetViewModel.SortBy}");
+            Console.WriteLine($"SortByDescending: {budgetViewModel.SortByDescending}");
+            
             if (!ModelState.IsValid)
                 return BadRequest("Uh oh... looks like something went wrong on our end :(");
             
@@ -91,7 +95,6 @@ namespace BudgetPeeker.Controllers
                     where m.Year == budgetViewModel.FiscalYear
                     select m;
             
-
             if (useAccountCategory)
                 model = from m in model
                     where m.AccountCategory == budgetViewModel.AccountCategory
@@ -107,6 +110,14 @@ namespace BudgetPeeker.Controllers
                     where m.OperatingUnitDescription == budgetViewModel.OperatingUnit
                     select m;
             
+            
+            //
+            // Avoid integer overflow if all data selected
+            var budgetSum = 0;
+            if (useAccountCategory || useFiscalYear || useDepartmentDivision || useOperatingUnit)
+                budgetSum = model.Sum(m => m.BudgetAmount ?? 0);
+            
+            
             // 
             // Get results based on user order selection
             var results = model;
@@ -115,6 +126,53 @@ namespace BudgetPeeker.Controllers
             var filteredAccountCategory = results.OrderBy(r => r.AccountCategory).Select(r => r.AccountCategory).Distinct().ToList();
             var filteredDepartmentDivision = results.OrderBy(r => r.DepartmentDivision).Select(r => r.DepartmentDivision).Distinct().ToList();
             var filteredOperatingUnit = results.OrderBy(r => r.OperatingUnitDescription).Select(r => r.OperatingUnitDescription).Distinct().ToList();
+            
+            
+            //
+            // Sort fields in descending order
+//            if (budgetViewModel.SortByDescending)
+//            {
+//                switch (budgetViewModel.SortBy)
+//                {
+//                    case "FiscalYear":
+//                        results = results.OrderByDescending(m => m.Year);
+//                        break;
+//                    case "DepartmentDivision":
+//                        results = results.OrderByDescending(m => m.DepartmentDivision);
+//                        break;
+//                    case "OperatingUnit":
+//                        results = results.OrderByDescending(m => m.OperatingUnitDescription);
+//                        break;
+//                    case "AccountCategory":
+//                        results = results.OrderByDescending(m => m.AccountCategory);
+//                        break;
+//                    default:
+//                        results = results.OrderByDescending(m => m.BudgetAmount);
+//                        break;
+//                }                
+//            }
+//            else
+//            {
+//                switch (budgetViewModel.SortBy)
+//                {
+//                    case "FiscalYear":
+//                        results = results.OrderBy(m => m.Year);
+//                        break;
+//                    case "DepartmentDivision":
+//                        results = results.OrderBy(m => m.DepartmentDivision);
+//                        break;
+//                    case "OperatingUnit":
+//                        results = results.OrderBy(m => m.OperatingUnitDescription);
+//                        break;
+//                    case "AccountCategory":
+//                        results = results.OrderBy(m => m.AccountCategory);
+//                        break;
+//                    default:
+//                        results = results.OrderBy(m => m.BudgetAmount);
+//                        break;
+//                }    
+//            }
+            
             
             //
             // Alter order based on user selection
@@ -128,6 +186,7 @@ namespace BudgetPeeker.Controllers
                     break;
             }  
             
+            
             //
             // Get results for CSV download
             var budgetResultsCsv = results.Select(r => new BudgetModel
@@ -140,20 +199,37 @@ namespace BudgetPeeker.Controllers
                 BudgetAmount = r.BudgetAmount
             }).ToList();
 
+            
             //
             // Export to CSV
             using (TextWriter writer = new StreamWriter("./wwwroot/BudgetData.csv"))
             {
                 var csv = new CsvWriter(writer);
+                
+                //
+                // Write selected fields at top of CSV
+                csv.WriteField(string.Concat("Fiscal Year: ", budgetViewModel.FiscalYear));             
+                csv.NextRecord();
+                csv.WriteField(string.Concat("Department Division: ", budgetViewModel.DepartmentDivision));             
+                csv.NextRecord();
+                csv.WriteField(string.Concat("Account Category: ", budgetViewModel.AccountCategory));             
+                csv.NextRecord();
+                csv.WriteField(string.Concat("Operating Unit: ", budgetViewModel.OperatingUnit));             
+                csv.NextRecord();
+                csv.WriteField(string.Concat("Budget Amount: ", budgetSum));             
+                csv.NextRecord();
+                
+                //
+                // Write all records to CSV
                 csv.WriteRecords(budgetResultsCsv);
             }
             
             //
-            // Page results if greater than 100 records
+            // Page results if greater than 50 records
             var count = results.Count();
-            if (count > _resultsPerPage)
+            if (count > ResultsPerPage)
             {
-                results = results.Skip(_resultsPerPage * (budgetViewModel.Page - 1)).Take(_resultsPerPage);
+                results = results.Skip(ResultsPerPage * (budgetViewModel.Page - 1)).Take(ResultsPerPage);
             }
             
             var budgetResults = results.Select(r => new BudgetModel
@@ -168,13 +244,8 @@ namespace BudgetPeeker.Controllers
 
             //
             // Get return results count and number of pages, initialize query list
-            var numberOfPages = count / _resultsPerPage == 0 ? 1 : count / _resultsPerPage + 1;
-            var budgetSum = 0;
-            
-            //
-            // Integer overflow if all data selected
-            if (useAccountCategory || useFiscalYear || useDepartmentDivision || useOperatingUnit)
-                budgetSum = model.Sum(m => m.BudgetAmount ?? 0);
+            var numberOfPages = count / ResultsPerPage == 0 ? 1 : count / ResultsPerPage + 1;
+
 
             //
             // Instantiate input selectors

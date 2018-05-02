@@ -14,5 +14,8 @@ namespace BudgetPeeker.Models
         public string DepartmentDivision { get; set; }
         public int Page { get; set; }
         public string OrderBudgetBy { get; set; }
+//        public readonly string[] SortBy = {"ascending", "descending"};
+        public string SortBy { get; set; }
+        public bool SortByDescending { get; set; }
     }
 }
