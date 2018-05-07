@@ -38,5 +38,14 @@ body {
 
 .budget-seeker-brand {
     font-family: 'Black Han Sans', sans-serif;
-    color: white;
+    color: white;   
+}
+
+#personal-link:hover {
+    transition-duration: 200ms;
+    -webkit-transform: scale(1.4);
+    -moz-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    -o-transform: scale(1.4);
+    transform: scale(1.4);
 }

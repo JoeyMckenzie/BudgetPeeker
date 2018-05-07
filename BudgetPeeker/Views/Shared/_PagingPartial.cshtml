@@ -4,49 +4,50 @@
 @if (Model.NumberOfPages > 1)
 {
     <form method="get" asp-controller="Budget" asp-action="Results" class="form-group">
-    @{
-        var previousPage = Model.InputSelectors.Page - 1;
-        var nextPage = Model.InputSelectors.Page + 1;
+        @{
+            var previousPage = Model.InputSelectors.Page - 1;
+            var nextPage = Model.InputSelectors.Page + 1;
 
-        //
-        // Limit pagination range to 5 pages
-        const int paginationRange = 5;
-    }
-    <div class="d-flex">
-        <ul class="pagination mx-auto">
-            <li class="@(Model.NumberOfPages == 1 || Model.InputSelectors.Page == 1 ? "page-item disabled" : "page-item")">
-                <button name="Page" type="submit" class="page-link" value="1">
-                    <i class="fas fa-angle-double-left"></i>
-                </button>
-            </li>
-            <li class="@(Model.InputSelectors.Page == 1 ? "page-item disabled" : "page-item")">
-                <button name="Page" type="submit" class="page-link" value="@(previousPage == 0 ? Model.NumberOfPages : previousPage)">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-            </li>
-            @for (int i = Model.NumberOfPages <= paginationRange ? 1 : (Model.InputSelectors.Page + paginationRange > Model.NumberOfPages ? Model.NumberOfPages - paginationRange : Model.InputSelectors.Page); i <= (Model.NumberOfPages <= paginationRange || Model.InputSelectors.Page + paginationRange >= Model.NumberOfPages ? Model.NumberOfPages : Model.InputSelectors.Page + paginationRange); i++)
-            {
-                <li class="@(Model.InputSelectors.Page == i ? "page-item active" : "page-item")">
-                    <button name="Page" type="submit" class="page-link" value="@i">@i</button>
+            //
+            // Limit pagination range to 5 pages
+            const int paginationRange = 5;
+        }
+        <div class="d-flex">
+            <ul class="pagination mx-auto">
+                <li class="@(Model.NumberOfPages == 1 || Model.InputSelectors.Page == 1 ? "page-item disabled" : "page-item")">
+                    <button name="Page" type="submit" class="page-link" value="1">
+                        <i class="fas fa-angle-double-left"></i>
+                    </button>
                 </li>
-            }
-            <li class="@(Model.InputSelectors.Page == Model.NumberOfPages ? "page-item disabled" : "page-item")">
-                <button name="Page" type="submit" class="page-link" value="@(nextPage > Model.NumberOfPages ? 1 : nextPage)">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
-            </li>
-            <li class="@(Model.NumberOfPages == 1 || Model.InputSelectors.Page == Model.NumberOfPages ? "page-item disabled" : "page-item")">
-                <button name="Page" type="submit" class="page-link" value="@Model.NumberOfPages">
-                    <i class="fas fa-angle-double-right"></i>
-                </button>
-            </li>
-        </ul>
-    </div>
+                <li class="@(Model.InputSelectors.Page == 1 ? "page-item disabled" : "page-item")">
+                    <button name="Page" type="submit" class="page-link" value="@(previousPage == 0 ? Model.NumberOfPages : previousPage)">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                </li>
+                @for (int i = Model.NumberOfPages <= paginationRange ? 1 : (Model.InputSelectors.Page + paginationRange > Model.NumberOfPages ? Model.NumberOfPages - paginationRange : Model.InputSelectors.Page); i <= (Model.NumberOfPages <= paginationRange || Model.InputSelectors.Page + paginationRange >= Model.NumberOfPages ? Model.NumberOfPages : Model.InputSelectors.Page + paginationRange); i++)
+                {
+                    <li class="@(Model.InputSelectors.Page == i ? "page-item active" : "page-item")">
+                        <button name="Page" type="submit" class="page-link" value="@i">@i</button>
+                    </li>
+                }
+                <li class="@(Model.InputSelectors.Page == Model.NumberOfPages ? "page-item disabled" : "page-item")">
+                    <button name="Page" type="submit" class="page-link" value="@(nextPage > Model.NumberOfPages ? 1 : nextPage)">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </li>
+                <li class="@(Model.NumberOfPages == 1 || Model.InputSelectors.Page == Model.NumberOfPages ? "page-item disabled" : "page-item")">
+                    <button name="Page" type="submit" class="page-link" value="@Model.NumberOfPages">
+                        <i class="fas fa-angle-double-right"></i>
+                    </button>
+                </li>
+            </ul>
+        </div>
 
-    <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
-    <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
-    <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
-    <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
-    <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
-</form>
+        <input type="hidden" name="FiscalYear" value="@Model.InputSelectors.FiscalYear"/>
+        <input type="hidden" name="AccountCategory" value="@Model.InputSelectors.AccountCategory"/>
+        <input type="hidden" name="DepartmentDivision" value="@Model.InputSelectors.DepartmentDivision"/>
+        <input type="hidden" name="OperatingUnit" value="@Model.InputSelectors.OperatingUnit"/>
+        <input type="hidden" name="OrderBudgetBy" value="@Model.InputSelectors.OrderBudgetBy"/>
+        <input type="hidden" name="SortBy" value="@Model.InputSelectors.SortBy"/>
+    </form>
 }

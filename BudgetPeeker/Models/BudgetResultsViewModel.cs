@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using Microsoft.Extensions.Primitives;
 
 namespace BudgetPeeker.Models
 {
@@ -8,22 +9,15 @@ namespace BudgetPeeker.Models
     {
         public List<BudgetModel> QueryResults { get; set; }
         public BudgetViewModel InputSelectors { get; set; }
-        public BudgetViewModel PreviousResults { get; set; }
         public int ResultsCount { get; set; }
         public int? TotalBudget { get; set; }
         [Display(Name = "Number of pages")]
         public int NumberOfPages { get; set; }
         public int Page { get; set; }
-        public Dictionary<int,IQueryable<ApprovedBudget>> PageQueryResults { get; set; }
-        [Display(Name = "Order Budget By")] 
+        [Display(Name = "Order budget by")] 
         public string OrderBudgetBy { get; set; }
-        
-        //
-        // Filtered values
+        [Display(Name = "Sort fields by")]
+        public string SortBy { get; set; }
         public FilteredBudgetLists FilteredBudgetLists { get; set; }
-        public string FilteredFiscalYear { get; set; }
-        public string FilteredAccountCategory { get; set; }
-        public string FilteredDepartmentDivision { get; set; }
-        public string FilteredOperatingUnit { get; set; }
     }
 }

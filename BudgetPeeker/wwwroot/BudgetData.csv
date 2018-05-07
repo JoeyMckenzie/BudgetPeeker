@@ -1,238 +1,111 @@
 Fiscal Year: All fiscal years
-Department Division: All department divisions
-Account Category: Employer Paid Taxes
-Operating Unit: Community Development
-Budget Amount: 6614412
+Department Division: Animal Care Services-CDD Division
+Account Category: All account categories
+Operating Unit: All operating units
+Budget Amount: 4698969
 Id,FiscalYear,OperatingUnit,AccountCategory,DepartmentDivision,BudgetAmount
-36473,FY18,Community Development,Employer Paid Taxes,Building Division,142190
-36563,FY18,Community Development,Employer Paid Taxes,Planning Division,140885
-33005,FY17,Community Development,Employer Paid Taxes,Building Division,132472
-16988,FY16,Community Development,Employer Paid Taxes,Building Division,130310
-33070,FY17,Community Development,Employer Paid Taxes,Planning Division,124306
-36674,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,121989
-36442,FY18,Community Development,Employer Paid Taxes,Customer Service Division,120541
-18198,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,118927
-18049,FY16,Community Development,Employer Paid Taxes,Planning Division,116655
-4876,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,113862
-33223,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,113419
-27961,FY17,Community Development,Employer Paid Taxes,Customer Service Division,111621
-4644,FY15,Community Development,Employer Paid Taxes,Building Division,109369
-36783,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,108732
-4944,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,99545
-33291,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,95858
-16926,FY16,Community Development,Employer Paid Taxes,Administration Division,94544
-36512,FY18,Community Development,Employer Paid Taxes,Building Division,92284
-4594,FY15,Community Development,Employer Paid Taxes,Administration Division,88809
-16939,FY16,Community Development,Employer Paid Taxes,Customer Service Division,86796
-18283,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,85753
-36476,FY18,Community Development,Employer Paid Taxes,Building Division,79984
-33051,FY17,Community Development,Employer Paid Taxes,Building Division,79700
-36533,FY18,Community Development,Employer Paid Taxes,Planning Division,79213
-33428,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,76217
-36916,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,74793
-4722,FY15,Community Development,Employer Paid Taxes,Planning Division,69439
-36677,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,68422
-36403,FY18,Community Development,Employer Paid Taxes,Administration Division,67412
-18421,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,67201
-36445,FY18,Community Development,Employer Paid Taxes,Customer Service Division,67017
-18025,FY16,Community Development,Employer Paid Taxes,Building Division,63767
-27898,FY17,Community Development,Employer Paid Taxes,Administration Division,63219
-36786,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,60451
-4767,FY15,Community Development,Employer Paid Taxes,Planning Division,57568
-33431,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,56549
-4686,FY15,Community Development,Employer Paid Taxes,Building Division,52727
-36585,FY18,Community Development,Employer Paid Taxes,Planning Division,52548
-36735,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,52222
-33260,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,52024
-36515,FY18,Community Development,Employer Paid Taxes,Building Division,51307
-4622,FY15,Community Development,Employer Paid Taxes,Customer Service Division,51046
-4949,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,50453
-18247,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,50193
-18415,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,49650
-18096,FY16,Community Development,Employer Paid Taxes,Planning Division,48822
-4925,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,48431
-33119,FY17,Community Development,Employer Paid Taxes,Planning Division,48131
-4648,FY15,Community Development,Employer Paid Taxes,Building Division,46883
-36970,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,44313
-36886,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,42503
+18373,FY16,Community Development,Salaries,Animal Care Services-CDD Division,675362
+18374,FY16,Community Development,Interfund Reimbursement,Animal Care Services-CDD Division,-150791
+18375,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,104890
+18376,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,-5672
+18377,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,5705
 18378,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,41872
-36919,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,41582
-4883,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,41103
-33395,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,39819
-36406,FY18,Community Development,Employer Paid Taxes,Administration Division,39208
-33462,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,38722
-18125,FY16,Community Development,Employer Paid Taxes,Planning Division,38269
-4786,FY15,Community Development,Employer Paid Taxes,Planning Division,36890
-36624,FY18,Community Development,Employer Paid Taxes,Planning Division,35719
-33158,FY17,Community Development,Employer Paid Taxes,Planning Division,33772
-36474,FY18,Community Development,Employer Paid Taxes,Building Division,33645
-36564,FY18,Community Development,Employer Paid Taxes,Planning Division,33321
-33294,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,33314
-27964,FY17,Community Development,Employer Paid Taxes,Customer Service Division,32205
-18450,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,31872
-33006,FY17,Community Development,Employer Paid Taxes,Building Division,31449
-18286,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,31182
-16989,FY16,Community Development,Employer Paid Taxes,Building Division,30476
-33071,FY17,Community Development,Employer Paid Taxes,Planning Division,29295
-36588,FY18,Community Development,Employer Paid Taxes,Planning Division,29215
-18381,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,29174
-36738,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,29034
-36675,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,28782
-36443,FY18,Community Development,Employer Paid Taxes,Customer Service Division,28191
-33398,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,27961
-18199,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,27814
-4813,FY15,Community Development,Employer Paid Taxes,Planning Division,27799
-18050,FY16,Community Development,Employer Paid Taxes,Planning Division,27665
-33224,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,26858
-36849,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,26810
-16942,FY16,Community Development,Employer Paid Taxes,Customer Service Division,26741
-4875,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,26629
-18201,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,26601
-27962,FY17,Community Development,Employer Paid Taxes,Customer Service Division,26130
-33226,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,26124
-4650,FY15,Community Development,Employer Paid Taxes,Building Division,25656
-36784,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,25429
-4687,FY15,Community Development,Employer Paid Taxes,Building Division,25418
-36655,FY18,Community Development,Employer Paid Taxes,Planning Division,25362
-33172,FY17,Community Development,Employer Paid Taxes,Planning Division,24750
-36973,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,24719
-4833,FY15,Community Development,Employer Paid Taxes,Planning Division,24589
-36889,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,23630
-4926,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,23392
-18144,FY16,Community Development,Employer Paid Taxes,Planning Division,23305
-4943,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,23281
-16876,FY16,Community Development,Employer Paid Taxes,Administration Division,22681
-33361,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,22544
-33292,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,22418
-18052,FY16,Community Development,Employer Paid Taxes,Planning Division,22308
-33008,FY17,Community Development,Employer Paid Taxes,Building Division,21689
-4599,FY15,Community Development,Employer Paid Taxes,Administration Division,21627
-36513,FY18,Community Development,Employer Paid Taxes,Building Division,21582
-16991,FY16,Community Development,Employer Paid Taxes,Building Division,21018
-16940,FY16,Community Development,Employer Paid Taxes,Customer Service Division,20299
-33083,FY17,Community Development,Employer Paid Taxes,Planning Division,20204
-18284,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,20055
-36627,FY18,Community Development,Employer Paid Taxes,Planning Division,19859
-33465,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,18707
-33052,FY17,Community Development,Employer Paid Taxes,Building Division,18639
-33429,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,17825
-36917,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,17492
-18453,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,17444
-4727,FY15,Community Development,Employer Paid Taxes,Planning Division,16603
-36404,FY18,Community Development,Employer Paid Taxes,Administration Division,16493
-18422,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,15716
-16878,FY16,Community Development,Employer Paid Taxes,Administration Division,15642
-27899,FY17,Community Development,Employer Paid Taxes,Administration Division,15588
-18026,FY16,Community Development,Employer Paid Taxes,Building Division,14928
-4597,FY15,Community Development,Employer Paid Taxes,Administration Division,14915
-36852,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,14905
-36658,FY18,Community Development,Employer Paid Taxes,Planning Division,14100
-4725,FY15,Community Development,Employer Paid Taxes,Planning Division,13603
-4772,FY15,Community Development,Employer Paid Taxes,Planning Division,13463
-4625,FY15,Community Development,Employer Paid Taxes,Customer Service Division,13376
-33263,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,13356
-18250,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,12943
-33054,FY17,Community Development,Employer Paid Taxes,Building Division,12854
-4689,FY15,Community Development,Employer Paid Taxes,Building Division,12334
-36586,FY18,Community Development,Employer Paid Taxes,Planning Division,12289
-11037,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,12238
-36764,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,12213
-33261,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,12167
-4627,FY15,Community Development,Employer Paid Taxes,Customer Service Division,11938
-18248,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,11739
-18097,FY16,Community Development,Employer Paid Taxes,Planning Division,11418
-4924,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,11327
-33120,FY17,Community Development,Employer Paid Taxes,Planning Division,11281
-27901,FY17,Community Development,Employer Paid Taxes,Administration Division,10750
-36971,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,10398
-18028,FY16,Community Development,Employer Paid Taxes,Building Division,10296
-36887,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,9940
-33364,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,9854
 18379,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,9793
-33396,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,9312
-4770,FY15,Community Development,Employer Paid Taxes,Planning Division,9285
-33463,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,9180
-18126,FY16,Community Development,Employer Paid Taxes,Planning Division,8950
-4789,FY15,Community Development,Employer Paid Taxes,Planning Division,8627
-36625,FY18,Community Development,Employer Paid Taxes,Planning Division,8353
-18370,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,8191
-33159,FY17,Community Development,Employer Paid Taxes,Planning Division,7906
-11040,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,7895
-18099,FY16,Community Development,Employer Paid Taxes,Planning Division,7875
-33122,FY17,Community Development,Employer Paid Taxes,Planning Division,7780
-18451,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,7454
-36785,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,6510
-4812,FY15,Community Development,Employer Paid Taxes,Planning Division,6501
-36850,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,6270
-18128,FY16,Community Development,Employer Paid Taxes,Planning Division,6172
-4792,FY15,Community Development,Employer Paid Taxes,Planning Division,5950
-36656,FY18,Community Development,Employer Paid Taxes,Planning Division,5931
-36475,FY18,Community Development,Employer Paid Taxes,Building Division,5880
-33173,FY17,Community Development,Employer Paid Taxes,Planning Division,5788
-4832,FY15,Community Development,Employer Paid Taxes,Planning Division,5751
-4942,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,5670
-33007,FY17,Community Development,Employer Paid Taxes,Building Division,5460
-36444,FY18,Community Development,Employer Paid Taxes,Customer Service Division,5460
-36565,FY18,Community Development,Employer Paid Taxes,Planning Division,5460
-36676,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,5460
-33161,FY17,Community Development,Employer Paid Taxes,Planning Division,5452
-18145,FY16,Community Development,Employer Paid Taxes,Planning Division,5450
-33362,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,5272
-4874,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,5250
-16990,FY16,Community Development,Employer Paid Taxes,Building Division,5250
-18200,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,5250
-27963,FY17,Community Development,Employer Paid Taxes,Customer Service Division,5250
-33293,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,5250
-33225,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,4830
-33430,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,4830
-36918,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,4830
-18051,FY16,Community Development,Employer Paid Taxes,Planning Division,4620
-18285,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,4620
-18423,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,4620
-33072,FY17,Community Development,Employer Paid Taxes,Planning Division,4620
-4815,FY15,Community Development,Employer Paid Taxes,Planning Division,4484
-4649,FY15,Community Development,Employer Paid Taxes,Building Division,4410
-16941,FY16,Community Development,Employer Paid Taxes,Customer Service Division,4410
-33175,FY17,Community Development,Employer Paid Taxes,Planning Division,3992
-4598,FY15,Community Development,Employer Paid Taxes,Administration Division,3990
-16877,FY16,Community Development,Employer Paid Taxes,Administration Division,3990
-4835,FY15,Community Development,Employer Paid Taxes,Planning Division,3966
-36514,FY18,Community Development,Employer Paid Taxes,Building Division,3780
-18147,FY16,Community Development,Employer Paid Taxes,Planning Division,3759
-33053,FY17,Community Development,Employer Paid Taxes,Building Division,3150
-11036,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,2862
-4626,FY15,Community Development,Employer Paid Taxes,Customer Service Division,2730
-4726,FY15,Community Development,Employer Paid Taxes,Planning Division,2730
-27900,FY17,Community Development,Employer Paid Taxes,Administration Division,2730
-36405,FY18,Community Development,Employer Paid Taxes,Administration Division,2730
-18027,FY16,Community Development,Employer Paid Taxes,Building Division,2520
-36888,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,2520
-36972,FY18,Community Development,Employer Paid Taxes,Animal Care Services Division,2520
-4923,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,2310
-18249,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,2310
 18380,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,2310
-33262,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,2310
-33397,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,2310
-33464,FY17,Community Development,Employer Paid Taxes,Animal Care Services Division,2310
-36737,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,2310
-4688,FY15,Community Development,Employer Paid Taxes,Building Division,2100
-4771,FY15,Community Development,Employer Paid Taxes,Planning Division,2100
-18338,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,1916
+18381,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,29174
+18382,FY16,Community Development,"Fines, Forfeitures, &  Penalties",Animal Care Services-CDD Division,74000
+18383,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,900
+18384,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,3169
+18385,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,169
+18386,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,1809
+18387,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,33170
+18388,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,210
+18389,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,1365
+18390,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,3865
+18391,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,441
+18392,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,138
+18393,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,28
+18394,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,400
+18395,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,446
+18396,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,303
+18397,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,853
+18398,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,149
+18399,FY16,Community Development,Energy and Fuel,Animal Care Services-CDD Division,43653
+18400,FY16,Community Development,Books and Periodicals,Animal Care Services-CDD Division,120
+18401,FY16,Community Development,Other Objects,Animal Care Services-CDD Division,560
+18402,FY16,Community Development,Other Objects,Animal Care Services-CDD Division,50
+18403,FY16,Community Development,Property Accounts,Animal Care Services-CDD Division,433
+18404,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,117326
+18405,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,855
+18406,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,7847
+18407,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,5374
+18408,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,132380
+18409,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,5123
+18410,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,34
+18411,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,11143
+18412,FY16,Community Development,Food,Animal Care Services-CDD Division,77390
+18413,FY16,Community Development,Service & Supply Adjustments,Animal Care Services-CDD Division,2300
+18414,FY16,Community Development,Property Accounts,Animal Care Services-CDD Division,174
+18415,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,49650
+18416,FY16,Community Development,Salaries,Animal Care Services-CDD Division,1083883
+18417,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,231835
+18418,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,168338
+18419,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,-7892
+18420,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,9588
+18421,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,67201
+18422,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,15716
+18423,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,4620
+18424,FY16,Community Development,"Charges, Fees, & Services Accounts",Animal Care Services-CDD Division,10000
+18425,FY16,Community Development,"Charges, Fees, & Services Accounts",Animal Care Services-CDD Division,230000
+18426,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,153
+18427,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,286496
+18428,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,10447
+18429,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,202
+18430,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,21730
+18431,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,5432
+18432,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,1020
+18433,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,363
+18434,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,744
+18435,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,949
+18436,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,844
+18437,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,226
+18438,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,53
+18439,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,357
+18440,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,3500
+18441,FY16,Community Development,Licenses & Permits,Animal Care Services-CDD Division,358000
+18442,FY16,Community Development,Interfund SerProvided,Animal Care Services-CDD Division,10331
+18443,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,3593
+18444,FY16,Community Development,Purchased Prof and Tech Svcs,Animal Care Services-CDD Division,10859
+18445,FY16,Community Development,Salaries,Animal Care Services-CDD Division,514094
+18446,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,110379
+18447,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,79844
+18448,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,-1507
+18449,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,9628
+18450,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,31872
+18451,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,7454
 18452,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,1890
-36587,FY18,Community Development,Employer Paid Taxes,Planning Division,1890
-18098,FY16,Community Development,Employer Paid Taxes,Planning Division,1680
-33121,FY17,Community Development,Employer Paid Taxes,Planning Division,1680
-4788,FY15,Community Development,Employer Paid Taxes,Planning Division,1470
-18127,FY16,Community Development,Employer Paid Taxes,Planning Division,1470
-18340,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,1321
-33160,FY17,Community Development,Employer Paid Taxes,Planning Division,1260
-36626,FY18,Community Development,Employer Paid Taxes,Planning Division,1260
-36851,FY18,Community Development,Employer Paid Taxes,Code Enforcement Division,1260
-4811,FY15,Community Development,Employer Paid Taxes,Planning Division,1050
-33363,FY17,Community Development,Employer Paid Taxes,Code Enforcement Division,1050
-4831,FY15,Community Development,Employer Paid Taxes,Planning Division,840
-18146,FY16,Community Development,Employer Paid Taxes,Planning Division,840
-33174,FY17,Community Development,Employer Paid Taxes,Planning Division,840
-36657,FY18,Community Development,Employer Paid Taxes,Planning Division,840
-11035,FY15,Community Development,Employer Paid Taxes,Code Enforcement Division,630
-18339,FY16,Community Development,Employer Paid Taxes,Code Enforcement Division,420
+18453,FY16,Community Development,Employer Paid Taxes,Animal Care Services-CDD Division,17444
+18454,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,2761
+18455,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,387
+18456,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,11773
+18457,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,2083
+18458,FY16,Community Development,Purchased Property Services,Animal Care Services-CDD Division,4354
+18459,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,2477
+18460,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,212
+18461,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,656
+18462,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,49
+18463,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,40
+18464,FY16,Community Development,Other Purchased Services,Animal Care Services-CDD Division,4
+18465,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,264
+18466,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,11325
+18467,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,8
+18468,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,16880
+18469,FY16,Community Development,General Supplies,Animal Care Services-CDD Division,843
+18470,FY16,Community Development,Energy and Fuel,Animal Care Services-CDD Division,52312
+18471,FY16,Community Development,Books and Periodicals,Animal Care Services-CDD Division,149
+18472,FY16,Community Development,Other Objects,Animal Care Services-CDD Division,111
+18473,FY16,Community Development,Other Objects,Animal Care Services-CDD Division,484
+18474,FY16,Community Development,Other Objects,Animal Care Services-CDD Division,70
+18475,FY16,Community Development,Service & Supply Adjustments,Animal Care Services-CDD Division,2600
+18476,FY16,Community Development,Property Accounts,Animal Care Services-CDD Division,871
+18477,FY16,Community Development,Employee Benefits,Animal Care Services-CDD Division,100

@@ -11922,6 +11922,8 @@
     ".NETCoreApp,Version=v2.1": [
       "CsvHelper >= 7.1.0",
       "Microsoft.AspNetCore.App >= 2.1.0-preview1-final",
+      "Microsoft.AspNetCore.Http.Extensions >= 2.1.0-preview1-final",
+      "Microsoft.AspNetCore.WebUtilities >= 2.1.0-preview1-final",
       "Microsoft.EntityFrameworkCore.Sqlite >= 2.1.0-preview1-final",
       "Microsoft.Extensions.Logging >= 2.1.0-preview1-final",
       "Microsoft.NETCore.App >= 2.1.0-preview1-26216-03"
@@ -11972,6 +11974,14 @@
             "version": "[7.1.0, )"
           },
           "Microsoft.AspNetCore.App": {
+            "target": "Package",
+            "version": "[2.1.0-preview1-final, )"
+          },
+          "Microsoft.AspNetCore.Http.Extensions": {
+            "target": "Package",
+            "version": "[2.1.0-preview1-final, )"
+          },
+          "Microsoft.AspNetCore.WebUtilities": {
             "target": "Package",
             "version": "[2.1.0-preview1-final, )"
           },
