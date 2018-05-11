@@ -41,6 +41,17 @@ body {
     color: white;   
 }
 
+
+/* Link hover transition */ 
+#personal-link {
+    -webkit-transition-duration: 200ms;
+    -moz-transition-duration: 200ms;
+    -ms-transition-duration: 200ms;
+    -o-transition-duration: 200ms;
+    transition-duration: 200ms;
+    transition-timing-function: ease-in-out;
+}
+
 #personal-link:hover {
     transition-duration: 200ms;
     -webkit-transform: scale(1.4);
